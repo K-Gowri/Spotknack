@@ -132,7 +132,7 @@ margin-left: 30px;
     width: 138px;
     height: 31px;
     position: absolute;
-    margin: 425px 100px 12px 845px;
+    margin: 105px 100px 12px 2px;
     font-family: Inter;
     font-size: 20px;
     font-weight: normal;
@@ -189,4 +189,80 @@ margin-left: 30px;
     transform: rotate(-0deg);
     opacity: 0.7;
     background-color: #000;
+  }
+  .game{
+    width: 586px;
+    height: 53px;
+    margin: 130px 28px 35px 55px;
+    font-family: Poppins;
+    font-size: 40px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #000;
+  }
+  .Rectangle-1 {
+    width: 449px;
+    height: 100px;
+    flex-grow: 0;
+    position: absolute;
+    margin: 695px 190px 125px 505px;
+    padding: 20px 50px 20px 20px;
+    border-radius: 15px;
+    background-color: #000;
+  }
+  .Maran {
+    width: 250px;
+    height: 19px;
+    flex-grow: 0;
+    margin: 30px 40px 5px 95px;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1;
+    letter-spacing: normal;
+    text-align: left;
+    color: white;
+    font-weight: bold;
+  }
+  .Front-End-Developer {
+    width: 134px;
+    height: 17px;
+    flex-grow: 0;
+    margin: 5px 114px 15px 95px;
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 300;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.14;
+    letter-spacing: normal;
+    text-align: left;
+    color: white;
+  }
+  .profit-white-1 {
+    width: 35px;
+    height: 35px;
+    flex-grow: 0;
+    margin: -25px 16px 5px 45px;
+  }
+  .pin {
+    width: 56px;
+    height: 19px;
+    flex-grow: 0;
+    margin: 5px 0 6px 390px;
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1;
+    letter-spacing: normal;
+    text-align: left;
+    color: #fff;
   }
