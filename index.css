@@ -1,0 +1,192 @@
+*{
+    margin:0;
+    top:0;
+    bottom:0;
+}
+
+.mac {
+  
+        position:absolute;
+        margin-top: 17px;
+        margin-left: -122px;
+      
+}
+.Spotknack-Logo{
+    width: 300px;
+   
+    margin: 30px 110px 13px 30px;
+  }
+  .nav-bar li{
+    display: inline-block;
+    list-style-type: none;
+   height: 100px;
+  }
+  .dot{
+   width: 29px;
+  
+   position: absolute;
+  margin-top: 2px;
+  }
+  .Leaderboard {
+    width: 163px;
+    height: 38px;
+    margin-top: -37px;
+margin-left: 30px;
+    opacity: 0.7;
+    font-family: Poppins;
+    font-size: 25px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #000;
+  }
+  .Proofs {
+    width: 81px;
+    height: 38px;
+    margin: 0 117px 177px 5px;
+    opacity: 0.7;
+    font-family: Poppins;
+    font-size: 25px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #000;
+  }
+  
+  .Top-Performers {
+    margin-left: 522px;
+    width: 199px;
+    height: 37px;
+    position: relative;
+  margin-top: 15px;
+    font-family: Poppins;
+    font-size: 25px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #000;
+  }
+  .growth {
+    width: 614px;
+    height: 170px;
+    margin: 173.3px 60px 20px 55px;
+    font-family: Poppins;
+    font-size: 60px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #000;
+  }
+  .talent {
+    width: 438px;
+    height: 62px;
+    position: relative;
+   
+    margin: -11px 46px 20px 55px;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.55;
+    letter-spacing: normal;
+    text-align: left;
+    color: #000;
+  }
+  .linkedin {
+    width: 50px;
+    height: 50px;
+   
+  }
+  .side{
+    margin: 320.3px 137px 15px 845px;
+    position: absolute;
+  }
+  .spa{
+    width: 99px;
+    height: 60px;
+    margin: 5px 19px 15px -2px;
+    font-family: Poppins;
+    font-size: 40px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #000;
+  }
+  .LinkedIn-Posts {
+    width: 138px;
+    height: 31px;
+    position: absolute;
+    margin: 425px 100px 12px 845px;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.55;
+    letter-spacing: normal;
+    text-align: left;
+    color: #000;
+  }
+  .linkedin-2 {
+    width: 50px;
+    height: 50px;
+    margin: 252.3px 137px 5px 49px;
+  }
+  .Coins-Earned {
+    width: 126px;
+    height: 31px;
+    margin: -15px 61px 102px 1099px;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.55;
+    letter-spacing: normal;
+    text-align: left;
+    color: #000;
+  } 
+  .spa-1{
+    width: 127px;
+    height: 60px;
+    margin: 2px 60px 5px 49px;
+    font-family: Poppins;
+    font-size: 40px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #000;
+  }
+  .free{
+    position:relative;
+    margin-left: 1054px;
+    margin-top: -464px;
+  }
+  .line {
+    width: 1px;
+    height: 161px;
+    margin: 293px 49px 112px 1027px;
+    position:absolute;
+    transform: rotate(-0deg);
+    opacity: 0.7;
+    background-color: #000;
+  }

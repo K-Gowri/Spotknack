@@ -1,0 +1,1001 @@
+id,user_id,transaction_detail,total_coins,coins,created_at,updated_at,category
+1,32,"You have earned 20 coins for sharing an update on LinkedIn.",20,20,"2021-12-12 14:59:49","2021-12-21 16:26:24",li
+2,32,"You have earned 15 coins for sharing an update on LinkedIn.",35,15,"2021-12-12 14:59:57","2021-12-21 16:26:31",li
+3,81," Hey Friend, good you got 40 coins for the TODO list",40,40,"2021-12-12 17:02:45","2021-12-21 16:30:25",te
+4,82," Hey Friend, good you got 40 coins for the TODO list",40,40,"2021-12-12 17:03:15","2021-12-21 16:30:28",te
+5,81,"Good progress friend, you got 50 coins for completing a roadmap in your career.",90,50,"2021-12-12 17:03:41","2021-12-21 16:27:59",rm
+6,81,"Good progress friend, you got 25 coins for completing a roadmap in your career.",115,25,"2021-12-12 17:03:53","2021-12-21 16:27:56",rm
+7,81,"Good progress friend, you got 50 coins for completing a roadmap in your career.",165,50,"2021-12-12 17:04:03","2021-12-21 16:27:54",rm
+8,82,"Good progress friend, you got 25 coins for completing a roadmap in your career.",65,25,"2021-12-12 17:04:29","2021-12-21 16:27:51",rm
+9,82,"Good progress friend, you got 50 coins for completing a roadmap in your career.",115,50,"2021-12-12 17:04:35","2021-12-21 16:27:49",rm
+10,82,"Good progress friend, you got 25 coins for completing a roadmap in your career.",140,25,"2021-12-12 17:04:41","2021-12-21 16:27:47",rm
+11,80,"Good progress friend, you got 25 coins for completing a roadmap in your career.",25,25,"2021-12-12 17:04:57","2021-12-21 16:27:44",rm
+12,80,"Good progress friend, you got 25 coins for completing a roadmap in your career.",50,25,"2021-12-12 17:06:03","2021-12-21 16:27:42",rm
+13,43,"You have earned 30 coins for sharing an update on LinkedIn.",30,30,"2021-12-12 21:50:36","2021-12-21 16:26:55",li
+14,43,"You have earned 30 coins for sharing an update on LinkedIn.",60,30,"2021-12-12 21:51:10","2021-12-21 16:27:02",li
+15,43,"You have earned 15 coins for sharing an update on LinkedIn.",75,15,"2021-12-12 21:51:24","2021-12-21 16:27:05",li
+16,32,"You have earned 15 coins for sharing an update on LinkedIn.",50,15,"2021-12-12 21:51:43","2021-12-21 16:27:07",li
+17,32,"You have earned 15 coins for sharing an update on LinkedIn.",65,15,"2021-12-12 21:51:55","2021-12-21 16:27:10",li
+18,32,"You have earned 30 coins for sharing an update on LinkedIn.",95,30,"2021-12-12 21:52:08","2021-12-21 16:27:12",li
+19,32,"You have earned 30 coins for sharing an update on LinkedIn.",125,30,"2021-12-12 21:52:19","2021-12-21 16:27:16",li
+20,32,"You have earned 30 coins for sharing an update on LinkedIn.",155,30,"2021-12-12 21:52:32","2021-12-21 16:27:19",li
+21,32,"You have earned 30 coins for sharing an update on LinkedIn.",185,30,"2021-12-12 21:52:48","2021-12-21 16:27:23",li
+22,32,"You have earned 30 coins for sharing an update on LinkedIn.",215,30,"2021-12-12 21:53:05","2021-12-21 16:27:25",li
+23,32,"You have earned 15 coins for sharing an update on LinkedIn.",230,15,"2021-12-12 21:53:16","2021-12-21 16:27:28",li
+24,28,"You have earned 100 coins for the project Calculator",100,100,"2021-12-14 12:23:55","2021-12-21 16:30:39",te
+25,28,"You have earned 100 coins for the project ToDoApp",200,100,"2021-12-14 12:24:05","2021-12-21 16:30:41",te
+26,90," Hey Friend, good you got 20 coins for the Linkedin Profile",20,20,"2021-12-15 19:45:07","2021-12-21 16:29:22",te
+27,96," Hey Friend, good you got 20 coins for the Linkedin Profile",20,20,"2021-12-15 20:13:01","2021-12-21 16:29:27",te
+28,88," Hey Friend, good you got 10 coins for the Linkedin Profile",10,10,"2021-12-15 23:18:07","2021-12-21 16:29:30",te
+29,89," Hey Friend, good you got 20 coins for the Linkedin Profile",20,20,"2021-12-15 23:19:08","2021-12-21 16:29:32",te
+30,98," Hey Friend, good you got 10 coins for the Linkedin Profile",10,10,"2021-12-15 23:19:57","2021-12-21 16:29:34",te
+31,91," Hey Friend, good you got 20 coins for the Linkedin Profile",20,20,"2021-12-15 23:20:31","2021-12-21 16:29:37",te
+32,94," Hey Friend, good you got 20 coins for the Linkedin Profile",20,20,"2021-12-15 23:21:03","2021-12-21 16:29:40",te
+33,92," Hey Friend, good you got 20 coins for the Linkedin Profile",20,20,"2021-12-15 23:21:41","2021-12-21 16:29:52",te
+34,93," Hey Friend, good you got 20 coins for the Linkedin Profile",20,20,"2021-12-15 23:22:23","2021-12-21 16:30:53",te
+35,86,"You have won 50 coins for submitting the CSS - Restructuring the Sample University web Page on time. Keep going!",50,50,"2021-12-16 18:21:57","2021-12-21 16:31:16",tot
+36,89,"Good progress friend, you got 25 coins for completing a roadmap in your career.",45,25,"2021-12-17 09:40:37","2021-12-21 16:28:26",rm
+37,90,"Good progress friend, you got 25 coins for completing a roadmap in your career.",45,25,"2021-12-17 09:40:49","2021-12-21 16:28:31",rm
+38,91,"Good progress friend, you got 25 coins for completing a roadmap in your career.",45,25,"2021-12-17 09:41:03","2021-12-21 16:28:35",rm
+39,92,"Good progress friend, you got 25 coins for completing a roadmap in your career.",45,25,"2021-12-17 09:41:18","2021-12-21 16:28:38",rm
+40,93,"Good progress friend, you got 25 coins for completing a roadmap in your career.",45,25,"2021-12-17 09:41:29","2021-12-21 16:28:40",rm
+41,94,"Good progress friend, you got 25 coins for completing a roadmap in your career.",45,25,"2021-12-17 09:41:40","2021-12-21 16:28:42",rm
+42,96,"Good progress friend, you got 25 coins for completing a roadmap in your career.",45,25,"2021-12-17 09:41:53","2021-12-21 16:28:45",rm
+43,98,"Good progress friend, you got 25 coins for completing a roadmap in your career.",35,25,"2021-12-17 09:42:04","2021-12-21 16:28:47",rm
+44,85,"You have won 50 coins for submitting the Task - A Simple Project using Flex and Media Queries on time. Keep going!",50,50,"2021-12-17 21:01:07","2021-12-21 16:31:34",tot
+45,85,"You have won 50 coins for submitting the CSS - Styling of components on time. Keep going!",100,50,"2021-12-18 14:39:31","2021-12-21 16:31:38",tot
+46,94,"You have won 50 coins for submitting the Basic Web Page with HTML on time. Keep going!",95,50,"2021-12-18 23:27:28","2021-12-21 16:31:41",tot
+47,95," Hey Friend, good you got 20 coins for the Linkedin Profile",20,20,"2021-12-23 21:24:11","2021-12-23 21:37:52",te
+48,76," Hey Friend, good you got 10 coins for the Git Hub Profile",10,10,"2021-12-23 21:36:45","2021-12-23 21:37:57",te
+50,71," Hey Friend, good you got 10 coins for the Git Hub Profile",10,10,"2021-12-23 21:51:29","2021-12-25 23:11:01",te
+51,88,"Good progress friend, you got 25 coins for completing a roadmap in your career.",35,25,"2021-12-23 22:09:05","2021-12-25 23:11:13",rm
+52,95,"Good progress friend, you got 25 coins for completing a roadmap in your career.",45,25,"2021-12-23 22:09:15","2021-12-25 23:11:16",rm
+53,41,"Good progress friend, you got 25 coins for completing a roadmap in your career.",25,25,"2021-12-23 22:13:28","2021-12-25 23:11:28",rm
+54,85," Hey Friend, good you got 40 coins for the Task - A Simple Project using Flex and Media Queries",140,40,"2021-12-25 12:27:21","2021-12-25 23:11:31",te
+55,86," Hey Friend, good you got 20 coins for the CSS - Restructuring the Sample University web Page",70,20,"2021-12-25 12:28:01","2021-12-25 23:11:34",te
+56,85," Hey Friend, good you got 40 coins for the CSS - Restructuring the Sample University web Page",180,40,"2021-12-25 12:28:20","2021-12-25 23:11:38",te
+57,85," Hey Friend, good you got 40 coins for the CSS - Styling of components",220,40,"2021-12-25 12:28:37","2021-12-25 23:11:41",te
+58,35,"You lost 10 coins for the redo of Prepare  presentation for browser internals Tasks.",-10,-10,"2021-12-25 23:06:24","2021-12-25 23:06:24",rd
+59,73," Hey Friend, good you got 50 coins for the Linkedin-task4-Javascript",50,50,"2021-12-25 23:07:36","2021-12-25 23:07:36",te
+60,75,"You have earned 25 coins for sharing an update on Twitter.",25,25,"2021-12-26 12:20:02","2021-12-26 12:20:02",tw
+61,75,"You have earned 20 coins for sharing an update on LinkedIn.",45,20,"2021-12-26 12:20:09","2021-12-26 12:20:09",li
+62,90," Hey Friend, good you got 50 coins for the Basic Web Page with HTML",95,50,"2021-12-26 12:58:10","2021-12-26 12:58:10",te
+63,91," Hey Friend, good you got 40 coins for the Basic Web Page with HTML",85,40,"2021-12-26 13:00:52","2021-12-26 13:00:52",te
+64,92," Hey Friend, good you got 50 coins for the Basic Web Page with HTML",95,50,"2021-12-26 13:01:49","2021-12-26 13:01:49",te
+65,93," Hey Friend, good you got 50 coins for the Basic Web Page with HTML",95,50,"2021-12-26 13:02:45","2021-12-26 13:02:45",te
+66,94," Hey Friend, good you got 50 coins for the Basic Web Page with HTML",145,50,"2021-12-26 13:03:53","2021-12-26 13:03:53",te
+67,96," Hey Friend, good you got 50 coins for the Basic Web Page with HTML",95,50,"2021-12-26 13:04:53","2021-12-26 13:04:53",te
+68,98," Hey Friend, good you got 50 coins for the Basic Web Page with HTML",85,50,"2021-12-26 13:05:49","2021-12-26 13:05:49",te
+69,89," Hey Friend, good you got 50 coins for the Basic Web Page with HTML",95,50,"2021-12-26 18:18:58","2021-12-26 18:18:58",te
+70,80,"You lost 10 coins for the redo of TODO list Tasks.",40,-10,"2021-12-26 18:19:15","2021-12-26 18:19:15",rd
+71,85,"You have won 50 coins for submitting the Add Css Transistion and Animation to existing Projects on time. Keep going!",270,50,"2021-12-28 17:08:16","2021-12-28 17:08:16",tot
+72,32,"You have earned 20 coins for sharing an update on LinkedIn.",250,20,"2021-12-29 16:17:34","2021-12-29 16:17:34",li
+73,41,"You have won 50 coins for submitting the Design your app idea using Figma on time. Keep going!",75,50,"2021-12-29 20:18:45","2021-12-29 20:18:45",tot
+74,94,"You have won 50 coins for submitting the Git hub Repo on time. Keep going!",195,50,"2021-12-29 23:25:58","2021-12-29 23:25:58",tot
+75,94," Hey Friend, good you got 50 coins for the Git hub Repo",245,50,"2021-12-30 12:24:11","2021-12-30 12:24:11",te
+76,91," Hey Friend, good you got 50 coins for the Git hub Repo",135,50,"2021-12-30 21:08:21","2021-12-30 21:08:21",te
+77,92," Hey Friend, good you got 50 coins for the Git hub Repo",145,50,"2021-12-30 21:08:59","2021-12-30 21:08:59",te
+78,93," Hey Friend, good you got 50 coins for the Git hub Repo",145,50,"2021-12-30 21:09:29","2021-12-30 21:09:29",te
+79,95,"You lost 10 coins for the redo of Git Hub Profile Tasks.",35,-10,"2021-12-31 18:09:32","2021-12-31 18:09:32",rd
+80,88," Hey Friend, good you got 20 coins for the Git Hub Profile",55,20,"2022-01-01 12:54:53","2022-01-01 12:54:53",te
+81,91," Hey Friend, good you got 20 coins for the Git Hub Profile",155,20,"2022-01-01 20:35:21","2022-01-01 20:35:21",te
+82,92," Hey Friend, good you got 20 coins for the Git Hub Profile",165,20,"2022-01-01 20:36:44","2022-01-01 20:36:44",te
+83,93," Hey Friend, good you got 20 coins for the Git Hub Profile",165,20,"2022-01-01 20:37:30","2022-01-01 20:37:30",te
+84,94," Hey Friend, good you got 20 coins for the Git Hub Profile",265,20,"2022-01-01 20:38:30","2022-01-01 20:38:30",te
+85,32," Hey Friend, good you got 30 coins for the Design your app idea using Figma",280,30,"2022-01-01 20:39:17","2022-01-01 20:39:17",te
+86,75,"You have earned 30 coins for sharing an update on LinkedIn.",75,30,"2022-01-01 20:44:48","2022-01-01 20:44:48",li
+87,85," Hey Friend, good you got 40 coins for the Add Css Transistion and Animation to existing Projects",310,40,"2022-01-02 10:38:47","2022-01-02 10:38:47",te
+88,90," Hey Friend, good you got 20 coins for the Git Hub Profile",115,20,"2022-01-02 18:46:30","2022-01-02 18:46:30",te
+89,96," Hey Friend, good you got 20 coins for the Git Hub Profile",115,20,"2022-01-02 18:47:15","2022-01-02 18:47:15",te
+90,90,"Good progress friend, you got 25 coins for completing a roadmap in your career.",140,25,"2022-01-02 18:50:41","2022-01-02 18:50:41",rm
+91,94,"Good progress friend, you got 25 coins for completing a roadmap in your career.",290,25,"2022-01-02 18:50:55","2022-01-02 18:50:55",rm
+92,96,"Good progress friend, you got 25 coins for completing a roadmap in your career.",140,25,"2022-01-02 18:51:10","2022-01-02 18:51:10",rm
+93,93,"Good progress friend, you got 25 coins for completing a roadmap in your career.",190,25,"2022-01-02 18:51:25","2022-01-02 18:51:25",rm
+94,91,"Good progress friend, you got 25 coins for completing a roadmap in your career.",180,25,"2022-01-02 18:52:53","2022-01-02 18:52:53",rm
+95,92,"Good progress friend, you got 25 coins for completing a roadmap in your career.",190,25,"2022-01-02 18:53:17","2022-01-02 18:53:17",rm
+96,89," Hey Friend, good you got 50 coins for the Git hub Repo",145,50,"2022-01-02 19:51:11","2022-01-02 19:51:11",te
+97,90," Hey Friend, good you got 50 coins for the Git hub Repo",190,50,"2022-01-02 19:51:33","2022-01-02 19:51:33",te
+98,96," Hey Friend, good you got 50 coins for the Git hub Repo",190,50,"2022-01-02 19:51:48","2022-01-02 19:51:48",te
+99,96,"You have earned 15 coins for sharing an update on LinkedIn.",205,15,"2022-01-02 19:55:41","2022-01-02 19:55:41",li
+100,41,"You have earned 20 coins for sharing an update on LinkedIn.",95,20,"2022-01-02 19:55:57","2022-01-02 19:55:57",li
+101,43,"You have earned 20 coins for sharing an update on LinkedIn.",95,20,"2022-01-02 19:57:30","2022-01-02 19:57:30",li
+102,41,"You have earned 15 coins for sharing an update on LinkedIn.",110,15,"2022-01-02 19:57:47","2022-01-02 19:57:47",li
+103,41,"You have earned 15 coins for sharing an update on LinkedIn.",125,15,"2022-01-02 19:58:07","2022-01-02 19:58:07",li
+104,41,"You have earned 15 coins for sharing an update on LinkedIn.",140,15,"2022-01-02 19:58:20","2022-01-02 19:58:20",li
+105,41,"You have earned 30 coins for sharing an update on LinkedIn.",170,30,"2022-01-02 19:58:33","2022-01-02 19:58:33",li
+106,41,"You have earned 15 coins for sharing an update on LinkedIn.",185,15,"2022-01-02 19:58:44","2022-01-02 19:58:44",li
+107,41,"You have earned 30 coins for sharing an update on LinkedIn.",215,30,"2022-01-02 19:58:57","2022-01-02 19:58:57",li
+108,41,"You have earned 30 coins for sharing an update on LinkedIn.",245,30,"2022-01-02 19:59:11","2022-01-02 19:59:11",li
+109,41,"You have earned 20 coins for sharing an update on LinkedIn.",265,20,"2022-01-02 19:59:24","2022-01-02 19:59:24",li
+110,43," Hey Friend, good you got 10 coins for the Design your app idea using Figma",105,10,"2022-01-02 20:54:37","2022-01-02 20:54:37",te
+111,95,"You lost 25 coins for the redo of Git Hub Profile Tasks.",10,-25,"2022-01-02 22:27:41","2022-01-02 22:27:41",rd
+112,95,"You have earned 15 coins for sharing an update on LinkedIn.",25,15,"2022-01-02 22:29:28","2022-01-02 22:29:28",li
+113,32,"You have earned 20 coins for sharing an update on LinkedIn.",300,20,"2022-01-02 22:29:38","2022-01-02 22:29:38",li
+115,32," Hey Friend,  you got 200 coins for referring your friends.",500,200,"2022-01-03 12:02:11","2022-01-03 12:02:11",rr
+117,32," Hey Friend,  you got 100 coins for referring your friends.",600,100,"2022-01-03 12:04:33","2022-01-03 12:04:33",rr
+118,75," Hey Friend,  you got 100 coins for referring your friends.",175,100,"2022-01-03 12:05:36","2022-01-03 12:05:36",rr
+119,75," Hey Friend,  you got 100 coins for referring your friends.",275,100,"2022-01-03 12:10:37","2022-01-03 12:10:37",rr
+120,73," Hey Friend,  you got 200 coins for referring your friends.",250,200,"2022-01-03 12:11:52","2022-01-03 12:11:52",rr
+121,64," Hey Friend,  you got 200 coins for referring your friends.",200,200,"2022-01-03 12:13:50","2022-01-03 12:13:50",rr
+122,32," Hey Friend,  you got 200 coins for referring your friends.",800,200,"2022-01-03 12:16:14","2022-01-03 12:16:14",rr
+123,85,"You have won 50 coins for submitting the Web API's on time. Keep going!",360,50,"2022-01-03 17:16:46","2022-01-03 17:16:46",tot
+124,69," Hey Friend,  you got 300 coins for referring your friends.",300,300,"2022-01-03 17:33:10","2022-01-03 17:33:10",rr
+125,89,"Coins removed for the late submission of Youtube contact us page task",135,-10,"2022-01-04 12:15:12","2022-01-04 12:15:12",ptd
+126,59,"You have earned 30 coins for sharing an update on LinkedIn.",30,30,"2022-01-04 20:05:03","2022-01-04 20:05:03",li
+127,59,"You have earned 15 coins for sharing an update on LinkedIn.",45,15,"2022-01-04 20:05:16","2022-01-04 20:05:16",li
+128,94,"You have earned 20 coins for sharing an update on LinkedIn.",310,20,"2022-01-06 13:07:15","2022-01-06 13:07:15",li
+129,88,"You have earned 15 coins for sharing an update on LinkedIn.",70,15,"2022-01-07 11:21:54","2022-01-07 11:21:54",li
+130,98,"You lost 10 coins for the redo of Git Hub Profile Tasks.",75,-10,"2022-01-07 11:27:53","2022-01-07 11:27:53",rd
+131,31," Hey Friend, good you got 10 coins for the Solve Python Challenges",10,10,"2022-01-07 11:38:31","2022-01-07 11:38:31",te
+132,32," Hey Friend, good you got 30 coins for the Solve Java Challenges",830,30,"2022-01-07 11:38:59","2022-01-07 11:38:59",te
+133,41," Hey Friend, good you got 20 coins for the Android App Idea",285,20,"2022-01-07 11:39:55","2022-01-07 11:39:55",te
+134,51," Hey Friend, good you got 10 coins for the Android App Idea",10,10,"2022-01-07 11:40:35","2022-01-07 11:40:35",te
+135,41," Hey Friend, good you got 10 coins for the Solve Java Challenges",295,10,"2022-01-07 11:41:07","2022-01-07 11:41:07",te
+136,54," Hey Friend, good you got 10 coins for the Solve Java Challenges",10,10,"2022-01-07 11:43:47","2022-01-07 11:43:47",te
+137,52," Hey Friend, good you got 10 coins for the Android App Idea",10,10,"2022-01-07 11:45:09","2022-01-07 11:45:09",te
+138,41," Hey Friend, good you got 10 coins for the Java Challenge #1",305,10,"2022-01-07 11:45:45","2022-01-07 11:45:45",te
+139,54," Hey Friend, good you got 10 coins for the Java Challenge #1",20,10,"2022-01-07 11:46:11","2022-01-07 11:46:11",te
+140,41,"You lost 10 coins for the redo of Design your app idea using Figma Tasks.",295,-10,"2022-01-07 11:47:04","2022-01-07 11:47:04",rd
+141,51," Hey Friend, good you got 10 coins for the Java Challenge #1",20,10,"2022-01-07 11:47:32","2022-01-07 11:47:32",te
+142,53," Hey Friend, good you got 10 coins for the Android App Idea",10,10,"2022-01-07 11:47:58","2022-01-07 11:47:58",te
+143,59,"You have earned 20 coins for sharing an update on LinkedIn.",65,20,"2022-01-07 11:50:04","2022-01-07 11:50:04",li
+144,32,"You have earned 20 coins for sharing an update on LinkedIn.",850,20,"2022-01-07 11:50:15","2022-01-07 11:50:15",li
+145,75,"You have earned 20 coins for sharing an update on LinkedIn.",295,20,"2022-01-07 12:03:11","2022-01-07 12:03:11",li
+146,75,"You have earned 20 coins for sharing an update on LinkedIn.",315,20,"2022-01-07 12:03:19","2022-01-07 12:03:19",li
+147,75,"You have earned 20 coins for sharing an update on LinkedIn.",335,20,"2022-01-07 12:03:28","2022-01-07 12:03:28",li
+148,75,"You have earned 30 coins for sharing an update on LinkedIn.",365,30,"2022-01-07 12:03:41","2022-01-07 12:03:41",li
+149,75,"You have earned 30 coins for sharing an update on LinkedIn.",395,30,"2022-01-07 12:03:52","2022-01-07 12:03:52",li
+150,75,"You have earned 30 coins for sharing an update on LinkedIn.",425,30,"2022-01-07 12:04:16","2022-01-07 12:04:16",li
+151,75,"You have earned 30 coins for sharing an update on LinkedIn.",455,30,"2022-01-07 12:04:31","2022-01-07 12:04:31",li
+152,75,"You have earned 15 coins for sharing an update on LinkedIn.",470,15,"2022-01-07 12:04:44","2022-01-07 12:04:44",li
+153,94,"You have earned 20 coins for sharing an update on LinkedIn.",330,20,"2022-01-07 14:22:38","2022-01-07 14:22:38",li
+154,75,"You have earned 15 coins for sharing an update on LinkedIn.",485,15,"2022-01-07 14:32:16","2022-01-07 14:32:16",li
+155,54,"You have earned 30 coins for sharing an update on LinkedIn.",50,30,"2022-01-07 18:17:00","2022-01-07 18:17:00",li
+156,54,"You have earned 30 coins for sharing an update on LinkedIn.",80,30,"2022-01-07 18:17:12","2022-01-07 18:17:12",li
+157,54,"You have earned 30 coins for sharing an update on LinkedIn.",110,30,"2022-01-07 18:17:22","2022-01-07 18:17:22",li
+158,54,"You have earned 30 coins for sharing an update on LinkedIn.",140,30,"2022-01-07 18:17:32","2022-01-07 18:17:32",li
+159,51,"You have earned 15 coins for sharing an update on LinkedIn.",35,15,"2022-01-07 19:25:25","2022-01-07 19:25:25",li
+160,51,"You have earned 15 coins for sharing an update on LinkedIn.",50,15,"2022-01-07 19:25:54","2022-01-07 19:25:54",li
+161,51,"You have earned 15 coins for sharing an update on LinkedIn.",65,15,"2022-01-07 19:26:05","2022-01-07 19:26:05",li
+162,51,"You have earned 15 coins for sharing an update on LinkedIn.",80,15,"2022-01-07 19:26:37","2022-01-07 19:26:37",li
+163,51,"You have earned 15 coins for sharing an update on LinkedIn.",95,15,"2022-01-08 09:41:07","2022-01-08 09:41:07",li
+164,51,"You have earned 15 coins for sharing an update on LinkedIn.",110,15,"2022-01-08 09:41:18","2022-01-08 09:41:18",li
+165,73,"You have earned 15 coins for sharing an update on LinkedIn.",265,15,"2022-01-08 09:41:44","2022-01-08 09:41:44",li
+166,73,"You have earned 15 coins for sharing an update on LinkedIn.",280,15,"2022-01-08 09:41:53","2022-01-08 09:41:53",li
+167,98,"You lost 25 coins for the redo of Git Hub Profile Tasks.",50,-25,"2022-01-08 14:42:41","2022-01-08 14:42:41",rd
+168,64," Hey Friend, good you got 10 coins for the LinkedIn Profile",210,10,"2022-01-08 14:44:01","2022-01-08 14:44:01",te
+169,98," Hey Friend, good you got 10 coins for the Git Hub Profile",60,10,"2022-01-08 15:45:39","2022-01-08 15:45:39",te
+170,51,"You have earned 20 coins for sharing an update on LinkedIn.",130,20,"2022-01-08 19:26:09","2022-01-08 19:26:09",li
+171,43,"You have earned 30 coins for sharing an update on LinkedIn.",135,30,"2022-01-08 21:13:08","2022-01-08 21:13:08",li
+172,75,"You have earned 30 coins for sharing an update on LinkedIn.",515,30,"2022-01-08 21:13:30","2022-01-08 21:13:30",li
+173,95," Hey Friend, good you got 10 coins for the Git Hub Profile",35,10,"2022-01-09 12:34:22","2022-01-09 12:34:22",te
+174,58,"You lost 50 coins for the redo of Git Hub Profile Tasks.",-50,-50,"2022-01-09 12:35:04","2022-01-09 12:35:04",rd
+175,58," Hey Friend, good you got 10 coins for the Linkedin Profile",-40,10,"2022-01-09 12:35:53","2022-01-09 12:35:53",te
+176,54," Hey Friend, good you got 10 coins for the Design your app idea using Figma",150,10,"2022-01-09 12:36:52","2022-01-09 12:36:52",te
+177,51," Hey Friend, good you got 10 coins for the Design your app idea using Figma",140,10,"2022-01-09 12:38:20","2022-01-09 12:38:20",te
+178,51," Hey Friend, good you got 10 coins for the Solve Java Challenges",150,10,"2022-01-09 12:38:56","2022-01-09 12:38:56",te
+179,58,"You lost 100 coins for the redo of Git Hub Profile Tasks.",-140,-100,"2022-01-09 17:52:24","2022-01-09 17:52:24",rd
+180,41," Hey Friend, good you got 10 coins for the Design your app idea using Figma",305,10,"2022-01-09 17:53:32","2022-01-09 17:53:32",te
+181,41,"You have earned 20 coins for sharing an update on LinkedIn.",325,20,"2022-01-09 21:39:03","2022-01-09 21:39:03",li
+182,73,"You have earned 30 coins for sharing an update on LinkedIn.",310,30,"2022-01-09 21:39:15","2022-01-09 21:39:15",li
+183,75,"You have earned 20 coins for sharing an update on LinkedIn.",535,20,"2022-01-09 21:39:28","2022-01-09 21:39:28",li
+184,59,"You have earned 20 coins for sharing an update on LinkedIn.",85,20,"2022-01-09 23:30:12","2022-01-09 23:30:12",li
+185,31,"You have earned 15 coins for sharing an update on LinkedIn.",25,15,"2022-01-10 18:07:17","2022-01-10 18:07:17",li
+186,32,"You have earned 20 coins for sharing an update on LinkedIn.",870,20,"2022-01-10 18:47:08","2022-01-10 18:47:08",li
+187,75,"You have earned 20 coins for sharing an update on LinkedIn.",555,20,"2022-01-10 21:52:39","2022-01-10 21:52:39",li
+188,97," Hey Friend, good you got 10 coins for the Linkedin Profile",10,10,"2022-01-10 22:13:22","2022-01-10 22:13:22",te
+189,97,"Good progress friend, you got 25 coins for completing a roadmap in your career.",35,25,"2022-01-10 22:13:42","2022-01-10 22:13:42",rm
+190,98,"Good progress friend, you got 25 coins for completing a roadmap in your career.",85,25,"2022-01-10 22:13:54","2022-01-10 22:13:54",rm
+191,97," Hey Friend, good you got 20 coins for the Git Hub Profile",55,20,"2022-01-11 23:45:50","2022-01-11 23:45:50",te
+193,40,"Coins removed for the late submission of Design your app idea using Figma task",-10,-10,"2022-01-12 03:00:06","2022-01-12 03:00:06",ptd
+194,52,"Coins removed for the late submission of Design your app idea using Figma task",0,-10,"2022-01-12 03:00:07","2022-01-12 03:00:07",ptd
+195,64,"Coins removed for the late submission of Design your app idea using Figma task",200,-10,"2022-01-12 03:00:10","2022-01-12 03:00:10",ptd
+196,86,"Coins removed for the late submission of Add Css Transistion and Animation to existing Projects task",20,-50,"2022-01-12 03:00:12","2022-01-12 03:00:12",ptd
+197,86,"Coins removed for the late submission of Web API's task",10,-10,"2022-01-12 03:00:12","2022-01-12 03:00:12",ptd
+198,89,"Coins removed for the late submission of Youtube contact us page task",85,-50,"2022-01-12 03:00:12","2022-01-12 03:00:12",ptd
+199,89,"Coins removed for the late submission of Git Hub Profile task",35,-50,"2022-01-12 03:00:12","2022-01-12 03:00:12",ptd
+200,89,"Coins removed for the late submission of YouTube How it works page task",25,-10,"2022-01-12 03:00:12","2022-01-12 03:00:12",ptd
+201,91,"Coins removed for the late submission of YouTube How it works page task",170,-10,"2022-01-12 03:00:12","2022-01-12 03:00:12",ptd
+202,92,"Coins removed for the late submission of YouTube How it works page task",180,-10,"2022-01-12 03:00:12","2022-01-12 03:00:12",ptd
+203,93,"Coins removed for the late submission of YouTube How it works page task",180,-10,"2022-01-12 03:00:13","2022-01-12 03:00:13",ptd
+204,97,"Coins removed for the late submission of Youtube contact us page task",5,-50,"2022-01-12 03:00:13","2022-01-12 03:00:13",ptd
+205,97,"Coins removed for the late submission of YouTube How it works page task",-5,-10,"2022-01-12 03:00:13","2022-01-12 03:00:13",ptd
+206,99,"Coins removed for the late submission of Add Css Transistion and Animation to existing Projects task",-50,-50,"2022-01-12 03:00:14","2022-01-12 03:00:14",ptd
+207,99,"Coins removed for the late submission of Web API's task",-60,-10,"2022-01-12 03:00:14","2022-01-12 03:00:14",ptd
+208,88,"You have earned 15 coins for sharing an update on LinkedIn.",85,15,"2022-01-12 08:37:45","2022-01-12 08:37:45",li
+209,100,"You have earned 15 coins for sharing an update on LinkedIn.",15,15,"2022-01-12 14:11:20","2022-01-12 14:11:20",li
+210,100,"You have earned 15 coins for sharing an update on LinkedIn.",30,15,"2022-01-12 14:11:32","2022-01-12 14:11:32",li
+211,100,"You have earned 20 coins for sharing an update on LinkedIn.",50,20,"2022-01-12 14:11:47","2022-01-12 14:11:47",li
+212,73,"You have earned 20 coins for sharing an update on LinkedIn.",330,20,"2022-01-12 17:44:17","2022-01-12 17:44:17",li
+213,88,"You have earned 25 coins for sharing an update on Twitter.",110,25,"2022-01-12 21:21:00","2022-01-12 21:21:00",tw
+214,90," Hey Friend, good you got 50 coins for the Youtube contact us page",240,50,"2022-01-12 21:32:20","2022-01-12 21:32:20",te
+215,90," Hey Friend, good you got 50 coins for the YouTube How it works page",290,50,"2022-01-12 21:33:17","2022-01-12 21:33:17",te
+216,91," Hey Friend, good you got 50 coins for the Youtube contact us page",220,50,"2022-01-12 21:37:10","2022-01-12 21:37:10",te
+217,91," Hey Friend, good you got 50 coins for the YouTube How it works page",270,50,"2022-01-12 21:38:22","2022-01-12 21:38:22",te
+218,92," Hey Friend, good you got 50 coins for the Youtube contact us page",230,50,"2022-01-12 21:40:55","2022-01-12 21:40:55",te
+219,92," Hey Friend, good you got 50 coins for the YouTube How it works page",280,50,"2022-01-12 21:41:56","2022-01-12 21:41:56",te
+220,93," Hey Friend, good you got 50 coins for the Youtube contact us page",230,50,"2022-01-12 21:43:46","2022-01-12 21:43:46",te
+221,93," Hey Friend, good you got 50 coins for the YouTube How it works page",280,50,"2022-01-12 21:47:25","2022-01-12 21:47:25",te
+222,94," Hey Friend, good you got 50 coins for the Youtube contact us page",380,50,"2022-01-12 21:49:22","2022-01-12 21:49:22",te
+223,94," Hey Friend, good you got 50 coins for the YouTube How it works page",430,50,"2022-01-12 21:51:17","2022-01-12 21:51:17",te
+224,96," Hey Friend, good you got 50 coins for the Youtube contact us page",255,50,"2022-01-12 21:52:52","2022-01-12 21:52:52",te
+225,96," Hey Friend, good you got 50 coins for the YouTube How it works page",305,50,"2022-01-12 21:53:53","2022-01-12 21:53:53",te
+226,98," Hey Friend, good you got 50 coins for the Git hub Repo",135,50,"2022-01-12 21:55:04","2022-01-12 21:55:04",te
+227,98," Hey Friend, good you got 50 coins for the Youtube contact us page",185,50,"2022-01-12 21:58:08","2022-01-12 21:58:08",te
+230,40,"Coins removed for the late submission of Design your app idea using Figma task",-20,-10,"2022-01-13 03:00:07","2022-01-13 03:00:07",ptd
+231,52,"Coins removed for the late submission of Design your app idea using Figma task",-10,-10,"2022-01-13 03:00:08","2022-01-13 03:00:08",ptd
+232,64,"Coins removed for the late submission of Design your app idea using Figma task",190,-10,"2022-01-13 03:00:11","2022-01-13 03:00:11",ptd
+233,86,"Coins removed for the late submission of Web API's task",0,-10,"2022-01-13 03:00:13","2022-01-13 03:00:13",ptd
+234,97,"Coins removed for the late submission of Youtube contact us page task",-55,-50,"2022-01-13 03:00:13","2022-01-13 03:00:13",ptd
+235,97,"Coins removed for the late submission of YouTube How it works page task",-65,-10,"2022-01-13 03:00:13","2022-01-13 03:00:13",ptd
+236,99,"Coins removed for the late submission of Web API's task",-70,-10,"2022-01-13 03:00:14","2022-01-13 03:00:14",ptd
+237,53,"Coins removed for the late submission of Design your app idea using Figma task",-10,-20,"2022-01-14 03:00:05","2022-01-14 03:00:05",ptd
+238,98,"Coins removed for the late submission of YouTube How it works page task",175,-10,"2022-01-14 03:00:05","2022-01-14 03:00:05",ptd
+239,88,"You have earned 25 coins for sharing an update on Twitter.",135,25,"2022-01-14 15:00:09","2022-01-14 15:00:09",tw
+240,96,"You have earned 30 coins for sharing an update on LinkedIn.",335,30,"2022-01-14 15:00:22","2022-01-14 15:00:22",li
+241,101,"You have earned 20 coins for sharing an update on LinkedIn.",20,20,"2022-01-14 15:01:04","2022-01-14 15:01:04",li
+242,88,"You have earned 30 coins for sharing an update on LinkedIn.",165,30,"2022-01-14 20:06:19","2022-01-14 20:06:19",li
+243,98,"Coins removed for the late submission of YouTube How it works page task",155,-20,"2022-01-15 03:00:02","2022-01-15 03:00:02",ptd
+244,90,"You have earned 30 coins for sharing an update on LinkedIn.",320,30,"2022-01-15 17:22:49","2022-01-15 17:22:49",li
+245,93,"You have earned 30 coins for sharing an update on LinkedIn.",310,30,"2022-01-15 21:49:19","2022-01-15 21:49:19",li
+246,88,"You have earned 25 coins for sharing an update on Twitter.",190,25,"2022-01-15 21:49:39","2022-01-15 21:49:39",tw
+247,92,"You have earned 30 coins for sharing an update on LinkedIn.",310,30,"2022-01-15 21:50:03","2022-01-15 21:50:03",li
+248,98,"Coins removed for the late submission of YouTube How it works page task",135,-20,"2022-01-16 03:00:01","2022-01-16 03:00:01",ptd
+249,91,"You have earned 30 coins for sharing an update on LinkedIn.",300,30,"2022-01-16 09:07:35","2022-01-16 09:07:35",li
+250,85,"You have won 50 coins for submitting the Twitter API & Node JS on time. Keep going!",410,50,"2022-01-16 09:37:21","2022-01-16 09:37:21",tot
+251,94,"You have earned 30 coins for sharing an update on LinkedIn.",460,30,"2022-01-16 10:59:36","2022-01-16 10:59:36",li
+252,92,"You have earned 25 coins for sharing an update on Twitter.",335,25,"2022-01-16 11:38:01","2022-01-16 11:38:01",tw
+253,91,"You have earned 25 coins for sharing an update on Twitter.",325,25,"2022-01-16 18:33:07","2022-01-16 18:33:07",tw
+254,90,"Good progress friend, you got 75 coins for completing a roadmap in your career.",395,75,"2022-01-16 21:00:32","2022-01-16 21:00:32",rm
+255,90,"Good progress friend, you got 75 coins for completing a roadmap in your career.",470,75,"2022-01-16 21:00:38","2022-01-16 21:00:38",rm
+256,90,"Good progress friend, you got 50 coins for completing a roadmap in your career.",520,50,"2022-01-16 21:00:44","2022-01-16 21:00:44",rm
+257,98,"Coins removed for the late submission of YouTube How it works page task",105,-30,"2022-01-17 03:00:01","2022-01-17 03:00:01",ptd
+258,98,"Coins removed for the late submission of YouTube How it works page task",55,-50,"2022-01-18 03:00:01","2022-01-18 03:00:01",ptd
+259,92,"You have earned 30 coins for sharing an update on LinkedIn.",365,30,"2022-01-18 22:06:58","2022-01-18 22:06:58",li
+260,91,"You have earned 30 coins for sharing an update on LinkedIn.",355,30,"2022-01-18 22:07:26","2022-01-18 22:07:26",li
+261,91,"You have earned 25 coins for sharing an update on Twitter.",380,25,"2022-01-18 22:07:56","2022-01-18 22:07:56",tw
+262,98,"Coins removed for the late submission of YouTube How it works page task",5,-50,"2022-01-19 03:00:01","2022-01-19 03:00:01",ptd
+263,59,"You have earned 15 coins for sharing an update on LinkedIn.",100,15,"2022-01-19 15:02:58","2022-01-19 15:02:58",li
+264,90,"You have earned 30 coins for sharing an update on LinkedIn.",550,30,"2022-01-19 22:20:35","2022-01-19 22:20:35",li
+265,96,"You have earned 30 coins for sharing an update on LinkedIn.",365,30,"2022-01-19 22:21:05","2022-01-19 22:21:05",li
+266,96,"You have earned 30 coins for sharing an update on LinkedIn.",395,30,"2022-01-19 22:22:03","2022-01-19 22:22:03",li
+267,98,"Coins removed for the late submission of YouTube How it works page task",-45,-50,"2022-01-20 03:00:01","2022-01-20 03:00:01",ptd
+268,90,"You have earned 30 coins for sharing an update on LinkedIn.",580,30,"2022-01-20 12:09:48","2022-01-20 12:09:48",li
+269,73,"You have earned 20 coins for sharing an update on LinkedIn.",350,20,"2022-01-20 14:01:24","2022-01-20 14:01:24",li
+270,91,"You have earned 30 coins for sharing an update on LinkedIn.",410,30,"2022-01-20 16:26:34","2022-01-20 16:26:34",li
+271,100,"You have earned 20 coins for sharing an update on LinkedIn.",70,20,"2022-01-20 16:27:04","2022-01-20 16:27:04",li
+272,43,"You have earned 30 coins for sharing an update on LinkedIn.",165,30,"2022-01-20 16:27:18","2022-01-20 16:27:18",li
+273,94,"You have earned 30 coins for sharing an update on LinkedIn.",490,30,"2022-01-20 18:14:25","2022-01-20 18:14:25",li
+274,59,"You have earned 20 coins for sharing an update on LinkedIn.",120,20,"2022-01-20 18:14:37","2022-01-20 18:14:37",li
+275,88,"You have earned 30 coins for sharing an update on LinkedIn.",220,30,"2022-01-20 18:14:49","2022-01-20 18:14:49",li
+276,88,"You have earned 25 coins for sharing an update on Twitter.",245,25,"2022-01-20 18:55:51","2022-01-20 18:55:51",tw
+277,92,"You have earned 25 coins for sharing an update on Twitter.",390,25,"2022-01-20 21:09:10","2022-01-20 21:09:10",tw
+278,93,"You have earned 20 coins for sharing an update on LinkedIn.",330,20,"2022-01-20 21:09:36","2022-01-20 21:09:36",li
+279,101,"You have earned 15 coins for sharing an update on LinkedIn.",35,15,"2022-01-20 21:09:55","2022-01-20 21:09:55",li
+280,98,"Coins removed for the late submission of YouTube How it works page task",-95,-50,"2022-01-21 03:00:01","2022-01-21 03:00:01",ptd
+281,97,"You have earned 30 coins for sharing an update on LinkedIn.",-35,30,"2022-01-21 08:55:38","2022-01-21 08:55:38",li
+282,97,"You have earned 30 coins for sharing an update on LinkedIn.",-5,30,"2022-01-21 08:56:22","2022-01-21 08:56:22",li
+283,97,"You have earned 30 coins for sharing an update on LinkedIn.",25,30,"2022-01-21 08:56:32","2022-01-21 08:56:32",li
+284,97,"Good progress friend, you got 25 coins for completing a roadmap in your career.",50,25,"2022-01-21 10:04:32","2022-01-21 10:04:32",rm
+285,97,"You have earned 50 coins for sharing an update on Twitter.",100,50,"2022-01-21 11:19:01","2022-01-21 11:19:01",tw
+286,43,"You lost 10 coins for the redo of Git Hub Profile Tasks.",155,-10,"2022-01-21 14:49:26","2022-01-21 14:49:26",rd
+287,97,"You have won 50 coins for submitting the Twitter Profile on time. Keep going!",150,50,"2022-01-21 14:57:10","2022-01-21 14:57:10",tot
+288,97," Hey Friend, good you got 20 coins for the Twitter Profile",170,20,"2022-01-21 15:19:45","2022-01-21 15:19:45",te
+289,91," Hey Friend, good you got 20 coins for the Twitter Profile",430,20,"2022-01-21 16:50:07","2022-01-21 16:50:07",te
+290,90," Hey Friend, good you got 20 coins for the Twitter Profile",600,20,"2022-01-21 18:33:50","2022-01-21 18:33:50",te
+291,94," Hey Friend, good you got 20 coins for the Twitter Profile",510,20,"2022-01-21 18:34:25","2022-01-21 18:34:25",te
+292,43," Hey Friend, good you got 10 coins for the Git Hub Profile",165,10,"2022-01-21 22:40:33","2022-01-21 22:40:33",te
+293,95," Hey Friend, good you got 20 coins for the Twitter Profile",55,20,"2022-01-22 00:19:35","2022-01-22 00:19:35",te
+294,90,"You have earned 25 coins for sharing an update on Twitter.",625,25,"2022-01-22 00:31:55","2022-01-22 00:31:55",tw
+295,92," Hey Friend, good you got 20 coins for the Twitter Profile",410,20,"2022-01-22 14:31:15","2022-01-22 14:31:15",te
+296,93," Hey Friend, good you got 20 coins for the Twitter Profile",350,20,"2022-01-22 14:31:55","2022-01-22 14:31:55",te
+297,43,"You lost 10 coins for the redo of Twitter Profile Tasks.",155,-10,"2022-01-22 22:46:20","2022-01-22 22:46:20",rd
+298,43," Hey Friend, good you got 10 coins for the Twitter Profile",165,10,"2022-01-23 09:50:34","2022-01-23 09:50:34",te
+299,88," Hey Friend, good you got 20 coins for the Twitter Profile",265,20,"2022-01-23 09:51:15","2022-01-23 09:51:15",te
+300,102,"You have earned 20 coins for sharing an update on LinkedIn.",20,20,"2022-01-23 11:02:40","2022-01-23 11:02:40",li
+301,32," Hey Friend, good you got 20 coins for the Twitter Profile",890,20,"2022-01-23 13:23:26","2022-01-23 13:23:26",te
+302,51," Hey Friend, good you got 20 coins for the Twitter Profile",170,20,"2022-01-23 13:24:53","2022-01-23 13:24:53",te
+303,85," Hey Friend, good you got 20 coins for the Twitter API & Node JS",430,20,"2022-01-23 15:49:09","2022-01-23 15:49:09",te
+304,85," Hey Friend, good you got 40 coins for the Web API's",470,40,"2022-01-23 15:49:51","2022-01-23 15:49:51",te
+305,85," Hey Friend, good you got 50 coins for the CSS - A Simple Project using Bootstrap",520,50,"2022-01-23 15:50:53","2022-01-23 15:50:53",te
+306,93,"You have earned 30 coins for sharing an update on LinkedIn.",380,30,"2022-01-23 17:14:19","2022-01-23 17:14:19",li
+307,32,"You have earned 30 coins for sharing an update on LinkedIn.",920,30,"2022-01-23 18:07:11","2022-01-23 18:07:11",li
+308,32,"You have earned 25 coins for sharing an update on Twitter.",945,25,"2022-01-23 18:07:31","2022-01-23 18:07:31",tw
+309,97,"You have earned 50 coins for sharing an update on Twitter.",220,50,"2022-01-23 22:08:47","2022-01-23 22:08:47",tw
+310,96," Hey Friend, good you got 40 coins for the Twitter Profile",435,40,"2022-01-23 22:12:38","2022-01-23 22:12:38",te
+311,41," Hey Friend, good you got 20 coins for the Twitter Profile",345,20,"2022-01-23 22:13:05","2022-01-23 22:13:05",te
+312,75," Hey Friend, good you got 30 coins for the Twitter Profile",585,30,"2022-01-24 10:57:28","2022-01-24 10:57:28",te
+313,90,"You have earned 25 coins for sharing an update on Twitter.",650,25,"2022-01-24 12:18:31","2022-01-24 12:18:31",tw
+314,75,"You have earned 25 coins for sharing an update on Twitter.",610,25,"2022-01-24 12:18:50","2022-01-24 12:18:50",tw
+315,75,"You have earned 25 coins for sharing an update on Twitter.",635,25,"2022-01-24 12:19:05","2022-01-24 12:19:05",tw
+316,75,"You have earned 20 coins for sharing an update on LinkedIn.",655,20,"2022-01-24 12:19:18","2022-01-24 12:19:18",li
+317,31,"You have earned 25 coins for sharing an update on Twitter.",50,25,"2022-01-24 15:46:05","2022-01-24 15:46:05",tw
+318,90,"You have earned 30 coins for sharing an update on LinkedIn.",680,30,"2022-01-24 17:16:31","2022-01-24 17:16:31",li
+319,59,"You have earned 20 coins for sharing an update on LinkedIn.",140,20,"2022-01-24 17:16:47","2022-01-24 17:16:47",li
+320,94," Hey Friend, good you got 40 coins for the Responsive Page",550,40,"2022-01-24 21:01:38","2022-01-24 21:01:38",te
+321,97," Hey Friend, good you got 50 coins for the Basic Web Page with HTML",270,50,"2022-01-24 21:03:13","2022-01-24 21:03:13",te
+322,97," Hey Friend, good you got 50 coins for the Git hub Repo",320,50,"2022-01-24 21:03:21","2022-01-24 21:03:21",te
+323,97," Hey Friend, good you got 50 coins for the Youtube contact us page",370,50,"2022-01-24 21:03:43","2022-01-24 21:03:43",te
+324,97," Hey Friend, good you got 50 coins for the YouTube How it works page",420,50,"2022-01-24 21:04:33","2022-01-24 21:04:33",te
+325,59,"You have earned 25 coins for sharing an update on Twitter.",165,25,"2022-01-24 21:10:09","2022-01-24 21:10:09",tw
+326,93,"You have earned 25 coins for sharing an update on Twitter.",405,25,"2022-01-24 21:10:29","2022-01-24 21:10:29",tw
+327,96,"You have earned 25 coins for sharing an update on Twitter.",460,25,"2022-01-24 21:10:48","2022-01-24 21:10:48",tw
+328,59," Hey Friend,  you got 100 coins for referring your friends.",265,100,"2022-01-24 21:33:29","2022-01-24 21:33:29",rr
+329,69," Hey Friend,  you got 100 coins for referring your friends.",400,100,"2022-01-24 21:34:15","2022-01-24 21:34:15",rr
+330,59," Hey Friend, good you got 20 coins for the Twitter Profile",285,20,"2022-01-24 23:50:19","2022-01-24 23:50:19",te
+331,54,"Coins removed for the late submission of Twitter Profile task",140,-10,"2022-01-25 03:00:01","2022-01-25 03:00:01",ptd
+332,93,"You have earned 25 coins for sharing an update on Twitter.",430,25,"2022-01-25 10:49:35","2022-01-25 10:49:35",tw
+333,73,"You have earned 20 coins for sharing an update on LinkedIn.",370,20,"2022-01-25 16:01:07","2022-01-25 16:01:07",li
+334,100,"You have earned 20 coins for sharing an update on LinkedIn.",90,20,"2022-01-25 16:01:18","2022-01-25 16:01:18",li
+335,54,"Coins removed for the late submission of Twitter Profile task",130,-10,"2022-01-26 03:00:01","2022-01-26 03:00:01",ptd
+336,96,"Coins removed for the late submission of Responsive Page task",450,-10,"2022-01-26 03:00:01","2022-01-26 03:00:01",ptd
+337,59,"You have earned 20 coins for sharing an update on LinkedIn.",305,20,"2022-01-26 10:11:19","2022-01-26 10:11:19",li
+338,88,"You have earned 30 coins for sharing an update on LinkedIn.",295,30,"2022-01-26 16:18:39","2022-01-26 16:18:39",li
+339,41,"You have earned 20 coins for sharing an update on LinkedIn.",365,20,"2022-01-26 18:49:15","2022-01-26 18:49:15",li
+340,88,"You have earned 25 coins for sharing an update on Twitter.",320,25,"2022-01-26 18:49:41","2022-01-26 18:49:41",tw
+341,96,"Coins removed for the late submission of Responsive Page task",440,-10,"2022-01-27 03:00:01","2022-01-27 03:00:01",ptd
+342,75,"You have earned 25 coins for sharing an update on Twitter.",680,25,"2022-01-27 09:23:53","2022-01-27 09:23:53",tw
+343,75,"You have earned 20 coins for sharing an update on LinkedIn.",700,20,"2022-01-27 09:24:14","2022-01-27 09:24:14",li
+344,97,"You have earned 30 coins for sharing an update on LinkedIn.",450,30,"2022-01-27 09:24:46","2022-01-27 09:24:46",li
+345,88,"You have earned 20 coins for sharing an update on LinkedIn.",340,20,"2022-01-27 22:34:15","2022-01-27 22:34:15",li
+346,88,"You have earned 25 coins for sharing an update on Twitter.",365,25,"2022-01-27 22:34:28","2022-01-27 22:34:28",tw
+347,96,"Coins removed for the late submission of Responsive Page task",430,-10,"2022-01-28 03:00:02","2022-01-28 03:00:02",ptd
+348,59,"You have earned 30 coins for sharing an update on LinkedIn.",335,30,"2022-01-28 15:20:18","2022-01-28 15:20:18",li
+349,96,"Coins removed for the late submission of Responsive Page task",420,-10,"2022-01-29 03:00:02","2022-01-29 03:00:02",ptd
+350,51,"You have earned 15 coins for sharing an update on LinkedIn.",185,15,"2022-01-29 23:52:27","2022-01-29 23:52:27",li
+351,51,"You have earned 20 coins for sharing an update on LinkedIn.",205,20,"2022-01-29 23:52:39","2022-01-29 23:52:39",li
+352,100,"You have earned 30 coins for sharing an update on LinkedIn.",120,30,"2022-01-29 23:52:52","2022-01-29 23:52:52",li
+353,102,"You have earned 30 coins for sharing an update on LinkedIn.",50,30,"2022-01-29 23:53:33","2022-01-29 23:53:33",li
+354,102,"You have earned 30 coins for sharing an update on LinkedIn.",80,30,"2022-01-29 23:54:02","2022-01-29 23:54:02",li
+355,96,"Coins removed for the late submission of Responsive Page task",400,-20,"2022-01-30 03:00:01","2022-01-30 03:00:01",ptd
+356,101,"You have earned 30 coins for sharing an update on LinkedIn.",65,30,"2022-01-30 10:27:53","2022-01-30 10:27:53",li
+357,96,"Coins removed for the late submission of Responsive Page task",380,-20,"2022-01-31 03:00:01","2022-01-31 03:00:01",ptd
+358,93,"You have earned 30 coins for sharing an update on LinkedIn.",460,30,"2022-01-31 10:12:08","2022-01-31 10:12:08",li
+359,93,"You have earned 25 coins for sharing an update on Twitter.",485,25,"2022-01-31 10:12:27","2022-01-31 10:12:27",tw
+360,105," Hey Friend, good you got 20 coins for the Linkedin Profile",20,20,"2022-01-31 22:55:16","2022-01-31 22:55:16",te
+361,102," Hey Friend, good you got 20 coins for the Linkedin Profile",100,20,"2022-01-31 23:13:56","2022-01-31 23:13:56",te
+362,59," Hey Friend, good you got 20 coins for the Write a mail to HR",355,20,"2022-01-31 23:43:31","2022-01-31 23:43:31",te
+363,75," Hey Friend, good you got 20 coins for the Write a mail to HR",720,20,"2022-01-31 23:44:10","2022-01-31 23:44:10",te
+364,102,"You have earned 30 coins for sharing an update on LinkedIn.",130,30,"2022-02-01 08:40:15","2022-02-01 08:40:15",li
+365,54,"You have earned 15 coins for sharing an update on LinkedIn.",145,15,"2022-02-01 08:40:25","2022-02-01 08:40:25",li
+366,103," Hey Friend, good you got 20 coins for the Linkedin Profile",20,20,"2022-02-01 23:57:44","2022-02-01 23:57:44",te
+367,106," Hey Friend, good you got 20 coins for the Linkedin Profile",20,20,"2022-02-01 23:58:17","2022-02-01 23:58:17",te
+368,75,"You have earned 30 coins for sharing an update on LinkedIn.",750,30,"2022-02-02 00:03:12","2022-02-02 00:03:12",li
+369,75,"You have earned 25 coins for sharing an update on Twitter.",775,25,"2022-02-02 00:03:49","2022-02-02 00:03:49",tw
+370,88,"You have earned 25 coins for sharing an update on Twitter.",390,25,"2022-02-02 00:04:03","2022-02-02 00:04:03",tw
+371,88,"You have earned 30 coins for sharing an update on LinkedIn.",420,30,"2022-02-02 00:04:18","2022-02-02 00:04:18",li
+373,31,"You have earned 20 coins for sharing an update on LinkedIn.",70,20,"2022-02-02 12:07:59","2022-02-02 12:07:59",li
+376,100," Hey Friend, good you got 20 coins for the Linkedin Profile",140,20,"2022-02-02 14:58:08","2022-02-02 14:58:08",te
+377,102,"You have earned 30 coins for sharing an update on LinkedIn.",160,30,"2022-02-02 20:35:20","2022-02-02 20:35:20",li
+378,100,"You have earned 30 coins for sharing an update on LinkedIn.",170,30,"2022-02-02 20:35:47","2022-02-02 20:35:47",li
+379,31,"You have earned 25 coins for sharing an update on Twitter.",95,25,"2022-02-02 20:36:01","2022-02-02 20:36:01",tw
+380,102,"You have earned 30 coins for sharing an update on LinkedIn.",190,30,"2022-02-02 20:36:15","2022-02-02 20:36:15",li
+381,101,"You have earned 30 coins for sharing an update on LinkedIn.",95,30,"2022-02-02 20:53:45","2022-02-02 20:53:45",li
+382,105,"You have earned 30 coins for sharing an update on LinkedIn.",50,30,"2022-02-02 21:23:33","2022-02-02 21:23:33",li
+383,106,"You have earned 30 coins for sharing an update on LinkedIn.",50,30,"2022-02-02 21:24:05","2022-02-02 21:24:05",li
+384,103,"You have earned 30 coins for sharing an update on LinkedIn.",50,30,"2022-02-02 22:30:47","2022-02-02 22:30:47",li
+385,31,"You have earned 30 coins for sharing an update on LinkedIn.",125,30,"2022-02-04 00:06:05","2022-02-04 00:06:05",li
+386,76,"Coins removed for the late submission of Hotstar-home-page task",0,-10,"2022-02-04 03:00:01","2022-02-04 03:00:01",ptd
+387,31,"You have earned 25 coins for sharing an update on Twitter.",150,25,"2022-02-04 12:46:51","2022-02-04 12:46:51",tw
+388,101," Hey Friend, good you got 20 coins for the Linkedin Profile",115,20,"2022-02-04 13:22:39","2022-02-04 13:22:39",te
+389,104," Hey Friend, good you got 20 coins for the Linkedin Profile",20,20,"2022-02-04 13:23:21","2022-02-04 13:23:21",te
+390,76,"Coins removed for the late submission of Hotstar-home-page task",-10,-10,"2022-02-05 03:00:01","2022-02-05 03:00:01",ptd
+391,85,"You have won 50 coins for submitting the Task - React Kanban View on time. Keep going!",570,50,"2022-02-05 12:54:13","2022-02-05 12:54:13",tot
+392,76,"Coins removed for the late submission of Hotstar-home-page task",-20,-10,"2022-02-06 03:00:01","2022-02-06 03:00:01",ptd
+393,32," Hey Friend, good you got 50 coins for the Setup Exercism locally",995,50,"2022-02-06 18:28:20","2022-02-06 18:28:20",te
+394,32," Hey Friend, good you got 50 coins for the Problem solving - Exercism",1045,50,"2022-02-06 18:28:36","2022-02-06 18:28:36",te
+395,32," Hey Friend, good you got 50 coins for the Surface area and Volume of the cuboid",1095,50,"2022-02-06 18:28:46","2022-02-06 18:28:46",te
+396,32," Hey Friend, good you got 50 coins for the Quadratic Equation",1145,50,"2022-02-06 18:28:55","2022-02-06 18:28:55",te
+397,32," Hey Friend, good you got 50 coins for the Is a valid hexadecimal number",1195,50,"2022-02-06 18:29:06","2022-02-06 18:29:06",te
+398,32," Hey Friend, good you got 50 coins for the Find Radix",1245,50,"2022-02-06 18:29:15","2022-02-06 18:29:15",te
+399,32," Hey Friend, good you got 50 coins for the Find Grade of the student",1295,50,"2022-02-06 18:29:24","2022-02-06 18:29:24",te
+400,32," Hey Friend, good you got 50 coins for the Display month name",1345,50,"2022-02-06 18:29:34","2022-02-06 18:29:34",te
+401,32," Hey Friend, good you got 50 coins for the Display the username and domain name from email ID",1395,50,"2022-02-06 18:29:44","2022-02-06 18:29:44",te
+402,32," Hey Friend, good you got 50 coins for the Find Factorial",1445,50,"2022-02-06 18:29:52","2022-02-06 18:29:52",te
+403,32," Hey Friend, good you got 50 coins for the Check if a number is Palindrome",1495,50,"2022-02-06 18:30:01","2022-02-06 18:30:01",te
+404,32," Hey Friend, good you got 50 coins for the Display Fibanocci Series",1545,50,"2022-02-06 18:30:09","2022-02-06 18:30:09",te
+405,32," Hey Friend, good you got 50 coins for the Patterns - I",1595,50,"2022-02-06 18:30:16","2022-02-06 18:30:16",te
+406,32," Hey Friend, good you got 50 coins for the Patterns - I",1645,50,"2022-02-06 18:30:17","2022-02-06 18:30:17",te
+407,32," Hey Friend, good you got 50 coins for the Remove extra spaces from a string and Find number of words in a String",1695,50,"2022-02-06 18:30:26","2022-02-06 18:30:26",te
+408,41," Hey Friend, good you got 50 coins for the Setup Exercism locally",415,50,"2022-02-06 18:30:33","2022-02-06 18:30:33",te
+409,41," Hey Friend, good you got 50 coins for the Problem solving - Exercism",465,50,"2022-02-06 18:30:48","2022-02-06 18:30:48",te
+410,41," Hey Friend, good you got 50 coins for the Problem solving - Exercism",515,50,"2022-02-06 18:30:57","2022-02-06 18:30:57",te
+411,41," Hey Friend, good you got 50 coins for the Problem solving - Exercism",565,50,"2022-02-06 18:31:29","2022-02-06 18:31:29",te
+412,41," Hey Friend, good you got 50 coins for the Problem solving - Exercism",615,50,"2022-02-06 18:31:38","2022-02-06 18:31:38",te
+413,41," Hey Friend, good you got 50 coins for the Quadratic Equation",665,50,"2022-02-06 18:31:47","2022-02-06 18:31:47",te
+414,41," Hey Friend, good you got 50 coins for the Surface area and Volume of the cuboid",715,50,"2022-02-06 18:31:56","2022-02-06 18:31:56",te
+415,41," Hey Friend, good you got 50 coins for the Display the username and domain name from email ID",765,50,"2022-02-06 18:32:05","2022-02-06 18:32:05",te
+416,41," Hey Friend, good you got 50 coins for the Display the username and domain name from email ID",815,50,"2022-02-06 18:32:05","2022-02-06 18:32:05",te
+417,41," Hey Friend, good you got 50 coins for the Find Grade of the student",865,50,"2022-02-06 18:32:14","2022-02-06 18:32:14",te
+418,41," Hey Friend, good you got 50 coins for the Is a valid hexadecimal number",915,50,"2022-02-06 18:32:23","2022-02-06 18:32:23",te
+419,41," Hey Friend, good you got 50 coins for the Display month name",965,50,"2022-02-06 18:32:32","2022-02-06 18:32:32",te
+420,41," Hey Friend, good you got 50 coins for the Find Factorial",1015,50,"2022-02-06 18:32:40","2022-02-06 18:32:40",te
+421,41," Hey Friend, good you got 50 coins for the Display Fibanocci Series",1065,50,"2022-02-06 18:32:49","2022-02-06 18:32:49",te
+422,41," Hey Friend, good you got 50 coins for the Check if a number is Palindrome",1115,50,"2022-02-06 18:32:58","2022-02-06 18:32:58",te
+423,41," Hey Friend, good you got 50 coins for the Remove extra spaces from a string and Find number of words in a String",1165,50,"2022-02-06 18:33:06","2022-02-06 18:33:06",te
+424,41," Hey Friend, good you got 50 coins for the Patterns - I",1215,50,"2022-02-06 18:33:57","2022-02-06 18:33:57",te
+425,41," Hey Friend, good you got 50 coins for the Find Radix",1265,50,"2022-02-06 18:34:15","2022-02-06 18:34:15",te
+426,43," Hey Friend, good you got 50 coins for the Quadratic Equation",215,50,"2022-02-06 18:34:23","2022-02-06 18:34:23",te
+427,43," Hey Friend, good you got 50 coins for the Surface area and Volume of the cuboid",265,50,"2022-02-06 18:34:31","2022-02-06 18:34:31",te
+428,43," Hey Friend, good you got 50 coins for the Find Grade of the student",315,50,"2022-02-06 18:34:39","2022-02-06 18:34:39",te
+429,43," Hey Friend, good you got 50 coins for the Display month name",365,50,"2022-02-06 18:34:47","2022-02-06 18:34:47",te
+430,43," Hey Friend, good you got 50 coins for the Find Factorial",415,50,"2022-02-06 18:34:55","2022-02-06 18:34:55",te
+431,43," Hey Friend, good you got 50 coins for the Check if a number is Palindrome",465,50,"2022-02-06 18:35:03","2022-02-06 18:35:03",te
+432,43," Hey Friend, good you got 50 coins for the Is a valid hexadecimal number",515,50,"2022-02-06 18:35:12","2022-02-06 18:35:12",te
+433,43," Hey Friend, good you got 50 coins for the Display the username and domain name from email ID",565,50,"2022-02-06 18:35:20","2022-02-06 18:35:20",te
+434,43," Hey Friend, good you got 50 coins for the Display Fibanocci Series",615,50,"2022-02-06 18:35:29","2022-02-06 18:35:29",te
+435,43," Hey Friend, good you got 50 coins for the Remove extra spaces from a string and Find number of words in a String",665,50,"2022-02-06 18:35:38","2022-02-06 18:35:38",te
+436,43," Hey Friend, good you got 50 coins for the Patterns - I",715,50,"2022-02-06 18:35:47","2022-02-06 18:35:47",te
+437,43," Hey Friend, good you got 50 coins for the Find Radix",765,50,"2022-02-06 18:35:55","2022-02-06 18:35:55",te
+438,43," Hey Friend, good you got 50 coins for the Setup Exercism locally",815,50,"2022-02-06 18:36:03","2022-02-06 18:36:03",te
+439,43," Hey Friend, good you got 50 coins for the Problem solving - Exercism",865,50,"2022-02-06 18:39:04","2022-02-06 18:39:04",te
+440,51," Hey Friend, good you got 50 coins for the Quadratic Equation",255,50,"2022-02-06 18:39:14","2022-02-06 18:39:14",te
+441,51," Hey Friend, good you got 50 coins for the Surface area and Volume of the cuboid",305,50,"2022-02-06 18:39:23","2022-02-06 18:39:23",te
+442,51," Hey Friend, good you got 50 coins for the Find Grade of the student",355,50,"2022-02-06 18:39:33","2022-02-06 18:39:33",te
+443,51," Hey Friend, good you got 50 coins for the Display month name",405,50,"2022-02-06 18:39:41","2022-02-06 18:39:41",te
+444,51," Hey Friend, good you got 50 coins for the Find Factorial",455,50,"2022-02-06 18:39:49","2022-02-06 18:39:49",te
+445,51," Hey Friend, good you got 50 coins for the Check if a number is Palindrome",505,50,"2022-02-06 18:39:58","2022-02-06 18:39:58",te
+446,51," Hey Friend, good you got 50 coins for the Patterns - I",555,50,"2022-02-06 18:40:06","2022-02-06 18:40:06",te
+447,51," Hey Friend, good you got 50 coins for the Remove extra spaces from a string and Find number of words in a String",605,50,"2022-02-06 18:40:14","2022-02-06 18:40:14",te
+448,51," Hey Friend, good you got 50 coins for the Display Fibanocci Series",655,50,"2022-02-06 18:40:22","2022-02-06 18:40:22",te
+449,51," Hey Friend, good you got 50 coins for the Display the username and domain name from email ID",705,50,"2022-02-06 18:40:30","2022-02-06 18:40:30",te
+450,51," Hey Friend, good you got 50 coins for the Is a valid hexadecimal number",755,50,"2022-02-06 18:40:37","2022-02-06 18:40:37",te
+451,51," Hey Friend, good you got 50 coins for the Find Radix",805,50,"2022-02-06 18:40:45","2022-02-06 18:40:45",te
+452,51," Hey Friend, good you got 50 coins for the Problem solving - Exercism",855,50,"2022-02-06 18:40:52","2022-02-06 18:40:52",te
+453,51," Hey Friend, good you got 50 coins for the Setup Exercism locally",905,50,"2022-02-06 18:40:59","2022-02-06 18:40:59",te
+454,54," Hey Friend, good you got 50 coins for the Quadratic Equation",195,50,"2022-02-06 18:44:02","2022-02-06 18:44:02",te
+455,54," Hey Friend, good you got 50 coins for the Surface area and Volume of the cuboid",245,50,"2022-02-06 18:44:10","2022-02-06 18:44:10",te
+456,54," Hey Friend, good you got 50 coins for the Display the username and domain name from email ID",295,50,"2022-02-06 18:44:18","2022-02-06 18:44:18",te
+457,94,"You have won 50 coins for submitting the YouTube Videos Page on time. Keep going!",600,50,"2022-02-06 18:44:26","2022-02-06 18:44:26",tot
+458,54," Hey Friend, good you got 50 coins for the Is a valid hexadecimal number",345,50,"2022-02-06 18:44:26","2022-02-06 18:44:26",te
+459,54," Hey Friend, good you got 50 coins for the Find Grade of the student",395,50,"2022-02-06 18:44:33","2022-02-06 18:44:33",te
+460,54," Hey Friend, good you got 50 coins for the Display month name",445,50,"2022-02-06 18:44:41","2022-02-06 18:44:41",te
+461,54," Hey Friend, good you got 50 coins for the Find Factorial",495,50,"2022-02-06 18:44:49","2022-02-06 18:44:49",te
+462,54," Hey Friend, good you got 50 coins for the Check if a number is Palindrome",545,50,"2022-02-06 18:44:56","2022-02-06 18:44:56",te
+463,54," Hey Friend, good you got 50 coins for the Display Fibanocci Series",595,50,"2022-02-06 18:45:05","2022-02-06 18:45:05",te
+464,54," Hey Friend, good you got 50 coins for the Patterns - I",645,50,"2022-02-06 18:45:13","2022-02-06 18:45:13",te
+465,54," Hey Friend, good you got 50 coins for the Remove extra spaces from a string and Find number of words in a String",695,50,"2022-02-06 18:45:21","2022-02-06 18:45:21",te
+466,54," Hey Friend, good you got 50 coins for the Remove extra spaces from a string and Find number of words in a String",745,50,"2022-02-06 18:45:21","2022-02-06 18:45:21",te
+467,54," Hey Friend, good you got 50 coins for the Find Radix",795,50,"2022-02-06 18:45:29","2022-02-06 18:45:29",te
+468,54," Hey Friend, good you got 50 coins for the Setup Exercism locally",845,50,"2022-02-06 18:45:39","2022-02-06 18:45:39",te
+469,54," Hey Friend, good you got 50 coins for the Setup Exercism locally",895,50,"2022-02-06 18:45:40","2022-02-06 18:45:40",te
+470,54," Hey Friend, good you got 50 coins for the Problem solving - Exercism",945,50,"2022-02-06 18:45:48","2022-02-06 18:45:48",te
+471,59,"You have earned 30 coins for sharing an update on LinkedIn.",385,30,"2022-02-06 18:47:44","2022-02-06 18:47:44",li
+472,59,"You have earned 25 coins for sharing an update on Twitter.",410,25,"2022-02-06 18:48:00","2022-02-06 18:48:00",tw
+473,73,"You have earned 30 coins for sharing an update on LinkedIn.",400,30,"2022-02-06 18:48:16","2022-02-06 18:48:16",li
+474,51,"You have earned 15 coins for sharing an update on LinkedIn.",920,15,"2022-02-06 21:24:26","2022-02-06 21:24:26",li
+475,93,"You have earned 30 coins for sharing an update on LinkedIn.",515,30,"2022-02-06 22:45:51","2022-02-06 22:45:51",li
+476,76,"Coins removed for the late submission of Hotstar-home-page task",-30,-10,"2022-02-07 03:00:01","2022-02-07 03:00:01",ptd
+477,90,"Coins removed for the late submission of YouTube Videos Page task",670,-10,"2022-02-07 03:00:01","2022-02-07 03:00:01",ptd
+478,91,"Coins removed for the late submission of YouTube Videos Page task",420,-10,"2022-02-07 03:00:02","2022-02-07 03:00:02",ptd
+479,92,"Coins removed for the late submission of YouTube Videos Page task",400,-10,"2022-02-07 03:00:02","2022-02-07 03:00:02",ptd
+480,93,"Coins removed for the late submission of YouTube Videos Page task",505,-10,"2022-02-07 03:00:02","2022-02-07 03:00:02",ptd
+481,97,"Coins removed for the late submission of YouTube Videos Page task",440,-10,"2022-02-07 03:00:02","2022-02-07 03:00:02",ptd
+482,100,"You have earned 30 coins for sharing an update on LinkedIn.",200,30,"2022-02-07 09:21:27","2022-02-07 09:21:27",li
+483,93,"You have earned 25 coins for sharing an update on Twitter.",530,25,"2022-02-07 18:10:45","2022-02-07 18:10:45",tw
+484,76,"Coins removed for the late submission of Hotstar-home-page task",-50,-20,"2022-02-08 03:00:01","2022-02-08 03:00:01",ptd
+485,90,"Coins removed for the late submission of YouTube Videos Page task",660,-10,"2022-02-08 03:00:01","2022-02-08 03:00:01",ptd
+486,91,"Coins removed for the late submission of YouTube Videos Page task",410,-10,"2022-02-08 03:00:01","2022-02-08 03:00:01",ptd
+487,92,"Coins removed for the late submission of YouTube Videos Page task",390,-10,"2022-02-08 03:00:01","2022-02-08 03:00:01",ptd
+488,93,"Coins removed for the late submission of YouTube Videos Page task",520,-10,"2022-02-08 03:00:01","2022-02-08 03:00:01",ptd
+489,97,"Coins removed for the late submission of YouTube Videos Page task",430,-10,"2022-02-08 03:00:02","2022-02-08 03:00:02",ptd
+490,76,"Coins removed for the late submission of Hotstar-home-page task",-70,-20,"2022-02-09 03:00:01","2022-02-09 03:00:01",ptd
+491,93,"Coins removed for the late submission of YouTube Videos Page task",510,-10,"2022-02-09 03:00:01","2022-02-09 03:00:01",ptd
+492,97,"Coins removed for the late submission of YouTube Videos Page task",420,-10,"2022-02-09 03:00:01","2022-02-09 03:00:01",ptd
+493,100,"You have won 50 coins for submitting the Create a webpage using HTML and CSS and Push into the Git. on time. Keep going!",250,50,"2022-02-09 19:19:30","2022-02-09 19:19:30",tot
+494,76,"Coins removed for the late submission of Hotstar-home-page task",-100,-30,"2022-02-10 03:00:02","2022-02-10 03:00:02",ptd
+495,76,"Coins removed for the late submission of Hotstar-home-page task",-150,-50,"2022-02-11 03:00:01","2022-02-11 03:00:01",ptd
+496,76,"Coins removed for the late submission of Hotstar-home-page task",-200,-50,"2022-02-12 03:00:01","2022-02-12 03:00:01",ptd
+497,88,"You have won 50 coins for submitting the Counter App on time. Keep going!",470,50,"2022-02-12 15:19:45","2022-02-12 15:19:45",tot
+498,88,"You have won 50 coins for submitting the Display Text in Flutter App on time. Keep going!",520,50,"2022-02-12 15:29:19","2022-02-12 15:29:19",tot
+499,88,"You have won 50 coins for submitting the Linkedin Profile on time. Keep going!",570,50,"2022-02-12 15:33:05","2022-02-12 15:33:05",tot
+500,88,"You have won 50 coins for submitting the Background Color changer on time. Keep going!",620,50,"2022-02-12 15:36:03","2022-02-12 15:36:03",tot
+501,88,"You have won 50 coins for submitting the Roll Dice on time. Keep going!",670,50,"2022-02-12 19:41:21","2022-02-12 19:41:21",tot
+502,90," Hey Friend, good you got 50 coins for the Responsive Page",710,50,"2022-02-13 02:37:11","2022-02-13 02:37:11",te
+503,90," Hey Friend, good you got 40 coins for the YouTube Videos Page",750,40,"2022-02-13 02:38:23","2022-02-13 02:38:23",te
+504,91," Hey Friend, good you got 40 coins for the YouTube Videos Page",450,40,"2022-02-13 02:41:12","2022-02-13 02:41:12",te
+505,91," Hey Friend, good you got 50 coins for the Responsive Page",500,50,"2022-02-13 02:41:50","2022-02-13 02:41:50",te
+506,92," Hey Friend, good you got 50 coins for the Responsive Page",440,50,"2022-02-13 02:43:28","2022-02-13 02:43:28",te
+507,93," Hey Friend, good you got 50 coins for the Responsive Page",560,50,"2022-02-13 02:46:33","2022-02-13 02:46:33",te
+508,93," Hey Friend, good you got 40 coins for the YouTube Videos Page",600,40,"2022-02-13 02:48:03","2022-02-13 02:48:03",te
+509,94," Hey Friend, good you got 40 coins for the YouTube Videos Page",640,40,"2022-02-13 02:50:37","2022-02-13 02:50:37",te
+510,97," Hey Friend, good you got 40 coins for the YouTube Videos Page",460,40,"2022-02-13 02:52:01","2022-02-13 02:52:01",te
+511,97," Hey Friend, good you got 50 coins for the Responsive Page",510,50,"2022-02-13 02:52:51","2022-02-13 02:52:51",te
+512,90,"Good progress friend, you got 50 coins for completing a roadmap in your career.",800,50,"2022-02-13 02:53:36","2022-02-13 02:53:36",rm
+513,90,"Good progress friend, you got 50 coins for completing a roadmap in your career.",850,50,"2022-02-13 02:53:42","2022-02-13 02:53:42",rm
+514,90,"Good progress friend, you got 25 coins for completing a roadmap in your career.",875,25,"2022-02-13 02:53:49","2022-02-13 02:53:49",rm
+515,91,"Good progress friend, you got 75 coins for completing a roadmap in your career.",575,75,"2022-02-13 02:54:26","2022-02-13 02:54:26",rm
+516,91,"Good progress friend, you got 75 coins for completing a roadmap in your career.",650,75,"2022-02-13 02:54:33","2022-02-13 02:54:33",rm
+517,91,"Good progress friend, you got 50 coins for completing a roadmap in your career.",700,50,"2022-02-13 02:54:40","2022-02-13 02:54:40",rm
+518,91,"Good progress friend, you got 25 coins for completing a roadmap in your career.",725,25,"2022-02-13 02:54:44","2022-02-13 02:54:44",rm
+519,91,"Good progress friend, you got 25 coins for completing a roadmap in your career.",750,25,"2022-02-13 02:54:49","2022-02-13 02:54:49",rm
+520,91,"Good progress friend, you got 25 coins for completing a roadmap in your career.",775,25,"2022-02-13 02:55:01","2022-02-13 02:55:01",rm
+521,92,"Good progress friend, you got 50 coins for completing a roadmap in your career.",490,50,"2022-02-13 02:55:30","2022-02-13 02:55:30",rm
+522,92,"Good progress friend, you got 75 coins for completing a roadmap in your career.",565,75,"2022-02-13 02:55:35","2022-02-13 02:55:35",rm
+523,92,"Good progress friend, you got 50 coins for completing a roadmap in your career.",615,50,"2022-02-13 02:55:38","2022-02-13 02:55:38",rm
+524,92,"Good progress friend, you got 50 coins for completing a roadmap in your career.",665,50,"2022-02-13 02:55:43","2022-02-13 02:55:43",rm
+525,92,"Good progress friend, you got 25 coins for completing a roadmap in your career.",690,25,"2022-02-13 02:55:52","2022-02-13 02:55:52",rm
+526,93,"Good progress friend, you got 75 coins for completing a roadmap in your career.",675,75,"2022-02-13 02:56:09","2022-02-13 02:56:09",rm
+527,93,"Good progress friend, you got 75 coins for completing a roadmap in your career.",750,75,"2022-02-13 02:56:14","2022-02-13 02:56:14",rm
+528,93,"Good progress friend, you got 50 coins for completing a roadmap in your career.",800,50,"2022-02-13 02:56:19","2022-02-13 02:56:19",rm
+529,93,"Good progress friend, you got 50 coins for completing a roadmap in your career.",850,50,"2022-02-13 02:56:23","2022-02-13 02:56:23",rm
+530,93,"Good progress friend, you got 25 coins for completing a roadmap in your career.",875,25,"2022-02-13 02:56:27","2022-02-13 02:56:27",rm
+531,93,"Good progress friend, you got 50 coins for completing a roadmap in your career.",925,50,"2022-02-13 02:56:36","2022-02-13 02:56:36",rm
+532,94,"Good progress friend, you got 75 coins for completing a roadmap in your career.",715,75,"2022-02-13 02:56:53","2022-02-13 02:56:53",rm
+533,94,"Good progress friend, you got 75 coins for completing a roadmap in your career.",790,75,"2022-02-13 02:56:57","2022-02-13 02:56:57",rm
+534,94,"Good progress friend, you got 25 coins for completing a roadmap in your career.",815,25,"2022-02-13 02:57:01","2022-02-13 02:57:01",rm
+535,94,"Good progress friend, you got 25 coins for completing a roadmap in your career.",840,25,"2022-02-13 02:57:05","2022-02-13 02:57:05",rm
+536,94,"Good progress friend, you got 25 coins for completing a roadmap in your career.",865,25,"2022-02-13 02:57:10","2022-02-13 02:57:10",rm
+537,94,"Good progress friend, you got 25 coins for completing a roadmap in your career.",890,25,"2022-02-13 02:57:14","2022-02-13 02:57:14",rm
+538,97,"Good progress friend, you got 75 coins for completing a roadmap in your career.",585,75,"2022-02-13 02:57:25","2022-02-13 02:57:25",rm
+539,97,"Good progress friend, you got 75 coins for completing a roadmap in your career.",660,75,"2022-02-13 02:57:29","2022-02-13 02:57:29",rm
+540,97,"Good progress friend, you got 50 coins for completing a roadmap in your career.",710,50,"2022-02-13 02:57:35","2022-02-13 02:57:35",rm
+541,97,"Good progress friend, you got 50 coins for completing a roadmap in your career.",760,50,"2022-02-13 02:57:43","2022-02-13 02:57:43",rm
+542,97,"Good progress friend, you got 50 coins for completing a roadmap in your career.",810,50,"2022-02-13 02:57:48","2022-02-13 02:57:48",rm
+543,97,"Good progress friend, you got 25 coins for completing a roadmap in your career.",835,25,"2022-02-13 02:57:52","2022-02-13 02:57:52",rm
+544,76,"Coins removed for the late submission of Hotstar-home-page task",-250,-50,"2022-02-13 03:00:01","2022-02-13 03:00:01",ptd
+545,88,"You have won 50 coins for submitting the Image Viewer on time. Keep going!",720,50,"2022-02-13 17:10:26","2022-02-13 17:10:26",tot
+546,88,"You have won 50 coins for submitting the Install Flutter on time. Keep going!",770,50,"2022-02-13 18:28:45","2022-02-13 18:28:45",tot
+547,76,"Coins removed for the late submission of Hotstar-home-page task",-300,-50,"2022-02-14 03:00:02","2022-02-14 03:00:02",ptd
+548,88,"Coins removed for the late submission of Custom Font task",760,-10,"2022-02-14 03:00:02","2022-02-14 03:00:02",ptd
+549,88,"Coins removed for the late submission of Custom Font task",750,-10,"2022-02-14 03:00:02","2022-02-14 03:00:02",ptd
+550,95,"Coins removed for the late submission of Counter App task",45,-10,"2022-02-14 03:00:02","2022-02-14 03:00:02",ptd
+551,95,"Coins removed for the late submission of Counter App task",35,-10,"2022-02-14 03:00:02","2022-02-14 03:00:02",ptd
+552,95,"Coins removed for the late submission of Display Text in Flutter App task",25,-10,"2022-02-14 03:00:02","2022-02-14 03:00:02",ptd
+553,95,"Coins removed for the late submission of Display Text in Flutter App task",15,-10,"2022-02-14 03:00:02","2022-02-14 03:00:02",ptd
+554,95,"Coins removed for the late submission of Background Color changer task",5,-10,"2022-02-14 03:00:03","2022-02-14 03:00:03",ptd
+555,95,"Coins removed for the late submission of Background Color changer task",-5,-10,"2022-02-14 03:00:03","2022-02-14 03:00:03",ptd
+556,95,"Coins removed for the late submission of Linkedin Profile task",-15,-10,"2022-02-14 03:00:03","2022-02-14 03:00:03",ptd
+557,95,"Coins removed for the late submission of Linkedin Profile task",-25,-10,"2022-02-14 03:00:04","2022-02-14 03:00:04",ptd
+558,95,"Coins removed for the late submission of Roll Dice task",-35,-10,"2022-02-14 03:00:04","2022-02-14 03:00:04",ptd
+559,95,"Coins removed for the late submission of Roll Dice task",-45,-10,"2022-02-14 03:00:04","2022-02-14 03:00:04",ptd
+560,95,"Coins removed for the late submission of Custom Font task",-55,-10,"2022-02-14 03:00:04","2022-02-14 03:00:04",ptd
+561,95,"Coins removed for the late submission of Custom Font task",-65,-10,"2022-02-14 03:00:04","2022-02-14 03:00:04",ptd
+562,95,"Coins removed for the late submission of Image Viewer task",-75,-10,"2022-02-14 03:00:04","2022-02-14 03:00:04",ptd
+563,95,"Coins removed for the late submission of Image Viewer task",-85,-10,"2022-02-14 03:00:04","2022-02-14 03:00:04",ptd
+564,104,"Coins removed for the late submission of Create a webpage using HTML and CSS and Push into the Git. task",10,-10,"2022-02-14 03:00:05","2022-02-14 03:00:05",ptd
+565,90,"You have earned 25 coins for sharing an update on Twitter.",900,25,"2022-02-15 01:14:59","2022-02-15 01:14:59",tw
+566,94,"You have earned 30 coins for sharing an update on LinkedIn.",920,30,"2022-02-15 01:17:04","2022-02-15 01:17:04",li
+567,100,"You have earned 30 coins for sharing an update on LinkedIn.",280,30,"2022-02-15 01:17:16","2022-02-15 01:17:16",li
+568,90,"You have earned 20 coins for sharing an update on LinkedIn.",920,20,"2022-02-15 01:17:28","2022-02-15 01:17:28",li
+569,103,"You have earned 30 coins for sharing an update on LinkedIn.",80,30,"2022-02-15 01:17:41","2022-02-15 01:17:41",li
+570,59,"You have earned 25 coins for sharing an update on Twitter.",435,25,"2022-02-15 01:17:51","2022-02-15 01:17:51",tw
+571,75,"You have earned 25 coins for sharing an update on Twitter.",800,25,"2022-02-15 01:18:07","2022-02-15 01:18:07",tw
+572,75,"You have earned 30 coins for sharing an update on LinkedIn.",830,30,"2022-02-15 01:18:20","2022-02-15 01:18:20",li
+573,102,"You have earned 30 coins for sharing an update on LinkedIn.",220,30,"2022-02-15 01:18:30","2022-02-15 01:18:30",li
+574,102,"You have earned 20 coins for sharing an update on LinkedIn.",240,20,"2022-02-15 01:18:46","2022-02-15 01:18:46",li
+575,32,"You have earned 20 coins for sharing an update on LinkedIn.",1715,20,"2022-02-15 01:19:14","2022-02-15 01:19:14",li
+576,95,"Coins removed for the late submission of Counter App task",-95,-10,"2022-02-15 03:00:01","2022-02-15 03:00:01",ptd
+577,95,"Coins removed for the late submission of Counter App task",-105,-10,"2022-02-15 03:00:01","2022-02-15 03:00:01",ptd
+578,95,"Coins removed for the late submission of Display Text in Flutter App task",-115,-10,"2022-02-15 03:00:01","2022-02-15 03:00:01",ptd
+579,95,"Coins removed for the late submission of Display Text in Flutter App task",-125,-10,"2022-02-15 03:00:02","2022-02-15 03:00:02",ptd
+580,95,"Coins removed for the late submission of Background Color changer task",-135,-10,"2022-02-15 03:00:02","2022-02-15 03:00:02",ptd
+581,95,"Coins removed for the late submission of Background Color changer task",-145,-10,"2022-02-15 03:00:02","2022-02-15 03:00:02",ptd
+582,95,"Coins removed for the late submission of Linkedin Profile task",-155,-10,"2022-02-15 03:00:02","2022-02-15 03:00:02",ptd
+583,95,"Coins removed for the late submission of Linkedin Profile task",-165,-10,"2022-02-15 03:00:02","2022-02-15 03:00:02",ptd
+584,95,"Coins removed for the late submission of Roll Dice task",-175,-10,"2022-02-15 03:00:02","2022-02-15 03:00:02",ptd
+585,95,"Coins removed for the late submission of Roll Dice task",-185,-10,"2022-02-15 03:00:02","2022-02-15 03:00:02",ptd
+586,95,"Coins removed for the late submission of Custom Font task",-195,-10,"2022-02-15 03:00:02","2022-02-15 03:00:02",ptd
+587,95,"Coins removed for the late submission of Custom Font task",-205,-10,"2022-02-15 03:00:02","2022-02-15 03:00:02",ptd
+588,95,"Coins removed for the late submission of Image Viewer task",-215,-10,"2022-02-15 03:00:02","2022-02-15 03:00:02",ptd
+589,95,"Coins removed for the late submission of Image Viewer task",-225,-10,"2022-02-15 03:00:03","2022-02-15 03:00:03",ptd
+590,104,"Coins removed for the late submission of Create a webpage using HTML and CSS and Push into the Git. task",0,-10,"2022-02-15 03:00:03","2022-02-15 03:00:03",ptd
+591,95,"Coins removed for the late submission of Counter App task",-235,-10,"2022-02-16 03:00:01","2022-02-16 03:00:01",ptd
+592,95,"Coins removed for the late submission of Counter App task",-245,-10,"2022-02-16 03:00:01","2022-02-16 03:00:01",ptd
+593,95,"Coins removed for the late submission of Display Text in Flutter App task",-255,-10,"2022-02-16 03:00:02","2022-02-16 03:00:02",ptd
+594,95,"Coins removed for the late submission of Display Text in Flutter App task",-265,-10,"2022-02-16 03:00:02","2022-02-16 03:00:02",ptd
+595,95,"Coins removed for the late submission of Background Color changer task",-275,-10,"2022-02-16 03:00:02","2022-02-16 03:00:02",ptd
+596,95,"Coins removed for the late submission of Background Color changer task",-285,-10,"2022-02-16 03:00:02","2022-02-16 03:00:02",ptd
+597,95,"Coins removed for the late submission of Linkedin Profile task",-295,-10,"2022-02-16 03:00:02","2022-02-16 03:00:02",ptd
+598,95,"Coins removed for the late submission of Linkedin Profile task",-305,-10,"2022-02-16 03:00:02","2022-02-16 03:00:02",ptd
+599,95,"Coins removed for the late submission of Roll Dice task",-315,-10,"2022-02-16 03:00:02","2022-02-16 03:00:02",ptd
+600,95,"Coins removed for the late submission of Roll Dice task",-325,-10,"2022-02-16 03:00:02","2022-02-16 03:00:02",ptd
+601,95,"Coins removed for the late submission of Custom Font task",-335,-10,"2022-02-16 03:00:03","2022-02-16 03:00:03",ptd
+602,95,"Coins removed for the late submission of Custom Font task",-345,-10,"2022-02-16 03:00:03","2022-02-16 03:00:03",ptd
+603,95,"Coins removed for the late submission of Image Viewer task",-355,-10,"2022-02-16 03:00:03","2022-02-16 03:00:03",ptd
+604,95,"Coins removed for the late submission of Image Viewer task",-365,-10,"2022-02-16 03:00:03","2022-02-16 03:00:03",ptd
+605,104,"Coins removed for the late submission of Create a webpage using HTML and CSS and Push into the Git. task",-10,-10,"2022-02-16 03:00:03","2022-02-16 03:00:03",ptd
+606,95,"Coins removed for the late submission of Counter App task",-375,-10,"2022-02-17 03:00:02","2022-02-17 03:00:02",ptd
+607,95,"Coins removed for the late submission of Counter App task",-385,-10,"2022-02-17 03:00:02","2022-02-17 03:00:02",ptd
+608,95,"Coins removed for the late submission of Display Text in Flutter App task",-395,-10,"2022-02-17 03:00:02","2022-02-17 03:00:02",ptd
+609,95,"Coins removed for the late submission of Display Text in Flutter App task",-405,-10,"2022-02-17 03:00:02","2022-02-17 03:00:02",ptd
+610,95,"Coins removed for the late submission of Background Color changer task",-415,-10,"2022-02-17 03:00:02","2022-02-17 03:00:02",ptd
+611,95,"Coins removed for the late submission of Background Color changer task",-425,-10,"2022-02-17 03:00:02","2022-02-17 03:00:02",ptd
+612,95,"Coins removed for the late submission of Linkedin Profile task",-435,-10,"2022-02-17 03:00:03","2022-02-17 03:00:03",ptd
+613,95,"Coins removed for the late submission of Linkedin Profile task",-445,-10,"2022-02-17 03:00:03","2022-02-17 03:00:03",ptd
+614,95,"Coins removed for the late submission of Roll Dice task",-455,-10,"2022-02-17 03:00:03","2022-02-17 03:00:03",ptd
+615,95,"Coins removed for the late submission of Roll Dice task",-465,-10,"2022-02-17 03:00:03","2022-02-17 03:00:03",ptd
+616,95,"Coins removed for the late submission of Custom Font task",-475,-10,"2022-02-17 03:00:03","2022-02-17 03:00:03",ptd
+617,95,"Coins removed for the late submission of Custom Font task",-485,-10,"2022-02-17 03:00:03","2022-02-17 03:00:03",ptd
+618,95,"Coins removed for the late submission of Image Viewer task",-495,-10,"2022-02-17 03:00:03","2022-02-17 03:00:03",ptd
+619,95,"Coins removed for the late submission of Image Viewer task",-505,-10,"2022-02-17 03:00:03","2022-02-17 03:00:03",ptd
+620,104,"Coins removed for the late submission of Create a webpage using HTML and CSS and Push into the Git. task",-20,-10,"2022-02-17 03:00:04","2022-02-17 03:00:04",ptd
+621,95,"Coins removed for the late submission of Counter App task",-525,-20,"2022-02-18 03:00:01","2022-02-18 03:00:01",ptd
+622,95,"Coins removed for the late submission of Counter App task",-545,-20,"2022-02-18 03:00:01","2022-02-18 03:00:01",ptd
+623,95,"Coins removed for the late submission of Display Text in Flutter App task",-565,-20,"2022-02-18 03:00:02","2022-02-18 03:00:02",ptd
+624,95,"Coins removed for the late submission of Display Text in Flutter App task",-585,-20,"2022-02-18 03:00:02","2022-02-18 03:00:02",ptd
+625,95,"Coins removed for the late submission of Background Color changer task",-605,-20,"2022-02-18 03:00:02","2022-02-18 03:00:02",ptd
+626,95,"Coins removed for the late submission of Background Color changer task",-625,-20,"2022-02-18 03:00:02","2022-02-18 03:00:02",ptd
+627,95,"Coins removed for the late submission of Linkedin Profile task",-645,-20,"2022-02-18 03:00:02","2022-02-18 03:00:02",ptd
+628,95,"Coins removed for the late submission of Linkedin Profile task",-665,-20,"2022-02-18 03:00:03","2022-02-18 03:00:03",ptd
+629,95,"Coins removed for the late submission of Roll Dice task",-685,-20,"2022-02-18 03:00:03","2022-02-18 03:00:03",ptd
+630,95,"Coins removed for the late submission of Roll Dice task",-705,-20,"2022-02-18 03:00:03","2022-02-18 03:00:03",ptd
+631,95,"Coins removed for the late submission of Custom Font task",-725,-20,"2022-02-18 03:00:03","2022-02-18 03:00:03",ptd
+632,95,"Coins removed for the late submission of Custom Font task",-745,-20,"2022-02-18 03:00:03","2022-02-18 03:00:03",ptd
+633,95,"Coins removed for the late submission of Image Viewer task",-765,-20,"2022-02-18 03:00:03","2022-02-18 03:00:03",ptd
+634,95,"Coins removed for the late submission of Image Viewer task",-785,-20,"2022-02-18 03:00:03","2022-02-18 03:00:03",ptd
+635,104,"Coins removed for the late submission of Create a webpage using HTML and CSS and Push into the Git. task",-40,-20,"2022-02-18 03:00:03","2022-02-18 03:00:03",ptd
+636,93,"You have earned 30 coins for sharing an update on LinkedIn.",955,30,"2022-02-18 23:52:56","2022-02-18 23:52:56",li
+637,73,"You have earned 30 coins for sharing an update on LinkedIn.",430,30,"2022-02-18 23:53:37","2022-02-18 23:53:37",li
+638,100,"You have earned 30 coins for sharing an update on LinkedIn.",310,30,"2022-02-18 23:53:53","2022-02-18 23:53:53",li
+639,75,"You have earned 25 coins for sharing an update on Twitter.",855,25,"2022-02-18 23:54:26","2022-02-18 23:54:26",tw
+640,75,"You have earned 30 coins for sharing an update on LinkedIn.",885,30,"2022-02-18 23:54:51","2022-02-18 23:54:51",li
+641,101,"You have earned 30 coins for sharing an update on LinkedIn.",145,30,"2022-02-18 23:55:18","2022-02-18 23:55:18",li
+642,32,"You have earned 20 coins for sharing an update on LinkedIn.",1735,20,"2022-02-18 23:56:39","2022-02-18 23:56:39",li
+643,95,"Coins removed for the late submission of Counter App task",-805,-20,"2022-02-19 03:00:01","2022-02-19 03:00:01",ptd
+644,95,"Coins removed for the late submission of Counter App task",-825,-20,"2022-02-19 03:00:01","2022-02-19 03:00:01",ptd
+645,95,"Coins removed for the late submission of Display Text in Flutter App task",-845,-20,"2022-02-19 03:00:01","2022-02-19 03:00:01",ptd
+646,95,"Coins removed for the late submission of Display Text in Flutter App task",-865,-20,"2022-02-19 03:00:02","2022-02-19 03:00:02",ptd
+647,95,"Coins removed for the late submission of Background Color changer task",-885,-20,"2022-02-19 03:00:02","2022-02-19 03:00:02",ptd
+648,95,"Coins removed for the late submission of Background Color changer task",-905,-20,"2022-02-19 03:00:02","2022-02-19 03:00:02",ptd
+649,95,"Coins removed for the late submission of Linkedin Profile task",-925,-20,"2022-02-19 03:00:02","2022-02-19 03:00:02",ptd
+650,95,"Coins removed for the late submission of Linkedin Profile task",-945,-20,"2022-02-19 03:00:02","2022-02-19 03:00:02",ptd
+651,95,"Coins removed for the late submission of Roll Dice task",-965,-20,"2022-02-19 03:00:02","2022-02-19 03:00:02",ptd
+652,95,"Coins removed for the late submission of Roll Dice task",-985,-20,"2022-02-19 03:00:02","2022-02-19 03:00:02",ptd
+653,95,"Coins removed for the late submission of Custom Font task",-1005,-20,"2022-02-19 03:00:02","2022-02-19 03:00:02",ptd
+654,95,"Coins removed for the late submission of Custom Font task",-1025,-20,"2022-02-19 03:00:02","2022-02-19 03:00:02",ptd
+655,95,"Coins removed for the late submission of Image Viewer task",-1045,-20,"2022-02-19 03:00:03","2022-02-19 03:00:03",ptd
+656,95,"Coins removed for the late submission of Image Viewer task",-1065,-20,"2022-02-19 03:00:03","2022-02-19 03:00:03",ptd
+657,104,"Coins removed for the late submission of Create a webpage using HTML and CSS and Push into the Git. task",-60,-20,"2022-02-19 03:00:03","2022-02-19 03:00:03",ptd
+658,51,"You have earned 20 coins for sharing an update on LinkedIn.",940,20,"2022-02-19 22:12:04","2022-02-19 22:12:04",li
+659,104,"Coins removed for the late submission of Create a webpage using HTML and CSS and Push into the Git. task",-90,-30,"2022-02-20 03:00:01","2022-02-20 03:00:01",ptd
+660,88,"You have won 50 coins for submitting the Todo App on time. Keep going!",800,50,"2022-02-20 20:56:50","2022-02-20 20:56:50",tot
+661,100,"You have earned 30 coins for sharing an update on LinkedIn.",340,30,"2022-02-21 00:48:05","2022-02-21 00:48:05",li
+662,32,"You have earned 15 coins for sharing an update on LinkedIn.",1750,15,"2022-02-21 00:48:20","2022-02-21 00:48:20",li
+663,32,"You have earned 25 coins for sharing an update on Twitter.",1775,25,"2022-02-21 00:48:40","2022-02-21 00:48:40",tw
+664,88,"You have earned 20 coins for sharing an update on LinkedIn.",820,20,"2022-02-21 00:48:50","2022-02-21 00:48:50",li
+665,104,"Coins removed for the late submission of Create a webpage using HTML and CSS and Push into the Git. task",-140,-50,"2022-02-21 03:00:01","2022-02-21 03:00:01",ptd
+666,104,"Coins removed for the late submission of Create a webpage using HTML and CSS and Push into the Git. task",-190,-50,"2022-02-22 03:00:02","2022-02-22 03:00:02",ptd
+667,104,"Coins removed for the late submission of Create a webpage using HTML and CSS and Push into the Git. task",-240,-50,"2022-02-23 03:00:02","2022-02-23 03:00:02",ptd
+668,104,"Coins removed for the late submission of Create a webpage using HTML and CSS and Push into the Git. task",-290,-50,"2022-02-24 03:00:02","2022-02-24 03:00:02",ptd
+669,100,"You have earned 15 coins for sharing an update on LinkedIn.",355,15,"2022-02-24 15:24:45","2022-02-24 15:24:45",li
+670,75,"You have earned 20 coins for sharing an update on LinkedIn.",905,20,"2022-02-24 15:25:09","2022-02-24 15:25:09",li
+671,75,"You have earned 20 coins for sharing an update on LinkedIn.",925,20,"2022-02-24 15:25:24","2022-02-24 15:25:24",li
+672,97,"You have earned 30 coins for sharing an update on LinkedIn.",865,30,"2022-02-24 15:25:39","2022-02-24 15:25:39",li
+673,105,"You have won 50 coins for submitting the Host Your Website Or Task on time. Keep going!",100,50,"2022-02-24 21:08:37","2022-02-24 21:08:37",tot
+674,97,"You have earned 25 coins for sharing an update on Twitter.",890,25,"2022-02-25 00:43:34","2022-02-25 00:43:34",tw
+675,106," Hey Friend, good you got 20 coins for the Host Your Website Or Task",70,20,"2022-02-25 19:42:30","2022-02-25 19:42:30",te
+676,100," Hey Friend, good you got 20 coins for the Host Your Website Or Task",375,20,"2022-02-25 19:43:13","2022-02-25 19:43:13",te
+677,103," Hey Friend, good you got 20 coins for the Host Your Website Or Task",100,20,"2022-02-25 19:43:53","2022-02-25 19:43:53",te
+678,105," Hey Friend, good you got 20 coins for the Host Your Website Or Task",120,20,"2022-02-25 19:44:38","2022-02-25 19:44:38",te
+679,102,"Coins removed for the late submission of Host Your Website Or Task task",230,-10,"2022-02-26 03:00:01","2022-02-26 03:00:01",ptd
+680,102,"You lost 10 coins for the redo of Host Your Website Or Task Tasks.",220,-10,"2022-02-26 15:44:43","2022-02-26 15:44:43",rd
+681,101,"You lost 10 coins for the redo of Host Your Website Or Task Tasks.",135,-10,"2022-02-26 15:44:54","2022-02-26 15:44:54",rd
+682,105,"You have earned 30 coins for sharing an update on LinkedIn.",150,30,"2022-02-28 13:21:47","2022-02-28 13:21:47",li
+683,88,"You have earned 25 coins for sharing an update on Twitter.",845,25,"2022-02-28 13:22:04","2022-02-28 13:22:04",tw
+684,93,"You have earned 30 coins for sharing an update on LinkedIn.",985,30,"2022-02-28 13:22:25","2022-02-28 13:22:25",li
+685,90,"You have earned 25 coins for sharing an update on Twitter.",945,25,"2022-03-02 16:37:20","2022-03-02 16:37:20",tw
+686,13,"You lost 10 coins for the redo of Deadline Cheking Task Tasks.",-10,-10,"2022-03-04 16:10:05","2022-03-04 16:10:05",rd
+687,88,"You have earned 25 coins for sharing an update on Twitter.",870,25,"2022-03-07 12:20:12","2022-03-07 12:20:12",tw
+688,95,"You have earned 15 coins for sharing an update on LinkedIn.",-1050,15,"2022-03-07 12:20:28","2022-03-07 12:20:28",li
+689,31,"You have earned 20 coins for sharing an update on LinkedIn.",170,20,"2022-03-07 12:20:58","2022-03-07 12:20:58",li
+690,88,"You have earned 20 coins for sharing an update on LinkedIn.",890,20,"2022-03-07 12:21:13","2022-03-07 12:21:13",li
+691,75,"You have earned 25 coins for sharing an update on Twitter.",950,25,"2022-03-07 12:21:24","2022-03-07 12:21:24",tw
+692,75,"You have earned 20 coins for sharing an update on LinkedIn.",970,20,"2022-03-07 12:21:41","2022-03-07 12:21:41",li
+693,100,"You have earned 20 coins for sharing an update on LinkedIn.",395,20,"2022-03-07 12:22:00","2022-03-07 12:22:00",li
+694,102,"You have earned 20 coins for sharing an update on LinkedIn.",240,20,"2022-03-07 12:22:18","2022-03-07 12:22:18",li
+695,100,"You have won 50 coins for submitting the Create s Static youtube landing page on time. Keep going!",445,50,"2022-03-10 13:36:17","2022-03-10 13:36:17",tot
+696,102,"Coins removed for the late submission of Create s Static youtube landing page task",230,-10,"2022-03-11 03:00:01","2022-03-11 03:00:01",ptd
+697,102,"Coins removed for the late submission of Create s Static youtube landing page task",220,-10,"2022-03-11 03:00:01","2022-03-11 03:00:01",ptd
+698,75,"You have earned 20 coins for sharing an update on LinkedIn.",990,20,"2022-03-25 22:15:33","2022-03-25 22:15:33",li
+699,51,"You have earned 15 coins for sharing an update on LinkedIn.",955,15,"2022-03-25 22:15:50","2022-03-25 22:15:50",li
+700,90,"Coins removed for the late submission of Convert the Tasks Using a Framework task",935,-10,"2022-03-26 03:00:01","2022-03-26 03:00:01",ptd
+701,91,"Coins removed for the late submission of Convert the Tasks Using a Framework task",765,-10,"2022-03-26 03:00:01","2022-03-26 03:00:01",ptd
+702,92,"Coins removed for the late submission of Convert the Tasks Using a Framework task",680,-10,"2022-03-26 03:00:02","2022-03-26 03:00:02",ptd
+703,93,"Coins removed for the late submission of Convert the Tasks Using a Framework task",975,-10,"2022-03-26 03:00:02","2022-03-26 03:00:02",ptd
+704,94,"Coins removed for the late submission of Convert the Tasks Using a Framework task",910,-10,"2022-03-26 03:00:02","2022-03-26 03:00:02",ptd
+705,97,"Coins removed for the late submission of Convert the Tasks Using a Framework task",880,-10,"2022-03-26 03:00:02","2022-03-26 03:00:02",ptd
+706,100,"You have earned 20 coins for sharing an update on LinkedIn.",465,20,"2022-03-27 00:48:45","2022-03-27 00:48:45",li
+707,90,"Coins removed for the late submission of Convert the Tasks Using a Framework task",925,-10,"2022-03-27 03:00:02","2022-03-27 03:00:02",ptd
+708,91,"Coins removed for the late submission of Convert the Tasks Using a Framework task",755,-10,"2022-03-27 03:00:02","2022-03-27 03:00:02",ptd
+709,92,"Coins removed for the late submission of Convert the Tasks Using a Framework task",670,-10,"2022-03-27 03:00:02","2022-03-27 03:00:02",ptd
+710,93,"Coins removed for the late submission of Convert the Tasks Using a Framework task",965,-10,"2022-03-27 03:00:02","2022-03-27 03:00:02",ptd
+711,94,"Coins removed for the late submission of Convert the Tasks Using a Framework task",900,-10,"2022-03-27 03:00:02","2022-03-27 03:00:02",ptd
+712,97,"Coins removed for the late submission of Convert the Tasks Using a Framework task",870,-10,"2022-03-27 03:00:02","2022-03-27 03:00:02",ptd
+713,90,"Coins removed for the late submission of Convert the Tasks Using a Framework task",915,-10,"2022-03-28 03:00:01","2022-03-28 03:00:01",ptd
+714,91,"Coins removed for the late submission of Convert the Tasks Using a Framework task",745,-10,"2022-03-28 03:00:01","2022-03-28 03:00:01",ptd
+715,92,"Coins removed for the late submission of Convert the Tasks Using a Framework task",660,-10,"2022-03-28 03:00:01","2022-03-28 03:00:01",ptd
+716,93,"Coins removed for the late submission of Convert the Tasks Using a Framework task",955,-10,"2022-03-28 03:00:01","2022-03-28 03:00:01",ptd
+717,94,"Coins removed for the late submission of Convert the Tasks Using a Framework task",890,-10,"2022-03-28 03:00:02","2022-03-28 03:00:02",ptd
+718,97,"Coins removed for the late submission of Convert the Tasks Using a Framework task",860,-10,"2022-03-28 03:00:02","2022-03-28 03:00:02",ptd
+719,59,"You have earned 20 coins for sharing an update on LinkedIn.",455,20,"2022-03-28 17:53:28","2022-03-28 17:53:28",li
+720,88,"You have earned 20 coins for sharing an update on LinkedIn.",910,20,"2022-03-28 17:53:38","2022-03-28 17:53:38",li
+721,102,"You have earned 30 coins for sharing an update on LinkedIn.",250,30,"2022-03-28 17:53:58","2022-03-28 17:53:58",li
+722,102,"You have earned 20 coins for sharing an update on LinkedIn.",270,20,"2022-03-28 17:54:12","2022-03-28 17:54:12",li
+723,90,"Coins removed for the late submission of Convert the Tasks Using a Framework task",905,-10,"2022-03-29 03:00:02","2022-03-29 03:00:02",ptd
+724,91,"Coins removed for the late submission of Convert the Tasks Using a Framework task",735,-10,"2022-03-29 03:00:02","2022-03-29 03:00:02",ptd
+725,92,"Coins removed for the late submission of Convert the Tasks Using a Framework task",650,-10,"2022-03-29 03:00:02","2022-03-29 03:00:02",ptd
+726,93,"Coins removed for the late submission of Convert the Tasks Using a Framework task",945,-10,"2022-03-29 03:00:02","2022-03-29 03:00:02",ptd
+727,94,"Coins removed for the late submission of Convert the Tasks Using a Framework task",880,-10,"2022-03-29 03:00:02","2022-03-29 03:00:02",ptd
+728,97,"Coins removed for the late submission of Convert the Tasks Using a Framework task",850,-10,"2022-03-29 03:00:02","2022-03-29 03:00:02",ptd
+729,90,"Coins removed for the late submission of Convert the Tasks Using a Framework task",885,-20,"2022-03-30 03:00:02","2022-03-30 03:00:02",ptd
+730,91,"Coins removed for the late submission of Convert the Tasks Using a Framework task",715,-20,"2022-03-30 03:00:02","2022-03-30 03:00:02",ptd
+731,92,"Coins removed for the late submission of Convert the Tasks Using a Framework task",630,-20,"2022-03-30 03:00:02","2022-03-30 03:00:02",ptd
+732,93,"Coins removed for the late submission of Convert the Tasks Using a Framework task",925,-20,"2022-03-30 03:00:02","2022-03-30 03:00:02",ptd
+733,94,"Coins removed for the late submission of Convert the Tasks Using a Framework task",860,-20,"2022-03-30 03:00:02","2022-03-30 03:00:02",ptd
+734,97,"Coins removed for the late submission of Convert the Tasks Using a Framework task",830,-20,"2022-03-30 03:00:02","2022-03-30 03:00:02",ptd
+735,90,"Coins removed for the late submission of Convert the Tasks Using a Framework task",865,-20,"2022-03-31 03:00:01","2022-03-31 03:00:01",ptd
+736,91,"Coins removed for the late submission of Convert the Tasks Using a Framework task",695,-20,"2022-03-31 03:00:02","2022-03-31 03:00:02",ptd
+737,92,"Coins removed for the late submission of Convert the Tasks Using a Framework task",610,-20,"2022-03-31 03:00:02","2022-03-31 03:00:02",ptd
+738,93,"Coins removed for the late submission of Convert the Tasks Using a Framework task",905,-20,"2022-03-31 03:00:02","2022-03-31 03:00:02",ptd
+739,94,"Coins removed for the late submission of Convert the Tasks Using a Framework task",840,-20,"2022-03-31 03:00:02","2022-03-31 03:00:02",ptd
+740,97,"Coins removed for the late submission of Convert the Tasks Using a Framework task",810,-20,"2022-03-31 03:00:02","2022-03-31 03:00:02",ptd
+741,100," Hey Friend, good you got 20 coins for the Create a Static Hotstar/Netflix clone using HTML and CSS and Push into the Git.",485,20,"2022-03-31 09:49:59","2022-03-31 09:49:59",te
+742,100," Hey Friend, good you got 20 coins for the Create s Static youtube landing page",505,20,"2022-03-31 09:51:37","2022-03-31 09:51:37",te
+743,102," Hey Friend, good you got 20 coins for the Create a Static Hotstar/Netflix clone using HTML and CSS and Push into the Git.",290,20,"2022-03-31 10:01:15","2022-03-31 10:01:15",te
+744,102," Hey Friend, good you got 40 coins for the Create s Static youtube landing page",330,40,"2022-03-31 10:02:36","2022-03-31 10:02:36",te
+745,103," Hey Friend, good you got 20 coins for the Create a Static Hotstar/Netflix clone using HTML and CSS and Push into the Git.",120,20,"2022-03-31 10:03:25","2022-03-31 10:03:25",te
+746,103," Hey Friend, good you got 30 coins for the Create s Static youtube landing page",150,30,"2022-03-31 10:04:17","2022-03-31 10:04:17",te
+747,105," Hey Friend, good you got 50 coins for the Create a Static Hotstar/Netflix clone using HTML and CSS and Push into the Git.",200,50,"2022-03-31 10:05:23","2022-03-31 10:05:23",te
+748,105," Hey Friend, good you got 30 coins for the Create s Static youtube landing page",230,30,"2022-03-31 10:06:13","2022-03-31 10:06:13",te
+749,106," Hey Friend, good you got 50 coins for the Create a Static Hotstar/Netflix clone using HTML and CSS and Push into the Git.",120,50,"2022-03-31 10:07:41","2022-03-31 10:07:41",te
+750,106," Hey Friend, good you got 40 coins for the Create s Static youtube landing page",160,40,"2022-03-31 10:08:10","2022-03-31 10:08:10",te
+751,90,"Coins removed for the late submission of Convert the Tasks Using a Framework task",835,-30,"2022-04-01 03:00:02","2022-04-01 03:00:02",ptd
+752,91,"Coins removed for the late submission of Convert the Tasks Using a Framework task",665,-30,"2022-04-01 03:00:02","2022-04-01 03:00:02",ptd
+753,92,"Coins removed for the late submission of Convert the Tasks Using a Framework task",580,-30,"2022-04-01 03:00:02","2022-04-01 03:00:02",ptd
+754,93,"Coins removed for the late submission of Convert the Tasks Using a Framework task",875,-30,"2022-04-01 03:00:02","2022-04-01 03:00:02",ptd
+755,94,"Coins removed for the late submission of Convert the Tasks Using a Framework task",810,-30,"2022-04-01 03:00:02","2022-04-01 03:00:02",ptd
+756,97,"Coins removed for the late submission of Convert the Tasks Using a Framework task",780,-30,"2022-04-01 03:00:02","2022-04-01 03:00:02",ptd
+757,75,"You have earned 20 coins for sharing an update on LinkedIn.",1010,20,"2022-04-01 18:15:15","2022-04-01 18:15:15",li
+758,89,"Coins removed for the late submission of Convert the Tasks Using a Framework task",-25,-50,"2022-04-02 03:00:01","2022-04-02 03:00:01",ptd
+759,91,"Coins removed for the late submission of Convert the Tasks Using a Framework task",615,-50,"2022-04-02 03:00:01","2022-04-02 03:00:01",ptd
+760,92,"Coins removed for the late submission of Convert the Tasks Using a Framework task",530,-50,"2022-04-02 03:00:01","2022-04-02 03:00:01",ptd
+761,93,"Coins removed for the late submission of Convert the Tasks Using a Framework task",825,-50,"2022-04-02 03:00:01","2022-04-02 03:00:01",ptd
+762,94,"Coins removed for the late submission of Convert the Tasks Using a Framework task",760,-50,"2022-04-02 03:00:02","2022-04-02 03:00:02",ptd
+763,96,"Coins removed for the late submission of Convert the Tasks Using a Framework task",330,-50,"2022-04-02 03:00:02","2022-04-02 03:00:02",ptd
+764,97,"Coins removed for the late submission of Convert the Tasks Using a Framework task",730,-50,"2022-04-02 03:00:02","2022-04-02 03:00:02",ptd
+765,98,"Coins removed for the late submission of Convert the Tasks Using a Framework task",-145,-50,"2022-04-02 03:00:02","2022-04-02 03:00:02",ptd
+766,96,"You have earned 20 coins for sharing an update on LinkedIn.",350,20,"2022-04-02 10:33:43","2022-04-02 10:33:43",li
+767,96,"You have earned 25 coins for sharing an update on Twitter.",375,25,"2022-04-02 10:33:56","2022-04-02 10:33:56",tw
+768,90,"Coins removed for the late submission of Convert the Tasks Using a Framework task",785,-50,"2022-04-03 03:00:02","2022-04-03 03:00:02",ptd
+769,91,"Coins removed for the late submission of Convert the Tasks Using a Framework task",565,-50,"2022-04-03 03:00:02","2022-04-03 03:00:02",ptd
+770,92,"Coins removed for the late submission of Convert the Tasks Using a Framework task",480,-50,"2022-04-03 03:00:02","2022-04-03 03:00:02",ptd
+771,93,"Coins removed for the late submission of Convert the Tasks Using a Framework task",775,-50,"2022-04-03 03:00:02","2022-04-03 03:00:02",ptd
+772,94,"Coins removed for the late submission of Convert the Tasks Using a Framework task",710,-50,"2022-04-03 03:00:02","2022-04-03 03:00:02",ptd
+773,96,"Coins removed for the late submission of Convert the Tasks Using a Framework task",325,-50,"2022-04-03 03:00:02","2022-04-03 03:00:02",ptd
+774,97,"Coins removed for the late submission of Convert the Tasks Using a Framework task",680,-50,"2022-04-03 03:00:02","2022-04-03 03:00:02",ptd
+775,90,"Coins removed for the late submission of Convert the Tasks Using a Framework task",735,-50,"2022-04-04 03:00:02","2022-04-04 03:00:02",ptd
+776,91,"Coins removed for the late submission of Convert the Tasks Using a Framework task",515,-50,"2022-04-04 03:00:02","2022-04-04 03:00:02",ptd
+777,92,"Coins removed for the late submission of Convert the Tasks Using a Framework task",430,-50,"2022-04-04 03:00:02","2022-04-04 03:00:02",ptd
+778,93,"Coins removed for the late submission of Convert the Tasks Using a Framework task",725,-50,"2022-04-04 03:00:02","2022-04-04 03:00:02",ptd
+779,94,"Coins removed for the late submission of Convert the Tasks Using a Framework task",660,-50,"2022-04-04 03:00:02","2022-04-04 03:00:02",ptd
+780,96,"Coins removed for the late submission of Convert the Tasks Using a Framework task",275,-50,"2022-04-04 03:00:02","2022-04-04 03:00:02",ptd
+781,97,"Coins removed for the late submission of Convert the Tasks Using a Framework task",630,-50,"2022-04-04 03:00:02","2022-04-04 03:00:02",ptd
+782,90,"Coins removed for the late submission of Convert the Tasks Using a Framework task",685,-50,"2022-04-05 03:00:01","2022-04-05 03:00:01",ptd
+783,91,"Coins removed for the late submission of Convert the Tasks Using a Framework task",465,-50,"2022-04-05 03:00:01","2022-04-05 03:00:01",ptd
+784,92,"Coins removed for the late submission of Convert the Tasks Using a Framework task",380,-50,"2022-04-05 03:00:01","2022-04-05 03:00:01",ptd
+785,93,"Coins removed for the late submission of Convert the Tasks Using a Framework task",675,-50,"2022-04-05 03:00:01","2022-04-05 03:00:01",ptd
+786,94,"Coins removed for the late submission of Convert the Tasks Using a Framework task",610,-50,"2022-04-05 03:00:01","2022-04-05 03:00:01",ptd
+787,96,"Coins removed for the late submission of Convert the Tasks Using a Framework task",225,-50,"2022-04-05 03:00:01","2022-04-05 03:00:01",ptd
+788,97,"Coins removed for the late submission of Convert the Tasks Using a Framework task",580,-50,"2022-04-05 03:00:02","2022-04-05 03:00:02",ptd
+789,51,"You have earned 15 coins for sharing an update on LinkedIn.",970,15,"2022-04-05 13:44:26","2022-04-05 13:44:26",li
+790,96,"You have earned 20 coins for sharing an update on LinkedIn.",245,20,"2022-04-05 13:44:39","2022-04-05 13:44:39",li
+791,96,"You have earned 25 coins for sharing an update on Twitter.",270,25,"2022-04-05 13:44:55","2022-04-05 13:44:55",tw
+792,75,"You have earned 20 coins for sharing an update on LinkedIn.",1030,20,"2022-04-05 13:45:08","2022-04-05 13:45:08",li
+793,75,"You have earned 25 coins for sharing an update on Twitter.",1055,25,"2022-04-05 13:45:24","2022-04-05 13:45:24",tw
+794,75,"You have earned 15 coins for sharing an update on LinkedIn.",1070,15,"2022-04-13 21:23:39","2022-04-13 21:23:39",li
+795,75,"You have earned 30 coins for sharing an update on LinkedIn.",1100,30,"2022-04-13 21:23:51","2022-04-13 21:23:51",li
+796,75,"You have earned 25 coins for sharing an update on Twitter.",1125,25,"2022-04-13 21:24:05","2022-04-13 21:24:05",tw
+797,13,"You have earned 20 coins for Group Discussion",10,20,"2022-04-15 11:13:38","2022-04-15 11:13:38",cmp-gd
+798,13,"You have earned 20 coins for Group Discussion",30,20,"2022-04-15 11:13:38","2022-04-15 11:13:38",cmp-gd
+799,13,"You are granted 50 coins as compensation for task submission on time",80,50,"2022-04-15 11:57:04","2022-04-15 11:57:04",cms-tot
+800,100,"You are granted 50 coins as compensation for task submission on time",555,50,"2022-04-15 11:58:10","2022-04-15 11:58:10",cms-tot
+801,101,"You are granted 50 coins as compensation for task submission on time",185,50,"2022-04-15 11:58:10","2022-04-15 11:58:10",cms-tot
+802,102,"You are granted 50 coins as compensation for task submission on time",380,50,"2022-04-15 11:58:10","2022-04-15 11:58:10",cms-tot
+803,103,"You are granted 50 coins as compensation for task submission on time",200,50,"2022-04-15 11:58:11","2022-04-15 11:58:11",cms-tot
+804,104,"You are granted 50 coins as compensation for task submission on time",-240,50,"2022-04-15 11:58:11","2022-04-15 11:58:11",cms-tot
+805,105,"You are granted 50 coins as compensation for task submission on time",280,50,"2022-04-15 11:58:11","2022-04-15 11:58:11",cms-tot
+806,106,"You are granted 50 coins as compensation for task submission on time",210,50,"2022-04-15 11:58:11","2022-04-15 11:58:11",cms-tot
+807,100,"You are granted 50 coins as compensation for task submission on time",605,50,"2022-04-15 11:58:44","2022-04-15 11:58:44",cms-tot
+808,101,"You are granted 50 coins as compensation for task submission on time",235,50,"2022-04-15 11:58:44","2022-04-15 11:58:44",cms-tot
+809,102,"You are granted 50 coins as compensation for task submission on time",430,50,"2022-04-15 11:58:44","2022-04-15 11:58:44",cms-tot
+810,103,"You are granted 50 coins as compensation for task submission on time",250,50,"2022-04-15 11:58:44","2022-04-15 11:58:44",cms-tot
+811,105,"You are granted 50 coins as compensation for task submission on time",330,50,"2022-04-15 11:58:44","2022-04-15 11:58:44",cms-tot
+812,106,"You are granted 50 coins as compensation for task submission on time",260,50,"2022-04-15 11:58:44","2022-04-15 11:58:44",cms-tot
+813,88,"You have earned 20 coins for Group Discussion on April 6,2022",930,20,"2022-04-15 12:03:37","2022-04-15 12:03:37",cmp-gd
+814,90,"You have earned 20 coins for Group Discussion on April 6,2022",705,20,"2022-04-15 12:03:37","2022-04-15 12:03:37",cmp-gd
+815,91,"You have earned 20 coins for Group Discussion on April 6,2022",485,20,"2022-04-15 12:03:37","2022-04-15 12:03:37",cmp-gd
+816,93,"You have earned 20 coins for Group Discussion on April 6,2022",695,20,"2022-04-15 12:03:37","2022-04-15 12:03:37",cmp-gd
+817,94,"You have earned 20 coins for Group Discussion on April 6,2022",630,20,"2022-04-15 12:03:37","2022-04-15 12:03:37",cmp-gd
+818,96,"You have earned 20 coins for Group Discussion on April 6,2022",290,20,"2022-04-15 12:03:37","2022-04-15 12:03:37",cmp-gd
+819,97,"You have earned 20 coins for Group Discussion on April 6,2022",600,20,"2022-04-15 12:03:37","2022-04-15 12:03:37",cmp-gd
+820,100,"You have earned 20 coins for Group Discussion on Crypto Currency",625,20,"2022-04-15 13:54:35","2022-04-15 13:54:35",cmp-gd
+821,101,"You have earned 20 coins for Group Discussion on Crypto Currency",255,20,"2022-04-15 13:54:35","2022-04-15 13:54:35",cmp-gd
+822,102,"You have earned 20 coins for Group Discussion on Crypto Currency",450,20,"2022-04-15 13:54:36","2022-04-15 13:54:36",cmp-gd
+823,103,"You have earned 20 coins for Group Discussion on Crypto Currency",270,20,"2022-04-15 13:54:36","2022-04-15 13:54:36",cmp-gd
+824,104,"You have earned 20 coins for Group Discussion on Crypto Currency",-220,20,"2022-04-15 13:54:36","2022-04-15 13:54:36",cmp-gd
+825,105,"You have earned 20 coins for Group Discussion on Crypto Currency",350,20,"2022-04-15 13:54:36","2022-04-15 13:54:36",cmp-gd
+826,106,"You have earned 20 coins for Group Discussion on Crypto Currency",280,20,"2022-04-15 13:54:36","2022-04-15 13:54:36",cmp-gd
+827,31,"You have earned 20 coins for Group Discussion on Crypto Currency",190,20,"2022-04-15 13:54:36","2022-04-15 13:54:36",cmp-gd
+828,59,"You have earned 20 coins for Group Discussion on Crypto Currency",475,20,"2022-04-15 13:54:36","2022-04-15 13:54:36",cmp-gd
+829,75,"You have earned 20 coins for Group Discussion on Crypto Currency",1145,20,"2022-04-15 13:54:37","2022-04-15 13:54:37",cmp-gd
+830,93,"You have earned 20 coins for Group Discussion on Exams and Goals",715,20,"2022-04-15 14:01:29","2022-04-15 14:01:29",cmp-gd
+831,92,"You have earned 20 coins for Group Discussion on Exams and Goals",400,20,"2022-04-15 14:01:29","2022-04-15 14:01:29",cmp-gd
+832,103,"You have earned 20 coins for Group Discussion on Exams and Goals",290,20,"2022-04-15 14:01:29","2022-04-15 14:01:29",cmp-gd
+833,52,"You have earned 20 coins for Group Discussion on Exams and Goals",10,20,"2022-04-15 14:01:29","2022-04-15 14:01:29",cmp-gd
+834,90,"You have earned 20 coins for Group Discussion on Exams and Goals",725,20,"2022-04-15 14:01:30","2022-04-15 14:01:30",cmp-gd
+835,95,"You have earned 20 coins for Group Discussion on Exams and Goals",-1030,20,"2022-04-15 14:01:30","2022-04-15 14:01:30",cmp-gd
+836,32,"You have earned 20 coins for Group Discussion on Exams and Goals",1795,20,"2022-04-15 14:01:30","2022-04-15 14:01:30",cmp-gd
+837,43,"You have earned 20 coins for Group Discussion on Exams and Goals",885,20,"2022-04-15 14:01:30","2022-04-15 14:01:30",cmp-gd
+838,96,"You have earned 20 coins for Group Discussion on Exams and Goals",310,20,"2022-04-15 14:01:30","2022-04-15 14:01:30",cmp-gd
+839,97,"You have earned 20 coins for Group Discussion on Exams and Goals",620,20,"2022-04-15 14:01:30","2022-04-15 14:01:30",cmp-gd
+840,88,"You have earned 20 coins for Group Discussion on Exams and Goals",950,20,"2022-04-15 14:01:30","2022-04-15 14:01:30",cmp-gd
+841,89,"You have earned 20 coins for Group Discussion on Exams and Goals",-5,20,"2022-04-15 14:01:30","2022-04-15 14:01:30",cmp-gd
+842,73,"You have earned 20 coins for Group Discussion on Exams and Goals",450,20,"2022-04-15 14:01:31","2022-04-15 14:01:31",cmp-gd
+843,59,"You have earned 20 coins for Group Discussion on Exams and Goals",495,20,"2022-04-15 14:01:31","2022-04-15 14:01:31",cmp-gd
+844,75,"You have earned 20 coins for Group Discussion on Exams and Goals",1165,20,"2022-04-15 14:01:31","2022-04-15 14:01:31",cmp-gd
+845,13,"You have lost - 10 coins for GD that was missed on April 6",70,-10,"2022-04-15 15:20:36","2022-04-15 15:20:36",ng-gd
+846,13,"You have lost - 10 coins for GD that was missed on April 6",60,-10,"2022-04-15 15:20:37","2022-04-15 15:20:37",ng-gd
+847,31,"You have lost - 10 coins for GD that was missed on April 6",180,-10,"2022-04-15 15:25:33","2022-04-15 15:25:33",ng-gd
+848,59,"You have lost - 10 coins for GD that was missed on April 6",485,-10,"2022-04-15 15:25:33","2022-04-15 15:25:33",ng-gd
+849,75,"You have lost - 10 coins for GD that was missed on April 6",1155,-10,"2022-04-15 15:25:33","2022-04-15 15:25:33",ng-gd
+850,100,"You have lost - 10 coins for GD that was missed on April 6",615,-10,"2022-04-15 15:25:33","2022-04-15 15:25:33",ng-gd
+851,101,"You have lost - 10 coins for GD that was missed on April 6",245,-10,"2022-04-15 15:25:34","2022-04-15 15:25:34",ng-gd
+852,102,"You have lost - 10 coins for GD that was missed on April 6",440,-10,"2022-04-15 15:25:34","2022-04-15 15:25:34",ng-gd
+853,103,"You have lost - 10 coins for GD that was missed on April 6",280,-10,"2022-04-15 15:25:34","2022-04-15 15:25:34",ng-gd
+854,104,"You have lost - 10 coins for GD that was missed on April 6",-230,-10,"2022-04-15 15:25:34","2022-04-15 15:25:34",ng-gd
+855,105,"You have lost - 10 coins for GD that was missed on April 6",340,-10,"2022-04-15 15:25:34","2022-04-15 15:25:34",ng-gd
+856,106,"You have lost - 10 coins for GD that was missed on April 6",270,-10,"2022-04-15 15:25:34","2022-04-15 15:25:34",ng-gd
+857,100,"You have lost - 10 coins for GD that was missed on April 13",605,-10,"2022-04-15 15:26:43","2022-04-15 15:26:43",ng-gd
+858,101,"You have lost - 10 coins for GD that was missed on April 13",235,-10,"2022-04-15 15:26:43","2022-04-15 15:26:43",ng-gd
+859,102,"You have lost - 10 coins for GD that was missed on April 13",430,-10,"2022-04-15 15:26:44","2022-04-15 15:26:44",ng-gd
+860,103,"You have lost - 10 coins for GD that was missed on April 13",270,-10,"2022-04-15 15:26:44","2022-04-15 15:26:44",ng-gd
+861,104,"You have lost - 10 coins for GD that was missed on April 13",-240,-10,"2022-04-15 15:26:44","2022-04-15 15:26:44",ng-gd
+862,105,"You have lost - 10 coins for GD that was missed on April 13",330,-10,"2022-04-15 15:26:44","2022-04-15 15:26:44",ng-gd
+863,106,"You have lost - 10 coins for GD that was missed on April 13",260,-10,"2022-04-15 15:26:44","2022-04-15 15:26:44",ng-gd
+864,59,"You have earned 30 coins for Group Discussion on Self Learing",515,30,"2022-04-15 15:34:41","2022-04-15 15:34:41",cmp-gd
+865,69,"You have earned 30 coins for Group Discussion on Self Learing",430,30,"2022-04-15 15:34:41","2022-04-15 15:34:41",cmp-gd
+866,70,"You have earned 30 coins for Group Discussion on Self Learing",30,30,"2022-04-15 15:34:41","2022-04-15 15:34:41",cmp-gd
+867,75,"You have earned 30 coins for Group Discussion on Self Learing",1185,30,"2022-04-15 15:34:41","2022-04-15 15:34:41",cmp-gd
+868,81,"You have earned 30 coins for Group Discussion on Self Learing",195,30,"2022-04-15 15:34:42","2022-04-15 15:34:42",cmp-gd
+869,82,"You have earned 30 coins for Group Discussion on Self Learing",170,30,"2022-04-15 15:34:42","2022-04-15 15:34:42",cmp-gd
+870,97,"You have earned 20 coins for sharing an update on LinkedIn.",640,20,"2022-04-15 22:36:00","2022-04-15 22:36:00",li
+871,41,"You are granted 50 coins for being top coin earner(Linkedin) of the month Jan 2022",1315,50,"2022-04-15 22:39:42","2022-04-15 22:39:42",cmp-li
+872,59,"You are granted 50 coins for being top coin earner(Linkedin) of the month Jan 2022",565,50,"2022-04-15 22:39:42","2022-04-15 22:39:42",cmp-li
+873,75,"You are granted 50 coins for being top coin earner(Linkedin) of the month Jan 2022",1235,50,"2022-04-15 22:39:42","2022-04-15 22:39:42",cmp-li
+874,88,"You are granted 50 coins for being top coin earner(Twitter) of the month Jan 2022",1000,50,"2022-04-15 22:41:25","2022-04-15 22:41:25",cmp-tw
+875,97,"You are granted 50 coins for being top coin earner(Twitter) of the month Jan 2022",690,50,"2022-04-15 22:41:25","2022-04-15 22:41:25",cmp-tw
+876,93,"You are granted 50 coins for being top coin earner(Twitter) of the month Jan 2022",765,50,"2022-04-15 22:41:26","2022-04-15 22:41:26",cmp-tw
+877,90,"You are granted 50 coins for being top coin earner(Task Evaluation) of the month Jan 2022",775,50,"2022-04-15 22:42:49","2022-04-15 22:42:49",cmp-te
+878,96,"You are granted 50 coins for being top coin earner(Task Evaluation) of the month Jan 2022",360,50,"2022-04-15 22:42:49","2022-04-15 22:42:49",cmp-te
+879,97,"You are granted 50 coins for being top coin earner(Task Evaluation) of the month Jan 2022",740,50,"2022-04-15 22:42:49","2022-04-15 22:42:49",cmp-te
+880,97,"You are granted 50 coins for being top coin earner(Task On Time) of the month Jan 2022",790,50,"2022-04-15 22:43:28","2022-04-15 22:43:28",cmp-tot
+881,75,"You are granted 50 coins for being top coin earner(Linkedin) of the month Feb 2022",1285,50,"2022-04-15 22:44:32","2022-04-15 22:44:32",cmp-li
+882,100,"You are granted 50 coins for being top coin earner(Linkedin) of the month Feb 2022",655,50,"2022-04-15 22:44:33","2022-04-15 22:44:33",cmp-li
+883,102,"You are granted 50 coins for being top coin earner(Linkedin) of the month Feb 2022",480,50,"2022-04-15 22:44:33","2022-04-15 22:44:33",cmp-li
+884,75,"You are granted 50 coins for being top coin earner(Twitter) of the month Feb 2022",1335,50,"2022-04-15 22:47:55","2022-04-15 22:47:55",cmp-tw
+885,31,"You are granted 50 coins for being top coin earner(Twitter) of the month Feb 2022",230,50,"2022-04-15 22:47:55","2022-04-15 22:47:55",cmp-tw
+886,88,"You are granted 50 coins for being top coin earner(Twitter) of the month Feb 2022",1050,50,"2022-04-15 22:47:55","2022-04-15 22:47:55",cmp-tw
+887,88,"You are granted 50 coins for being top coin earner(Task On Time) of the month Feb 2022",1100,50,"2022-04-15 22:48:38","2022-04-15 22:48:38",cmp-tot
+888,105,"You are granted 50 coins for being top coin earner(Task On Time) of the month Feb 2022",380,50,"2022-04-15 22:48:39","2022-04-15 22:48:39",cmp-tot
+889,32,"You are granted 50 coins for being top coin earner(Task Evaluation) of the month Feb 2022",1845,50,"2022-04-15 22:50:31","2022-04-15 22:50:31",cmp-te
+890,41,"You are granted 50 coins for being top coin earner(Task Evaluation) of the month Feb 2022",1365,50,"2022-04-15 22:50:32","2022-04-15 22:50:32",cmp-te
+891,54,"You are granted 50 coins for being top coin earner(Task Evaluation) of the month Feb 2022",995,50,"2022-04-15 22:50:32","2022-04-15 22:50:32",cmp-te
+892,88,"You are granted 50 coins for being top coin earner(Linkedin) of the month March 2022",1150,50,"2022-04-15 22:52:11","2022-04-15 22:52:11",cmp-li
+893,100,"You are granted 50 coins for being top coin earner(Linkedin) of the month March 2022",705,50,"2022-04-15 22:52:12","2022-04-15 22:52:12",cmp-li
+894,102,"You are granted 50 coins for being top coin earner(Linkedin) of the month March 2022",530,50,"2022-04-15 22:52:12","2022-04-15 22:52:12",cmp-li
+895,75,"You are granted 50 coins for being top coin earner(Twitter) of the month March 2022",1385,50,"2022-04-15 22:52:50","2022-04-15 22:52:50",cmp-tw
+896,88,"You are granted 50 coins for being top coin earner(Twitter) of the month March 2022",1200,50,"2022-04-15 22:52:50","2022-04-15 22:52:50",cmp-tw
+897,90,"You are granted 50 coins for being top coin earner(Twitter) of the month March 2022",825,50,"2022-04-15 22:52:51","2022-04-15 22:52:51",cmp-tw
+898,102,"You are granted 50 coins for being top coin earner(Task Evaluation) of the month March 2022",580,50,"2022-04-15 22:53:46","2022-04-15 22:53:46",cmp-te
+899,105,"You are granted 50 coins for being top coin earner(Task Evaluation) of the month March 2022",430,50,"2022-04-15 22:53:46","2022-04-15 22:53:46",cmp-te
+900,106,"You are granted 50 coins for being top coin earner(Task Evaluation) of the month March 2022",310,50,"2022-04-15 22:53:46","2022-04-15 22:53:46",cmp-te
+901,89,"You have lost - 50 coins for too long coin feature suspension",-55,-50,"2022-04-15 22:57:32","2022-04-15 22:57:32",ng-flag
+902,90,"You have lost - 50 coins for too long coin feature suspension",775,-50,"2022-04-15 22:57:32","2022-04-15 22:57:32",ng-flag
+903,91,"You have lost - 50 coins for too long coin feature suspension",435,-50,"2022-04-15 22:57:32","2022-04-15 22:57:32",ng-flag
+904,92,"You have lost - 50 coins for too long coin feature suspension",350,-50,"2022-04-15 22:57:33","2022-04-15 22:57:33",ng-flag
+905,93,"You have lost - 50 coins for too long coin feature suspension",715,-50,"2022-04-15 22:57:33","2022-04-15 22:57:33",ng-flag
+906,94,"You have lost - 50 coins for too long coin feature suspension",580,-50,"2022-04-15 22:57:33","2022-04-15 22:57:33",ng-flag
+907,96,"You have lost - 50 coins for too long coin feature suspension",310,-50,"2022-04-15 22:57:33","2022-04-15 22:57:33",ng-flag
+908,97,"You have lost - 50 coins for too long coin feature suspension",740,-50,"2022-04-15 22:57:33","2022-04-15 22:57:33",ng-flag
+909,98,"You have lost - 50 coins for too long coin feature suspension",-195,-50,"2022-04-15 22:57:33","2022-04-15 22:57:33",ng-flag
+910,32,"You have earned 30 coins for sharing an update on LinkedIn.",1875,30,"2022-04-17 19:55:04","2022-04-17 19:55:04",li
+911,100,"You have earned 30 coins for sharing an update on LinkedIn.",735,30,"2022-04-18 21:56:05","2022-04-18 21:56:05",li
+912,105,"You have earned 20 coins for sharing an update on LinkedIn.",450,20,"2022-04-18 22:22:14","2022-04-18 22:22:14",li
+913,73,"You have earned 30 coins for sharing an update on LinkedIn.",480,30,"2022-04-18 22:22:34","2022-04-18 22:22:34",li
+914,96," Hey Friend, good you got 20 coins for the 10 Simple Javascript Projects",330,20,"2022-04-19 01:37:12","2022-04-19 01:37:12",te
+915,90," Hey Friend, good you got 20 coins for the 10 Simple Javascript Projects",795,20,"2022-04-19 01:37:37","2022-04-19 01:37:37",te
+916,100,"Coins removed for the late submission of 10 Simple Javascript Projects task",725,-10,"2022-04-19 03:00:02","2022-04-19 03:00:02",ptd
+917,101,"Coins removed for the late submission of 10 Simple Javascript Projects task",225,-10,"2022-04-19 03:00:02","2022-04-19 03:00:02",ptd
+918,102,"Coins removed for the late submission of 10 Simple Javascript Projects task",570,-10,"2022-04-19 03:00:02","2022-04-19 03:00:02",ptd
+919,105,"Coins removed for the late submission of 10 Simple Javascript Projects task",440,-10,"2022-04-19 03:00:02","2022-04-19 03:00:02",ptd
+920,31,"You have earned 15 coins for sharing an update on LinkedIn.",245,15,"2022-04-20 00:09:08","2022-04-20 00:09:08",li
+921,31,"You have earned 25 coins for sharing an update on Twitter.",270,25,"2022-04-20 00:09:29","2022-04-20 00:09:29",tw
+922,31,"You have earned 20 coins for sharing an update on LinkedIn.",290,20,"2022-04-20 00:09:51","2022-04-20 00:09:51",li
+923,100,"Coins removed for the late submission of 10 Simple Javascript Projects task",715,-10,"2022-04-20 03:00:01","2022-04-20 03:00:01",ptd
+924,101,"Coins removed for the late submission of 10 Simple Javascript Projects task",215,-10,"2022-04-20 03:00:01","2022-04-20 03:00:01",ptd
+925,102,"Coins removed for the late submission of 10 Simple Javascript Projects task",560,-10,"2022-04-20 03:00:02","2022-04-20 03:00:02",ptd
+926,100,"You have earned 20 coins for Group Discussion on Industrial Revolutions",735,20,"2022-04-20 23:01:24","2022-04-20 23:01:24",cmp-gd
+927,101,"You have earned 20 coins for Group Discussion on Industrial Revolutions",235,20,"2022-04-20 23:01:24","2022-04-20 23:01:24",cmp-gd
+928,102,"You have earned 20 coins for Group Discussion on Industrial Revolutions",580,20,"2022-04-20 23:01:24","2022-04-20 23:01:24",cmp-gd
+929,103,"You have earned 20 coins for Group Discussion on Industrial Revolutions",290,20,"2022-04-20 23:01:25","2022-04-20 23:01:25",cmp-gd
+930,59,"You have earned 20 coins for Group Discussion on Industrial Revolutions",585,20,"2022-04-20 23:01:25","2022-04-20 23:01:25",cmp-gd
+931,105,"You have lost - 10 coins for GD that was missed on April 20",430,-10,"2022-04-20 23:03:49","2022-04-20 23:03:49",ng-gd
+932,106,"You have lost - 10 coins for GD that was missed on April 20",300,-10,"2022-04-20 23:03:49","2022-04-20 23:03:49",ng-gd
+933,104,"You have lost - 10 coins for GD that was missed on April 20",-250,-10,"2022-04-20 23:03:50","2022-04-20 23:03:50",ng-gd
+934,75,"You have lost - 10 coins for GD that was missed on April 20",1375,-10,"2022-04-20 23:03:50","2022-04-20 23:03:50",ng-gd
+935,31,"You have lost - 10 coins for GD that was missed on April 20",280,-10,"2022-04-20 23:03:50","2022-04-20 23:03:50",ng-gd
+936,93,"You have earned 30 coins for sharing an update on LinkedIn.",745,30,"2022-04-21 00:29:25","2022-04-21 00:29:25",li
+937,93,"You have earned 25 coins for sharing an update on Twitter.",770,25,"2022-04-21 00:29:44","2022-04-21 00:29:44",tw
+938,103,"You have earned 20 coins for sharing an update on LinkedIn.",310,20,"2022-04-21 00:30:04","2022-04-21 00:30:04",li
+939,100,"Coins removed for the late submission of 10 Simple Javascript Projects task",725,-10,"2022-04-21 03:00:02","2022-04-21 03:00:02",ptd
+940,101,"Coins removed for the late submission of 10 Simple Javascript Projects task",225,-10,"2022-04-21 03:00:02","2022-04-21 03:00:02",ptd
+941,102,"Coins removed for the late submission of 10 Simple Javascript Projects task",570,-10,"2022-04-21 03:00:02","2022-04-21 03:00:02",ptd
+942,51,"You have earned 15 coins for sharing an update on LinkedIn.",985,15,"2022-04-21 23:15:06","2022-04-21 23:15:06",li
+943,101,"You have earned 20 coins for sharing an update on LinkedIn.",245,20,"2022-04-21 23:15:40","2022-04-21 23:15:40",li
+944,100,"Coins removed for the late submission of 10 Simple Javascript Projects task",715,-10,"2022-04-22 03:00:02","2022-04-22 03:00:02",ptd
+945,101,"Coins removed for the late submission of 10 Simple Javascript Projects task",235,-10,"2022-04-22 03:00:02","2022-04-22 03:00:02",ptd
+946,102,"Coins removed for the late submission of 10 Simple Javascript Projects task",560,-10,"2022-04-22 03:00:02","2022-04-22 03:00:02",ptd
+947,100,"Coins removed for the late submission of 10 Simple Javascript Projects task",695,-20,"2022-04-23 03:00:02","2022-04-23 03:00:02",ptd
+948,101,"Coins removed for the late submission of 10 Simple Javascript Projects task",215,-20,"2022-04-23 03:00:02","2022-04-23 03:00:02",ptd
+949,102,"Coins removed for the late submission of 10 Simple Javascript Projects task",540,-20,"2022-04-23 03:00:02","2022-04-23 03:00:02",ptd
+950,75,"You have earned 20 coins for sharing an update on LinkedIn.",1395,20,"2022-04-23 21:19:08","2022-04-23 21:19:08",li
+951,75,"You have earned 25 coins for sharing an update on Twitter.",1420,25,"2022-04-23 21:19:20","2022-04-23 21:19:20",tw
+952,51,"You have earned 15 coins for sharing an update on LinkedIn.",1000,15,"2022-04-23 21:19:34","2022-04-23 21:19:34",li
+953,31,"You have earned 25 coins for sharing an update on Twitter.",305,25,"2022-04-23 21:19:49","2022-04-23 21:19:49",tw
+954,31,"You have earned 20 coins for sharing an update on LinkedIn.",325,20,"2022-04-23 21:20:10","2022-04-23 21:20:10",li
+955,100,"Coins removed for the late submission of 10 Simple Javascript Projects task",675,-20,"2022-04-24 03:00:01","2022-04-24 03:00:01",ptd
+956,101,"Coins removed for the late submission of 10 Simple Javascript Projects task",195,-20,"2022-04-24 03:00:01","2022-04-24 03:00:01",ptd
+957,102,"Coins removed for the late submission of 10 Simple Javascript Projects task",520,-20,"2022-04-24 03:00:02","2022-04-24 03:00:02",ptd
+958,100,"Coins removed for the late submission of 10 Simple Javascript Projects task",645,-30,"2022-04-25 03:00:01","2022-04-25 03:00:01",ptd
+959,101,"Coins removed for the late submission of 10 Simple Javascript Projects task",165,-30,"2022-04-25 03:00:02","2022-04-25 03:00:02",ptd
+960,102,"Coins removed for the late submission of 10 Simple Javascript Projects task",490,-30,"2022-04-25 03:00:02","2022-04-25 03:00:02",ptd
+961,100,"Coins removed for the late submission of 10 Simple Javascript Projects task",595,-50,"2022-04-26 03:00:01","2022-04-26 03:00:01",ptd
+962,101,"Coins removed for the late submission of 10 Simple Javascript Projects task",115,-50,"2022-04-26 03:00:01","2022-04-26 03:00:01",ptd
+963,102,"Coins removed for the late submission of 10 Simple Javascript Projects task",440,-50,"2022-04-26 03:00:01","2022-04-26 03:00:01",ptd
+964,100,"Coins removed for the late submission of 10 Simple Javascript Projects task",545,-50,"2022-04-27 03:00:02","2022-04-27 03:00:02",ptd
+965,101,"Coins removed for the late submission of 10 Simple Javascript Projects task",65,-50,"2022-04-27 03:00:02","2022-04-27 03:00:02",ptd
+966,102,"Coins removed for the late submission of 10 Simple Javascript Projects task",390,-50,"2022-04-27 03:00:02","2022-04-27 03:00:02",ptd
+967,100,"Coins removed for the late submission of 10 Simple Javascript Projects task",495,-50,"2022-04-28 03:00:01","2022-04-28 03:00:01",ptd
+968,101,"Coins removed for the late submission of 10 Simple Javascript Projects task",15,-50,"2022-04-28 03:00:02","2022-04-28 03:00:02",ptd
+969,102,"Coins removed for the late submission of 10 Simple Javascript Projects task",340,-50,"2022-04-28 03:00:02","2022-04-28 03:00:02",ptd
+970,31,"You have earned 25 coins for sharing an update on Twitter.",350,25,"2022-04-28 22:58:00","2022-04-28 22:58:00",tw
+971,91,"You have earned 20 coins for sharing an update on LinkedIn.",455,20,"2022-04-28 22:58:19","2022-04-28 22:58:19",li
+972,51,"You have earned 15 coins for sharing an update on LinkedIn.",1015,15,"2022-04-28 22:58:31","2022-04-28 22:58:31",li
+973,31,"You have earned 25 coins for sharing an update on Twitter.",375,25,"2022-04-28 22:58:44","2022-04-28 22:58:44",tw
+974,31,"You have earned 15 coins for sharing an update on LinkedIn.",390,15,"2022-04-28 22:58:56","2022-04-28 22:58:56",li
+975,90,"You have earned 15 coins for sharing an update on LinkedIn.",810,15,"2022-04-28 22:59:06","2022-04-28 22:59:06",li
+976,96,"You have earned 15 coins for sharing an update on LinkedIn.",345,15,"2022-04-28 22:59:20","2022-04-28 22:59:20",li
+977,97,"You have earned 15 coins for sharing an update on LinkedIn.",755,15,"2022-04-28 22:59:30","2022-04-28 22:59:30",li
+978,97,"You have earned 15 coins for sharing an update on LinkedIn.",770,15,"2022-04-28 22:59:39","2022-04-28 22:59:39",li
+979,51,"You have earned 15 coins for sharing an update on LinkedIn.",1030,15,"2022-04-28 23:00:03","2022-04-28 23:00:03",li
+980,31,"You have earned 25 coins for sharing an update on Twitter.",415,25,"2022-04-28 23:00:22","2022-04-28 23:00:22",tw
+981,51,"You have earned 15 coins for sharing an update on LinkedIn.",1045,15,"2022-04-28 23:00:34","2022-04-28 23:00:34",li
+982,101,"Coins removed for the late submission of 10 Simple Javascript Projects task",-35,-50,"2022-04-29 03:00:01","2022-04-29 03:00:01",ptd
+983,102,"Coins removed for the late submission of 10 Simple Javascript Projects task",290,-50,"2022-04-29 03:00:01","2022-04-29 03:00:01",ptd
+984,51,"You have earned 15 coins for sharing an update on LinkedIn.",1060,15,"2022-04-29 09:48:16","2022-04-29 09:48:16",li
+985,103," Hey Friend, good you got 10 coins for the 10 Simple Javascript Projects",320,10,"2022-04-30 00:04:41","2022-04-30 00:04:41",te
+986,97," Hey Friend, good you got 10 coins for the 10 Simple Javascript Projects",780,10,"2022-04-30 00:05:13","2022-04-30 00:05:13",te
+987,94,"You lost 10 coins for the redo of 10 Simple Javascript Projects Tasks.",570,-10,"2022-04-30 00:05:46","2022-04-30 00:05:46",rd
+988,92," Hey Friend, good you got 10 coins for the 10 Simple Javascript Projects",360,10,"2022-04-30 00:10:36","2022-04-30 00:10:36",te
+989,93," Hey Friend, good you got 10 coins for the 10 Simple Javascript Projects",780,10,"2022-04-30 00:10:54","2022-04-30 00:10:54",te
+990,59,"You have earned 20 coins for Group Discussion on Russian Ukraine War",605,20,"2022-05-01 12:23:17","2022-05-01 12:23:17",cmp-gd
+991,31,"You have earned 20 coins for Group Discussion on Russian Ukraine War",435,20,"2022-05-01 12:23:17","2022-05-01 12:23:17",cmp-gd
+992,92,"You have earned 20 coins for Group Discussion on Russian Ukraine War",380,20,"2022-05-01 12:23:17","2022-05-01 12:23:17",cmp-gd
+993,96,"You have earned 20 coins for Group Discussion on Russian Ukraine War",365,20,"2022-05-01 12:23:17","2022-05-01 12:23:17",cmp-gd
+994,30,"You have earned 20 coins for Group Discussion on Russian Ukraine War",20,20,"2022-05-01 12:23:17","2022-05-01 12:23:17",cmp-gd
+995,97,"You have earned 20 coins for Group Discussion on Russian Ukraine War",800,20,"2022-05-01 12:23:18","2022-05-01 12:23:18",cmp-gd
+996,93,"You have earned 20 coins for Group Discussion on Russian Ukraine War",800,20,"2022-05-01 12:23:18","2022-05-01 12:23:18",cmp-gd
+997,89,"You have earned 20 coins for Group Discussion on Russian Ukraine War",-35,20,"2022-05-01 12:23:18","2022-05-01 12:23:18",cmp-gd
+998,91,"You have earned 20 coins for Group Discussion on Russian Ukraine War",475,20,"2022-05-01 12:23:18","2022-05-01 12:23:18",cmp-gd
+999,88,"You have earned 20 coins for Group Discussion on Russian Ukraine War",1220,20,"2022-05-01 12:23:18","2022-05-01 12:23:18",cmp-gd
+1000,52,"You have earned 20 coins for Group Discussion on Russian Ukraine War",30,20,"2022-05-01 12:23:18","2022-05-01 12:23:18",cmp-gd
+1001,94,"You have earned 20 coins for Group Discussion on Russian Ukraine War",590,20,"2022-05-01 12:23:18","2022-05-01 12:23:18",cmp-gd
+1002,100,"You have earned 20 coins for Group Discussion on Russian Ukraine War",515,20,"2022-05-01 12:23:18","2022-05-01 12:23:18",cmp-gd
+1003,103,"You have earned 20 coins for Group Discussion on Russian Ukraine War",340,20,"2022-05-01 12:23:18","2022-05-01 12:23:18",cmp-gd
+1004,102,"You have earned 20 coins for Group Discussion on Russian Ukraine War",310,20,"2022-05-01 12:23:19","2022-05-01 12:23:19",cmp-gd
+1005,75,"You have earned 20 coins for Group Discussion on Russian Ukraine War",1440,20,"2022-05-01 12:23:19","2022-05-01 12:23:19",cmp-gd
+1006,58,"You have earned 20 coins for Group Discussion on Russian Ukraine War",-120,20,"2022-05-01 12:23:19","2022-05-01 12:23:19",cmp-gd
+1007,105,"You have earned 20 coins for Group Discussion on Russian Ukraine War",450,20,"2022-05-01 12:23:19","2022-05-01 12:23:19",cmp-gd
+1008,106,"You have earned 20 coins for Group Discussion on Russian Ukraine War",320,20,"2022-05-01 12:23:19","2022-05-01 12:23:19",cmp-gd
+1009,51,"Hey LOGESH KRISHNA R, You are granted 50 coins for being top coin earner(Linkedin) of the month April.",1110,50,"2022-05-01 22:00:01","2022-05-01 22:00:01",cmp-li
