@@ -183,15 +183,7 @@ margin-left: 30px;
     margin-left: 1054px;
     margin-top: -464px;
   }
-  .line {
-    width: 1px;
-    height: 161px;
-    margin: 293px 49px 112px 1027px;
-    position:absolute;
-    transform: rotate(-0deg);
-    opacity: 0.7;
-    background-color: #000;
-  }
+ 
   .game{
     width: 586px;
     height: 53px;
@@ -232,7 +224,7 @@ margin-left: 30px;
     color: white;
     
   }
-  .Front-End-Developer {
+  .End {
     width: 134px;
     height: 17px;
     flex-grow: 0;
@@ -251,13 +243,13 @@ margin-left: 30px;
     width: 35px;
     height: 35px;
     flex-grow: 0;
-    margin: -25px 16px 5px 45px;
+    margin: -415px 16px 30px 375px;
   }
   .pin {
     width: 56px;
     height: 19px;
     flex-grow: 0;
-    margin: -5px 0 6px 370px;
+    margin: -25px 0 6px 370px;
     font-family: Inter;
     font-size: 16px;
     font-weight: 500;
@@ -357,82 +349,7 @@ margin-left: 30px;
   }
   
  
-  .Rectangle-6 {
-    width: 770px;
-    height: 68px;
-    margin: 35px 132px 20px 323.5px;
-    padding: 10px 149px 10px 15px;
-    opacity: 0.7;
-    border-radius: 40px;
-    background-color: #f5f5f5;
-  }
-  .Spotknack-Coins {
-    width: 371px;
-    height: 31px;
-    font-family: Poppins;
-    font-size: 20px;
-    font-weight: 600;
-    font-stretch: normal;
-    font-style: normal;
-    line-height: 1.55;
-    letter-spacing: normal;
-    text-align: left;
-    color: #141414;
-    position: relative;
-    margin: 25px 12px -90px 90px;
-  }
-  .Amazon-Gift-Card {
-    width: 331px;
-    height: 31px;
-    margin: 23px 0 24px 150px;
-    font-family: Poppins;
-    font-size: 20px;
-    font-weight: 600;
-    font-stretch: normal;
-    font-style: normal;
-    line-height: 1.55;
-    letter-spacing: normal;
-    text-align: left;
-    color: #000;
-  }
-  .main_container{
-   
-    margin: 15px auto;
  
-    width:300px;
-    height:200px;
-  }
- .buttons{
-  display: flex;
-  gap:169px;
- }
- .diva{
-  width:790px;
-  height: 200px;
-  margin-left:390px;
-  background-color: aqua;
-  display: block;
- }
-button{
-border:none;
-background-color: none;
-}
-.button:hover{
-  background-color: rgb(226, 226, 113);
-}
-.blocks{
-  display:flex;
-  width:100%;
-  height: 100%;
-}
-.divb{
-  display: none;
-  width:790px;
-  height: 200px;
-  margin-left:390px;
-  background-color: rgb(220, 21, 21);
-
- }
  .Top-Amazon-Gift-Card-Earners {
   width: 615px;
   height: 53px;
@@ -829,7 +746,7 @@ background-color: none;
   height: 60px;
   flex-grow: 0;
   position: absolute;
-  margin: 2020px 27px -11px 2px;
+  margin: 3170px 27px -11px 2px;
   font-family: Poppins;
   font-size: 40px;
   font-weight: 600;
@@ -891,6 +808,7 @@ background-color: none;
 }
 .spotknack{
   position: absolute;
+  margin-top:1142px;
 }
 .linkedin-6 {
   width: 30px;
@@ -924,3 +842,209 @@ background-color: none;
   height: 30px;
   margin: -195px 127px 225px 19px;
 }
+.Ls {
+  width: 266px;
+  height: 53px;
+  margin: 90px 102px 35px 55px;
+  font-family: Poppins;
+  font-size: 40px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #000;
+}
+
+.tab_box{
+ 
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  border-bottom: 2px solid white;
+  position: relative;
+  
+}
+.Line-6 {
+  width: 1px;
+  height: 161px;
+  margin: -147.3px 49px 112px 177px;
+  transform: rotate(-180deg);
+  opacity: 0.7;
+  background-color: #000;
+}
+.tab_box ,.tab_btn{
+  font-size: 19px;
+  font-weight: 600;
+color:black;
+  background: none;
+  border: none;
+  padding: 17px;
+  cursor: pointer;
+}
+
+.tab_box,.tab_btn.active{
+  color: #f8f4fb !important;
+}
+
+.content_box{
+  padding:20px;
+}
+.content_box , .content h2{
+margin-bottom: 10px;
+}
+.content_box ,.content{
+  display: none;
+  }
+  .content_box ,.content.active{
+    display:block;
+    }
+   
+  .line {
+    width:142px;
+    height: 49px;
+    margin: -5px 150px 0 -35px;
+   
+    border-radius: 40px;
+    background-color: #000;
+position: absolute;
+top:1729px;
+left:-317px;
+transition: all .3s ease-in-out;
+  }
+  #Spotknack-Coins {
+    width: 271px;
+    height: 31px;
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.55;
+    letter-spacing: normal;
+    text-align: left;
+    margin-left:190px;
+    color:#000 ;
+  }
+  
+  #Amazon-Gift-Card {
+    width: 291px;
+    height: 31px;
+    margin: 23px 0 24px -370px;
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.55;
+    letter-spacing: normal;
+    text-align: left;
+   
+  }
+  .Harshavarthan-Maran {
+    width: 259px;
+    height: 20px;
+    flex-grow: 0;
+    margin: 4px 50px 5px 63px;
+    font-family: Inter;
+    font-size: 25px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 0.8;
+    letter-spacing: normal;
+    text-align: left;
+    color: #000;
+  }
+  .Front-End-Developer {
+    width: 136px;
+    height: 20px;
+    flex-grow: 0;
+    margin: 5px 173px 14px 63px;
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.43;
+    letter-spacing: normal;
+    text-align: left;
+    color: #000;
+  }
+.mobile {
+    width: 8px;
+    height: 31px;
+    flex-grow: 0;
+    margin: -40px 63px 22px 11px;
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.55;
+    letter-spacing: normal;
+    text-align: left;
+    color: #000;
+  }
+  .Line-7 {
+    width: 748px;
+    height: 1px;
+    flex-grow: 0;
+    margin: 13px 0 0;
+    opacity: 0.5;
+    background-color: #000;
+  }
+  .match{
+    
+      width: 30px;
+      height: 30px;
+     
+    position:absolute;
+    margin-left: 440px;
+    margin-top: -20px;
+    padding-top: 30px;
+   
+  }
+  .nack{
+    width: 72px;
+    height: 30px;
+    flex-grow: 0;
+    margin: -70px 37px 13px 603px;
+    padding: 10px 22px 9px 20px;
+    opacity: 0.7;
+    border-radius: 30px;
+    background-color: #f5f5f5;
+  }
+  .pack {
+    width: 50px;
+    height: 31px;
+    flex-grow: 0;
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.55;
+    letter-spacing: normal;
+    text-align: left;
+    color: #000;
+  }
+  .content_box{
+    position: relative;
+    margin-left: 364px;
+    margin-top: 26px;
+  }
+  .tv{
+    position: relative;
+    margin-top: 25px;
+  }
+  .minor {
+    width: 970px;
+    height: 98px;
+    margin: 35px 132px 20px 23.5px;
+    padding: 10px 149px 10px 15px;
+    opacity: 0.7;
+    border-radius: 40px;
+    background-color: #f5f5f5;
+  }

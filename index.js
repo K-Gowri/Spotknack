@@ -1,12 +1,16 @@
-var btn_diva = document.getElementById("btn_diva");
-var btn_divb = document.getElementById("btn_divb");
-var diva = document.getElementById("diva");
-var divb = document.getElementById("divb");
-btn_diva.addEventListener('click',()=>{
-    diva.style.display='block';
-    divb.style.display='none';
-});
-btn_divb.addEventListener('click',()=>{
-    diva.style.display='none';
-    divb.style.display='block';
-});
+const tabs= document.querySelectorAll('.tab_btn');
+const all_content= document.querySelectorAll('.content');
+tabs.forEach((tab, index)=>{
+    tab.addEventListener('click',(e)=>{
+        tabs.forEach(tab=>{tab.classList.remove('active')});
+        tab.classList.add('active');
+        
+        var line = document.querySelector('.line');
+        line.style.width=e.target.offsetWidth+"px";
+        line.style.left=e.target.offsetLeft+"px";
+        
+        all_content.forEach(content=>{content.classList.remove('active')});
+        all_content[index].classList.add('active');
+    })
+   
+})
