@@ -6,104 +6,65 @@
 }
 
 .mac {
-
-  position: absolute;
   margin-top: 17px;
   justify-content: center;
   align-items: center;
+}
 
+.nav-bar {
+  display: flex;
+  gap: 80px;
 }
 
 .Spotknack-Logo {
   width: 300px;
-
-  margin: 30px 110px 13px 30px;
-}
-
-.nav-bar li {
-  display: inline-block;
-  list-style-type: none;
-  height: 100px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  margin-left: 33px;
+  margin-right: 13px;
 }
 
 .dot {
   width: 29px;
-
-  position: absolute;
-  margin-top: 2px;
 }
 
 .Leaderboard {
-  width: 163px;
-  height: 38px;
-  margin-top: -37px;
-  margin-left: 30px;
-  opacity: 0.7;
+  margin-top: 25px;
   font-family: Poppins;
   font-size: 25px;
-  font-weight: normal;
-  font-stretch: normal;
-  font-style: normal;
-  line-height: normal;
-  letter-spacing: normal;
-  text-align: left;
-  color: #000;
-}
-
-.Proofs {
-  width: 81px;
-  height: 38px;
-  margin: 0 117px 177px 5px;
-  opacity: 0.7;
-  font-family: Poppins;
-  font-size: 25px;
-  font-weight: normal;
-  font-stretch: normal;
-  font-style: normal;
-  line-height: normal;
-  letter-spacing: normal;
-  text-align: left;
-  color: #000;
+  width: auto;
+  color: #797979;
+  font-weight: lighter;
 }
 
 .Top-Performers {
-  margin-left: 522px;
-  width: 199px;
   height: 37px;
   position: relative;
-  margin-top: 15px;
+  margin-top: 25px;
   font-family: Poppins;
+  margin-left: 40px;
   font-size: 25px;
   font-weight: 600;
-  font-stretch: normal;
-  font-style: normal;
-  line-height: normal;
-  letter-spacing: normal;
-  text-align: left;
   color: #000;
+  width: auto;
 }
 
 .growth {
-  width: 614px;
+  width: 750px;
   height: 170px;
-  margin: 173.3px 60px 20px 55px;
+  margin-top: 160px;
+  margin-left: 80px;
   font-family: Poppins;
   font-size: 60px;
   font-weight: 600;
-  font-stretch: normal;
-  font-style: normal;
-  line-height: normal;
-  letter-spacing: normal;
-  text-align: left;
   color: #000;
 }
 
 .talent {
   width: 438px;
   height: 62px;
-  position: relative;
-
-  margin: -11px 46px 20px 55px;
+  margin-top: 30px;
+  margin-left: 80px;
   font-family: Inter;
   font-size: 20px;
   font-weight: normal;
@@ -115,147 +76,88 @@
   color: #000;
 }
 
-.linkedin {
+.main {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.main-2 {
+  display: flex;
+  flex-direction: column;
+}
+
+.main-3 {
+  display: flex;
+  gap: 60px;
+  align-items: center;
+  margin-left: 100px;
+  margin-top: 180px;
+}
+
+.linkedin,
+.coins01 {
   width: 50px;
   height: 50px;
-
 }
 
-.side {
-  margin: 320.3px 137px 15px 845px;
-  position: absolute;
-}
-
-.spa {
-  width: 99px;
-  height: 60px;
-  margin: 5px 19px 15px -2px;
-  font-family: Poppins;
-  font-size: 40px;
-  font-weight: 600;
-  font-stretch: normal;
-  font-style: normal;
-  line-height: normal;
-  letter-spacing: normal;
-  text-align: left;
-  color: #000;
-}
-
-.LinkedIn-Posts {
-  width: 138px;
-  height: 31px;
-  position: absolute;
-  margin: 105px 100px 12px 2px;
-  font-family: Inter;
-  font-size: 20px;
-  font-weight: normal;
-  font-stretch: normal;
-  font-style: normal;
-  line-height: 1.55;
-  letter-spacing: normal;
-  text-align: left;
-  color: #000;
-}
-
-.linkedin-2 {
-  width: 50px;
-  height: 50px;
-  margin: 252.3px 137px 5px 49px;
-}
-
-.Coins-Earned {
-  width: 126px;
-  height: 31px;
-  margin: -15px 61px 102px 49px;
-  font-family: Inter;
-  font-size: 20px;
-  font-weight: normal;
-  font-stretch: normal;
-  font-style: normal;
-  line-height: 1.55;
-  letter-spacing: normal;
-  text-align: left;
-  color: #000;
-}
-
-.spa-1 {
-  width: 127px;
-  height: 60px;
-  margin: 2px 60px 5px 49px;
-  font-family: Poppins;
-  font-size: 40px;
-  font-weight: 600;
-  font-stretch: normal;
-  font-style: normal;
-  line-height: normal;
-  letter-spacing: normal;
-  text-align: left;
-  color: #000;
-}
-
+.side,
 .free {
-  position: relative;
-  margin-left: 1054px;
-  margin-top: -464px;
+  display: flex;
+  height: auto;
+  flex-direction: column;
+  width: 100px;
+}
+
+.spa,
+.spa-1 {
+  font-family: Poppins;
+  font-size: 40px;
+  font-weight: 600;
+}
+
+.LinkedIn-Posts,
+.Coins-Earned {
+  font-family: Inter;
+  font-size: 20px;
 }
 
 .game {
   width: 586px;
   height: 53px;
-  margin: 130px 28px 35px 55px;
+  margin-top: 112px;
+  margin-left: 80px;
   font-family: Poppins;
   font-size: 40px;
   font-weight: 600;
-  font-stretch: normal;
-  font-style: normal;
-  line-height: normal;
-  letter-spacing: normal;
-  text-align: left;
   color: #000;
+}
+
+.contain01 {
+  display: flex;
+}
+
+.inner01 {
+  display: flex;
+  flex-direction: column;
 }
 
 .Rectangle-1 {
   width: 399px;
   height: 70px;
   flex-grow: 0;
-  position: absolute;
-  margin: 695px 190px 125px 505px;
-  padding: 20px 50px 20px 20px;
   border-radius: 15px;
   background-color: #000;
+  display: flex;
 }
 
-.Maran {
-  width: 250px;
-  height: 19px;
-  flex-grow: 0;
-  margin: 20px 40px 5px 95px;
-  font-family: Inter;
-  font-size: 20px;
-  font-weight: 500;
-  font-stretch: normal;
-  font-style: normal;
-  line-height: 1;
-  letter-spacing: normal;
-  text-align: left;
-  color: white;
-
+.name01 {
+  font-family: Poppins;
 }
 
-.End {
-  width: 134px;
-  height: 17px;
-  flex-grow: 0;
-  margin: 5px 114px 15px 95px;
-  font-family: Inter;
-  font-size: 14px;
-  font-weight: 300;
-  font-stretch: normal;
-  font-style: normal;
-  line-height: 1.14;
-  letter-spacing: normal;
-  text-align: left;
-  color: white;
+.pos01 {
+  font-family: Poppins;
 }
 
 .profit-white-1 {
@@ -310,13 +212,11 @@
   background-color: #000;
 }
 
-.image {
+.image01 {
   height: 60px;
   width: 50px;
-  position: absolute;
   margin-bottom: 30px;
   margin-top: 7px;
-  padding: 20px 50px 20px 20px;
 
 }
 
@@ -352,7 +252,6 @@
   width: 399px;
   height: 70px;
   flex-grow: 0;
-  position: absolute;
   margin: 865px 2px 90px 899.5px;
   padding: 20px 50px 20px 20px;
   border-radius: 15px;
@@ -938,7 +837,6 @@
 .Line-6 {
   width: 1px;
   height: 161px;
-  margin: -147.3px 49px 112px 177px;
   transform: rotate(-180deg);
   opacity: 0.7;
   background-color: #000;
