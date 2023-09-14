@@ -1,358 +1,382 @@
-*{
-    margin:0;
-    top:0;
-    bottom:0;
-    
+* {
+  margin: 0;
+  top: 0;
+  bottom: 0;
+  width: 100%;
 }
-.main{
-  width:100%;
-}
-.mac {
-  
-        position:absolute;
-        margin-top: 17px;
-    justify-content: center;
-    align-items: center;
-      
-}
-.Spotknack-Logo{
-    width: 300px;
-   
-    margin: 30px 110px 13px 30px;
-  }
-  .nav-bar li{
-    display: inline-block;
-    list-style-type: none;
-   height: 100px;
-  }
-  .dot{
-   width: 29px;
-  
-   position: absolute;
-  margin-top: 2px;
-  }
-  .Leaderboard {
-    width: 163px;
-    height: 38px;
-    margin-top: -37px;
-margin-left: 30px;
-    opacity: 0.7;
-    font-family: Poppins;
-    font-size: 25px;
-    font-weight: normal;
-    font-stretch: normal;
-    font-style: normal;
-    line-height: normal;
-    letter-spacing: normal;
-    text-align: left;
-    color: #000;
-  }
-  .Proofs {
-    width: 81px;
-    height: 38px;
-    margin: 0 117px 177px 5px;
-    opacity: 0.7;
-    font-family: Poppins;
-    font-size: 25px;
-    font-weight: normal;
-    font-stretch: normal;
-    font-style: normal;
-    line-height: normal;
-    letter-spacing: normal;
-    text-align: left;
-    color: #000;
-  }
-  
-  .Top-Performers {
-    margin-left: 522px;
-    width: 199px;
-    height: 37px;
-    position: relative;
-  margin-top: 15px;
-    font-family: Poppins;
-    font-size: 25px;
-    font-weight: 600;
-    font-stretch: normal;
-    font-style: normal;
-    line-height: normal;
-    letter-spacing: normal;
-    text-align: left;
-    color: #000;
-  }
-  .growth {
-    width: 614px;
-    height: 170px;
-    margin: 173.3px 60px 20px 55px;
-    font-family: Poppins;
-    font-size: 60px;
-    font-weight: 600;
-    font-stretch: normal;
-    font-style: normal;
-    line-height: normal;
-    letter-spacing: normal;
-    text-align: left;
-    color: #000;
-  }
-  .talent {
-    width: 438px;
-    height: 62px;
-    position: relative;
-   
-    margin: -11px 46px 20px 55px;
-    font-family: Inter;
-    font-size: 20px;
-    font-weight: normal;
-    font-stretch: normal;
-    font-style: normal;
-    line-height: 1.55;
-    letter-spacing: normal;
-    text-align: left;
-    color: #000;
-  }
-  .linkedin {
-    width: 50px;
-    height: 50px;
-   
-  }
-  .side{
-    margin: 320.3px 137px 15px 845px;
-    position: absolute;
-  }
-  .spa{
-    width: 99px;
-    height: 60px;
-    margin: 5px 19px 15px -2px;
-    font-family: Poppins;
-    font-size: 40px;
-    font-weight: 600;
-    font-stretch: normal;
-    font-style: normal;
-    line-height: normal;
-    letter-spacing: normal;
-    text-align: left;
-    color: #000;
-  }
-  .LinkedIn-Posts {
-    width: 138px;
-    height: 31px;
-    position: absolute;
-    margin: 105px 100px 12px 2px;
-    font-family: Inter;
-    font-size: 20px;
-    font-weight: normal;
-    font-stretch: normal;
-    font-style: normal;
-    line-height: 1.55;
-    letter-spacing: normal;
-    text-align: left;
-    color: #000;
-  }
-  .linkedin-2 {
-    width: 50px;
-    height: 50px;
-    margin: 252.3px 137px 5px 49px;
-  }
-  .Coins-Earned {
-    width: 126px;
-    height: 31px;
-    margin: -15px 61px 102px 49px;
-    font-family: Inter;
-    font-size: 20px;
-    font-weight: normal;
-    font-stretch: normal;
-    font-style: normal;
-    line-height: 1.55;
-    letter-spacing: normal;
-    text-align: left;
-    color: #000;
-  } 
-  .spa-1{
-    width: 127px;
-    height: 60px;
-    margin: 2px 60px 5px 49px;
-    font-family: Poppins;
-    font-size: 40px;
-    font-weight: 600;
-    font-stretch: normal;
-    font-style: normal;
-    line-height: normal;
-    letter-spacing: normal;
-    text-align: left;
-    color: #000;
-  }
-  .free{
-    position:relative;
-    margin-left: 1054px;
-    margin-top: -464px;
-  }
- 
-  .game{
-    width: 586px;
-    height: 53px;
-    margin: 130px 28px 35px 55px;
-    font-family: Poppins;
-    font-size: 40px;
-    font-weight: 600;
-    font-stretch: normal;
-    font-style: normal;
-    line-height: normal;
-    letter-spacing: normal;
-    text-align: left;
-    color: #000;
-  }
-  .Rectangle-1 {
-    width: 399px;
-    height: 70px;
-    flex-grow: 0;
-    position: absolute;
-    margin: 695px 190px 125px 505px;
-    padding: 20px 50px 20px 20px;
-    border-radius: 15px;
-    background-color: #000;
-  }
-  .Maran {
-    width: 250px;
-    height: 19px;
-    flex-grow: 0;
-    margin: 20px 40px 5px 95px;
-    font-family: Inter;
-    font-size: 20px;
-    font-weight: 500;
-    font-stretch: normal;
-    font-style: normal;
-    line-height: 1;
-    letter-spacing: normal;
-    text-align: left;
-    color: white;
-    
-  }
-  .End {
-    width: 134px;
-    height: 17px;
-    flex-grow: 0;
-    margin: 5px 114px 15px 95px;
-    font-family: Inter;
-    font-size: 14px;
-    font-weight: 300;
-    font-stretch: normal;
-    font-style: normal;
-    line-height: 1.14;
-    letter-spacing: normal;
-    text-align: left;
-    color: white;
-  }
-  .profit-white-1 {
-    width: 35px;
-    height: 35px;
-    flex-grow: 0;
-    margin: -415px 16px 30px 375px;
-  }
-  .pin {
-    width: 56px;
-    height: 19px;
-    flex-grow: 0;
-    margin: -25px 0 6px 370px;
-    font-family: Inter;
-    font-size: 16px;
-    font-weight: 500;
-    font-stretch: normal;
-    font-style: normal;
-    line-height: 1;
-    letter-spacing: normal;
-    text-align: left;
-    color: #fff;
-  }
 
-.photoshop{
- 
-    width: 250px;
-    height: 19px;
-    flex-grow: 0;
-    margin: 20px 40px 5px 95px;
-    font-family: Inter;
-    font-size: 20px;
-    font-weight: 500;
-    font-stretch: normal;
-    font-style: normal;
-    line-height: 1;
-    letter-spacing: normal;
-    text-align: left;
-    color: white;
-   
-  
+.mac {
+
+  position: absolute;
+  margin-top: 17px;
+  justify-content: center;
+  align-items: center;
+
 }
-  .Rectangle-2 {
-    width: 399px;
-    height: 70px;
-    flex-grow: 0;
-    margin: 225px 2px 90px 49.5px;
-    padding: 20px 50px 20px 20px;
-    border-radius: 15px;
-    background-color: #000;
-  }
-  .image{
-    height: 60px;
-    width: 50px;
-    position: absolute;
-    margin-bottom: 30px;
-    margin-top: 7px;
-    padding: 20px 50px 20px 20px;
-    
-  }
-  .img{
-    height: 60px;
-    width: 50px;
-    position: absolute;
-    margin-bottom: -90px;
-    margin-top: 869px;
-    padding: 20px 50px 20px 20px;
-  }
-  .harsha{
- 
-    width: 250px;
-    height: 19px;
-    flex-grow: 0;
-    margin: 20px 40px 5px 95px;
-    font-family: Inter;
-    font-size: 20px;
-    font-weight: 500;
-    font-stretch: normal;
-    font-style: normal;
-    line-height: 1;
-    letter-spacing: normal;
-    text-align: left;
-    color: white;
-   
-  
+
+.Spotknack-Logo {
+  width: 300px;
+
+  margin: 30px 110px 13px 30px;
 }
-  .Rectangle-3 {
-    width: 399px;
-    height: 70px;
-    flex-grow: 0;
-    position:absolute;
-    margin: 865px 2px 90px 899.5px;
-    padding: 20px 50px 20px 20px;
-    border-radius: 15px;
-    background-color: #000;
-  }
-  .board {
-    width: 266px;
-    height: 53px;
-    margin: 90px 102px 35px 55px;
-    font-family: Poppins;
-    font-size: 40px;
-    font-weight: 600;
-    font-stretch: normal;
-    font-style: normal;
-    line-height: normal;
-    letter-spacing: normal;
-    text-align: left;
-    color: #000;
-  }
-  
- 
- 
- .Top-Amazon-Gift-Card-Earners {
+
+.nav-bar li {
+  display: inline-block;
+  list-style-type: none;
+  height: 100px;
+}
+
+.dot {
+  width: 29px;
+
+  position: absolute;
+  margin-top: 2px;
+}
+
+.Leaderboard {
+  width: 163px;
+  height: 38px;
+  margin-top: -37px;
+  margin-left: 30px;
+  opacity: 0.7;
+  font-family: Poppins;
+  font-size: 25px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #000;
+}
+
+.Proofs {
+  width: 81px;
+  height: 38px;
+  margin: 0 117px 177px 5px;
+  opacity: 0.7;
+  font-family: Poppins;
+  font-size: 25px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #000;
+}
+
+.Top-Performers {
+  margin-left: 522px;
+  width: 199px;
+  height: 37px;
+  position: relative;
+  margin-top: 15px;
+  font-family: Poppins;
+  font-size: 25px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #000;
+}
+
+.growth {
+  width: 614px;
+  height: 170px;
+  margin: 173.3px 60px 20px 55px;
+  font-family: Poppins;
+  font-size: 60px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #000;
+}
+
+.talent {
+  width: 438px;
+  height: 62px;
+  position: relative;
+
+  margin: -11px 46px 20px 55px;
+  font-family: Inter;
+  font-size: 20px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.55;
+  letter-spacing: normal;
+  text-align: left;
+  color: #000;
+}
+
+.linkedin {
+  width: 50px;
+  height: 50px;
+
+}
+
+.side {
+  margin: 320.3px 137px 15px 845px;
+  position: absolute;
+}
+
+.spa {
+  width: 99px;
+  height: 60px;
+  margin: 5px 19px 15px -2px;
+  font-family: Poppins;
+  font-size: 40px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #000;
+}
+
+.LinkedIn-Posts {
+  width: 138px;
+  height: 31px;
+  position: absolute;
+  margin: 105px 100px 12px 2px;
+  font-family: Inter;
+  font-size: 20px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.55;
+  letter-spacing: normal;
+  text-align: left;
+  color: #000;
+}
+
+.linkedin-2 {
+  width: 50px;
+  height: 50px;
+  margin: 252.3px 137px 5px 49px;
+}
+
+.Coins-Earned {
+  width: 126px;
+  height: 31px;
+  margin: -15px 61px 102px 49px;
+  font-family: Inter;
+  font-size: 20px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.55;
+  letter-spacing: normal;
+  text-align: left;
+  color: #000;
+}
+
+.spa-1 {
+  width: 127px;
+  height: 60px;
+  margin: 2px 60px 5px 49px;
+  font-family: Poppins;
+  font-size: 40px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #000;
+}
+
+.free {
+  position: relative;
+  margin-left: 1054px;
+  margin-top: -464px;
+}
+
+.game {
+  width: 586px;
+  height: 53px;
+  margin: 130px 28px 35px 55px;
+  font-family: Poppins;
+  font-size: 40px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #000;
+}
+
+.Rectangle-1 {
+  width: 399px;
+  height: 70px;
+  flex-grow: 0;
+  position: absolute;
+  margin: 695px 190px 125px 505px;
+  padding: 20px 50px 20px 20px;
+  border-radius: 15px;
+  background-color: #000;
+}
+
+.Maran {
+  width: 250px;
+  height: 19px;
+  flex-grow: 0;
+  margin: 20px 40px 5px 95px;
+  font-family: Inter;
+  font-size: 20px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1;
+  letter-spacing: normal;
+  text-align: left;
+  color: white;
+
+}
+
+.End {
+  width: 134px;
+  height: 17px;
+  flex-grow: 0;
+  margin: 5px 114px 15px 95px;
+  font-family: Inter;
+  font-size: 14px;
+  font-weight: 300;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.14;
+  letter-spacing: normal;
+  text-align: left;
+  color: white;
+}
+
+.profit-white-1 {
+  width: 35px;
+  height: 35px;
+  flex-grow: 0;
+  margin: -415px 16px 30px 375px;
+}
+
+.pin {
+  width: 56px;
+  height: 19px;
+  flex-grow: 0;
+  margin: -25px 0 6px 370px;
+  font-family: Inter;
+  font-size: 16px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1;
+  letter-spacing: normal;
+  text-align: left;
+  color: #fff;
+}
+
+.photoshop {
+
+  width: 250px;
+  height: 19px;
+  flex-grow: 0;
+  margin: 20px 40px 5px 95px;
+  font-family: Inter;
+  font-size: 20px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1;
+  letter-spacing: normal;
+  text-align: left;
+  color: white;
+
+
+}
+
+.Rectangle-2 {
+  width: 399px;
+  height: 70px;
+  flex-grow: 0;
+  margin: 225px 2px 90px 49.5px;
+  padding: 20px 50px 20px 20px;
+  border-radius: 15px;
+  background-color: #000;
+}
+
+.image {
+  height: 60px;
+  width: 50px;
+  position: absolute;
+  margin-bottom: 30px;
+  margin-top: 7px;
+  padding: 20px 50px 20px 20px;
+
+}
+
+.img {
+  height: 60px;
+  width: 50px;
+  position: absolute;
+  margin-bottom: -90px;
+  margin-top: 869px;
+  padding: 20px 50px 20px 20px;
+}
+
+.harsha {
+
+  width: 250px;
+  height: 19px;
+  flex-grow: 0;
+  margin: 20px 40px 5px 95px;
+  font-family: Inter;
+  font-size: 20px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1;
+  letter-spacing: normal;
+  text-align: left;
+  color: white;
+
+
+}
+
+.Rectangle-3 {
+  width: 399px;
+  height: 70px;
+  flex-grow: 0;
+  position: absolute;
+  margin: 865px 2px 90px 899.5px;
+  padding: 20px 50px 20px 20px;
+  border-radius: 15px;
+  background-color: #000;
+}
+
+.board {
+  width: 266px;
+  height: 53px;
+  margin: 90px 102px 35px 55px;
+  font-family: Poppins;
+  font-size: 40px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #000;
+}
+
+
+
+.Top-Amazon-Gift-Card-Earners {
   width: 615px;
   height: 53px;
   margin: 90px 2px 35px 55px;
@@ -366,6 +390,7 @@ margin-left: 30px;
   text-align: left;
   color: #000;
 }
+
 .Rectangle-11 {
   width: 399px;
   height: 70px;
@@ -375,7 +400,8 @@ margin-left: 30px;
   border-radius: 15px;
   background-color: #f90;
 }
-.bro{
+
+.bro {
   width: 250px;
   height: 19px;
   flex-grow: 0;
@@ -389,8 +415,9 @@ margin-left: 30px;
   letter-spacing: normal;
   text-align: left;
   color: rgb(13, 13, 13);
- 
+
 }
+
 .developer {
   width: 134px;
   height: 17px;
@@ -406,12 +433,14 @@ margin-left: 30px;
   text-align: left;
   color: rgb(2, 2, 2);
 }
+
 .black {
   width: 35px;
   height: 35px;
   flex-grow: 0;
   margin: -25px 16px 5px 45px;
 }
+
 .pin-1 {
   width: 56px;
   height: 19px;
@@ -427,38 +456,42 @@ margin-left: 30px;
   text-align: left;
 
 }
-.mentor{
+
+.mentor {
   border-radius: 10px;
-    width: 70px;
-    height: 70px;
-    flex-grow: 0;
-    margin: 15px 15px 0 0;
-   
-  
+  width: 70px;
+  height: 70px;
+  flex-grow: 0;
+  margin: 15px 15px 0 0;
+
+
 }
-.card-3{
-  position:relative;
+
+.card-3 {
+  position: relative;
   margin-top: -95px;
 }
 
 .Rectangle-12 {
   width: 399px;
-    height: 70px;
+  height: 70px;
   flex-grow: 0;
   margin: 35px 150px 25px 55px;
   padding: 20px 50px 20px 20px;
   border-radius: 15px;
   background-color: #f90;
 }
+
 .Rectangle-13 {
   width: 399px;
-    height: 70px;
+  height: 70px;
   flex-grow: 0;
   margin: -160px 150px 25px 900px;
   padding: 20px 50px 20px 20px;
   border-radius: 15px;
   background-color: #f90;
 }
+
 .Proofs-of-our-students-growth {
   width: 697px;
   height: 60px;
@@ -473,6 +506,7 @@ margin-left: 30px;
   text-align: left;
   color: #000;
 }
+
 .Rectangle-14 {
   width: 440px;
   height: 140px;
@@ -482,6 +516,7 @@ margin-left: 30px;
   border-radius: 20px;
   background-color: #000;
 }
+
 .Sharing-Knowledge {
   width: 301px;
   height: 45px;
@@ -497,6 +532,7 @@ margin-left: 30px;
   text-align: left;
   color: #fff;
 }
+
 .blogs {
   width: 200px;
   height: 53px;
@@ -512,6 +548,7 @@ margin-left: 30px;
   text-align: left;
   color: #fff;
 }
+
 .num {
   width: 44px;
   height: 40px;
@@ -527,6 +564,7 @@ margin-left: 30px;
   text-align: left;
   color: #fff;
 }
+
 .Rectangle-15 {
   width: 170px;
   height: 160px;
@@ -536,6 +574,7 @@ margin-left: 30px;
   border-radius: 20px;
   background-color: #7896ff;
 }
+
 .Rectangle-16 {
   width: 170px;
   height: 160px;
@@ -545,6 +584,7 @@ margin-left: 30px;
   border-radius: 20px;
   background-color: #7896ff;
 }
+
 .num-1 {
   width: 42px;
   height: 37px;
@@ -560,6 +600,7 @@ margin-left: 30px;
   text-align: left;
   color: #000;
 }
+
 .Portfolios-Launched {
   width: 108px;
   height: 58px;
@@ -575,12 +616,14 @@ margin-left: 30px;
   text-align: left;
   color: #000;
 }
+
 .globe-1 {
   width: 35px;
   height: 35px;
   flex-grow: 0;
   margin: 5px 0 0 140px;
 }
+
 .join-us-container {
   width: 210px;
   height: 335px;
@@ -589,6 +632,7 @@ margin-left: 30px;
   border-radius: 20px;
   background-color: #d9d9d9;
 }
+
 .Rectangle-17 {
   width: 54px;
   height: 27px;
@@ -598,6 +642,7 @@ margin-left: 30px;
   border-radius: 25px;
   background-color: #000;
 }
+
 .Join {
   width: 33px;
   height: 23px;
@@ -611,9 +656,10 @@ margin-left: 30px;
   letter-spacing: 0.6px;
   text-align: left;
   color: #fff;
- margin-top:5px;
- margin-left: 16px;
+  margin-top: 5px;
+  margin-left: 16px;
 }
+
 .Join-our-crew {
   width: 169px;
   height: 20px;
@@ -628,6 +674,7 @@ margin-left: 30px;
   text-align: left;
   color: #000;
 }
+
 .away {
   width: 190px;
   height: 45px;
@@ -642,6 +689,7 @@ margin-left: 30px;
   text-align: left;
   color: #000;
 }
+
 .Rectangle-19 {
   width: 164px;
   height: 35px;
@@ -651,6 +699,7 @@ margin-left: 30px;
   border-radius: 25px;
   background-color: #000;
 }
+
 .Rectangle-20 {
   width: 164px;
   height: 35px;
@@ -660,6 +709,7 @@ margin-left: 30px;
   border-radius: 25px;
   background-color: #000;
 }
+
 .Thoughts-Of-Our-Students {
   width: 163px;
   height: 46px;
@@ -674,6 +724,7 @@ margin-left: 30px;
   text-align: center;
   color: #fff;
 }
+
 .Success-Stories {
   width: 90px;
   height: 56px;
@@ -687,8 +738,9 @@ margin-left: 30px;
   letter-spacing: 0.6px;
   text-align: center;
   color: #fff;
-  margin-left:40px;
+  margin-left: 40px;
 }
+
 .Rectangle-21 {
   width: 423px;
   height: 375px;
@@ -698,6 +750,7 @@ margin-left: 30px;
   border-radius: 20px;
   background-color: #fea26e;
 }
+
 .Most {
   width: 231px;
   height: 86px;
@@ -713,7 +766,8 @@ margin-left: 30px;
   text-align: left;
   color: #000;
 }
-.one-step{
+
+.one-step {
   width: 372px;
   height: 150px;
   flex-grow: 0;
@@ -728,7 +782,8 @@ margin-left: 30px;
   text-align: left;
   color: #000;
 }
-.July{
+
+.July {
   width: 150px;
   height: 54px;
   flex-grow: 0;
@@ -743,7 +798,8 @@ margin-left: 30px;
   text-align: left;
   color: #000;
 }
-.amount{
+
+.amount {
   width: 112px;
   height: 60px;
   flex-grow: 0;
@@ -759,7 +815,8 @@ margin-left: 30px;
   text-align: left;
   color: #000;
 }
-.proud{
+
+.proud {
   width: 460px;
   height: 60px;
   margin: 89px 10px 10px 69px;
@@ -773,6 +830,7 @@ margin-left: 30px;
   text-align: left;
   color: #000;
 }
+
 .page {
   width: 1255px;
   height: 63px;
@@ -787,12 +845,14 @@ margin-left: 30px;
   text-align: left;
   color: #000;
 }
+
 .gowri {
   width: 107.5px;
   height: 100px;
   margin: 2365px 23.5px 200px 69px;
   border-radius: 10px;
 }
+
 .Gowri-K {
   width: 317px;
   height: 38px;
@@ -808,22 +868,26 @@ margin-left: 30px;
   text-align: left;
   color: #000;
 }
-.spotknack{
+
+.spotknack {
   position: absolute;
-  margin-top:1142px;
+  margin-top: 1142px;
 }
+
 .linkedin-6 {
   width: 30px;
   height: 30px;
   margin: -15px 78px 227px 25.5px;
 }
-.purna{
+
+.purna {
   width: 107.5px;
   height: 100px;
 
-  margin: 315px 22.5px  195px 170px;
+  margin: 315px 22.5px 195px 170px;
   border-radius: 10px;
 }
+
 .Puranasree {
   width: 157px;
   height: 38px;
@@ -839,11 +903,13 @@ margin-left: 30px;
   text-align: left;
   color: #000;
 }
+
 .linkedin-5 {
   width: 30px;
   height: 30px;
   margin: -195px 127px 225px 19px;
 }
+
 .Ls {
   width: 266px;
   height: 53px;
@@ -859,15 +925,16 @@ margin-left: 30px;
   color: #000;
 }
 
-.tab_box{
- 
+.tab_box {
+
   display: flex;
   justify-content: space-around;
   align-items: center;
   border-bottom: 2px solid white;
   position: relative;
-  
+
 }
+
 .Line-6 {
   width: 1px;
   height: 161px;
@@ -876,177 +943,197 @@ margin-left: 30px;
   opacity: 0.7;
   background-color: #000;
 }
-.tab_box ,.tab_btn{
+
+.tab_box,
+.tab_btn {
   font-size: 19px;
   font-weight: 600;
-color:black;
+  color: black;
   background: none;
   border: none;
   padding: 17px;
   cursor: pointer;
 }
 
-.tab_box,.tab_btn.active{
+.tab_box,
+.tab_btn.active {
   color: #f8f4fb !important;
 }
 
-.content_box{
-  padding:20px;
+.content_box {
+  padding: 20px;
 }
-.content_box , .content h2{
-margin-bottom: 10px;
+
+.content_box,
+.content h2 {
+  margin-bottom: 10px;
 }
-.content_box ,.content{
+
+.content_box,
+.content {
   display: none;
-  }
-  .content_box ,.content.active{
-    display:block;
-    }
-   
-  .line {
-    width:142px;
-    height: 49px;
-    margin: -5px 150px 0 -35px;
-   
-    border-radius: 40px;
-    background-color: #000;
-position: absolute;
-top:1729px;
-left:-317px;
-transition: all .3s ease-in-out;
-  }
-  #Spotknack-Coins {
-    width: 271px;
-    height: 31px;
-    font-family: Poppins;
-    font-size: 20px;
-    font-weight: 600;
-    font-stretch: normal;
-    font-style: normal;
-    line-height: 1.55;
-    letter-spacing: normal;
-    text-align: left;
-    margin-left:190px;
-    color:#000 ;
-  }
-  
-  #Amazon-Gift-Card {
-    width: 291px;
-    height: 31px;
-    margin: 23px 0 24px -370px;
-    font-family: Poppins;
-    font-size: 20px;
-    font-weight: 600;
-    font-stretch: normal;
-    font-style: normal;
-    line-height: 1.55;
-    letter-spacing: normal;
-    text-align: left;
-   
-  }
-  .Harshavarthan-Maran {
-    width: 259px;
-    height: 20px;
-    flex-grow: 0;
-    margin: 4px 50px 5px 63px;
-    font-family: Inter;
-    font-size: 25px;
-    font-weight: 500;
-    font-stretch: normal;
-    font-style: normal;
-    line-height: 0.8;
-    letter-spacing: normal;
-    text-align: left;
-    color: #000;
-  }
-  .Front-End-Developer {
-    width: 136px;
-    height: 20px;
-    flex-grow: 0;
-    margin: 5px 173px 14px 63px;
-    font-family: Inter;
-    font-size: 14px;
-    font-weight: normal;
-    font-stretch: normal;
-    font-style: normal;
-    line-height: 1.43;
-    letter-spacing: normal;
-    text-align: left;
-    color: #000;
-  }
+}
+
+.content_box,
+.content.active {
+  display: block;
+}
+
+.line {
+  width: 142px;
+  height: 49px;
+  margin: -5px 150px 0 -35px;
+
+  border-radius: 40px;
+  background-color: #000;
+  position: absolute;
+  top: 1729px;
+  left: -317px;
+  transition: all .3s ease-in-out;
+}
+
+#Spotknack-Coins {
+  width: 271px;
+  height: 31px;
+  font-family: Poppins;
+  font-size: 20px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.55;
+  letter-spacing: normal;
+  text-align: left;
+  margin-left: 190px;
+  color: #000;
+}
+
+#Amazon-Gift-Card {
+  width: 291px;
+  height: 31px;
+  margin: 23px 0 24px -370px;
+  font-family: Poppins;
+  font-size: 20px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.55;
+  letter-spacing: normal;
+  text-align: left;
+
+}
+
+.Harshavarthan-Maran {
+  width: 259px;
+  height: 20px;
+  flex-grow: 0;
+  margin: 4px 50px 5px 63px;
+  font-family: Inter;
+  font-size: 25px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 0.8;
+  letter-spacing: normal;
+  text-align: left;
+  color: #000;
+}
+
+.Front-End-Developer {
+  width: 136px;
+  height: 20px;
+  flex-grow: 0;
+  margin: 5px 173px 14px 63px;
+  font-family: Inter;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.43;
+  letter-spacing: normal;
+  text-align: left;
+  color: #000;
+}
+
 .mobile {
-    width: 8px;
-    height: 31px;
-    flex-grow: 0;
-    margin: -40px 63px 22px 11px;
-    font-family: Poppins;
-    font-size: 20px;
-    font-weight: 600;
-    font-stretch: normal;
-    font-style: normal;
-    line-height: 1.55;
-    letter-spacing: normal;
-    text-align: left;
-    color: #000;
-  }
-  .Line-7 {
-    width: 748px;
-    height: 1px;
-    flex-grow: 0;
-    margin: 13px 0 0;
-    opacity: 0.5;
-    background-color: #000;
-  }
-  .match{
-    
-      width: 30px;
-      height: 30px;
-     
-    position:absolute;
-    margin-left: 440px;
-    margin-top: -20px;
-    padding-top: 30px;
-   
-  }
-  .nack{
-    width: 72px;
-    height: 30px;
-    flex-grow: 0;
-    margin: -70px 37px 13px 603px;
-    padding: 10px 22px 9px 20px;
-    opacity: 0.7;
-    border-radius: 30px;
-    background-color: #f5f5f5;
-  }
-  .pack {
-    width: 50px;
-    height: 31px;
-    flex-grow: 0;
-    font-family: Poppins;
-    font-size: 20px;
-    font-weight: 600;
-    font-stretch: normal;
-    font-style: normal;
-    line-height: 1.55;
-    letter-spacing: normal;
-    text-align: left;
-    color: #000;
-  }
-  .content_box{
-    position: relative;
-    margin-left: 364px;
-    margin-top: 26px;
-  }
-  .tv{
-    position: relative;
-    margin-top: 25px;
-  }
-  .minor {
-    width: 970px;
-    height: 98px;
-    margin: 35px 132px 20px 23.5px;
-    padding: 10px 149px 10px 15px;
-    opacity: 0.7;
-    border-radius: 40px;
-    background-color: #f5f5f5;
-  }
+  width: 8px;
+  height: 31px;
+  flex-grow: 0;
+  margin: -40px 63px 22px 11px;
+  font-family: Poppins;
+  font-size: 20px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.55;
+  letter-spacing: normal;
+  text-align: left;
+  color: #000;
+}
+
+.Line-7 {
+  width: 748px;
+  height: 1px;
+  flex-grow: 0;
+  margin: 13px 0 0;
+  opacity: 0.5;
+  background-color: #000;
+}
+
+.match {
+
+  width: 30px;
+  height: 30px;
+
+  position: absolute;
+  margin-left: 440px;
+  margin-top: -20px;
+  padding-top: 30px;
+
+}
+
+.nack {
+  width: 72px;
+  height: 30px;
+  flex-grow: 0;
+  margin: -70px 37px 13px 603px;
+  padding: 10px 22px 9px 20px;
+  opacity: 0.7;
+  border-radius: 30px;
+  background-color: #f5f5f5;
+}
+
+.pack {
+  width: 50px;
+  height: 31px;
+  flex-grow: 0;
+  font-family: Poppins;
+  font-size: 20px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.55;
+  letter-spacing: normal;
+  text-align: left;
+  color: #000;
+}
+
+.content_box {
+  position: relative;
+  margin-left: 364px;
+  margin-top: 26px;
+}
+
+.tv {
+  position: relative;
+  margin-top: 25px;
+}
+
+.minor {
+  width: 970px;
+  height: 98px;
+  margin: 35px 132px 20px 23.5px;
+  padding: 10px 149px 10px 15px;
+  opacity: 0.7;
+  border-radius: 40px;
+  background-color: #f5f5f5;
+}
