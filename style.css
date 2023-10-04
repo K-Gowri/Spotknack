@@ -189,3 +189,61 @@
     font-family: 'Inter', sans-serif;
     color: #fff;
 }
+
+/*Gift Card Earners*/
+.topperform4 {
+    border-radius: 15px;
+    background-color: #f90;
+    width: 459px;
+    height: 110px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15px;
+    margin-left: 490px;
+}
+
+.topperformname2 {
+    font-size: 20px;
+    font-weight: 500;
+    color: #000;
+    font-family: 'Inter', sans-serif;
+}
+
+.topperformopt2 {
+    font-size: 14px;
+    font-weight: 300;
+    color: #000;
+    font-family: 'Inter', sans-serif;
+}
+
+.count04 {
+    font-size: 20px;
+    font-weight: 500;
+    font-family: 'Inter', sans-serif;
+    color: #000;
+}
+
+.topperform5 {
+    border-radius: 15px;
+    background-color: #f90;
+    width: 459px;
+    height: 110px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15px;
+    margin-left: 246px;
+}
+
+.topperform6 {
+    border-radius: 15px;
+    background-color: #f90;
+    width: 459px;
+    height: 110px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15px;
+    margin-left: 30px;
+}
