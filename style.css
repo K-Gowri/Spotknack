@@ -316,3 +316,64 @@ td {
 .logodata {
     width: 203px;
 }
+
+/*What we are proud of*/
+.main-contain-07 {
+    margin-top: 90px;
+}
+
+.title02 {
+    font-size: 40px;
+    font-weight: 600;
+    font-family: 'Poppins', sans-serif;
+    margin-left: 90px;
+}
+
+.content06 {
+    font-size: 25px;
+    font-weight: normal;
+    font-family: 'Inter', sans-serif;
+    margin-left: 90px;
+}
+
+.image02 {
+    width: 107px;
+    border-radius: 10px;
+}
+
+.logo-06 {
+    width: 30px;
+    height: 30px;
+}
+
+.profile01 {
+    display: flex;
+    margin-left: 90px;
+}
+
+.profile02 {
+    display: flex;
+    margin-left: 200px;
+}
+
+.nameAndprofile {
+    display: flex;
+    flex-direction: column;
+    margin-left: 26px;
+}
+
+.Gowri-K {
+    font-size: 25px;
+    font-weight: 600;
+    font-family: 'Poppins', sans-serif;
+}
+
+.Kabilesh {
+    font-size: 25px;
+    font-weight: 600;
+    font-family: 'Poppins', sans-serif;
+}
+
+.profiles {
+    display: flex;
+}
