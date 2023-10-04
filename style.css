@@ -1,0 +1,24 @@
+.logo-01 {
+    width: 300px;
+    margin-top: 35px;
+    margin-left: 35px;
+}
+
+.nav-ele-01 {
+    font-size: 25px;
+    margin-top: 35px;
+    margin-left: 123px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.nav-ele-02,
+.nav-ele-03 {
+    font-size: 25px;
+    margin-top: 35px;
+    margin-left: 45px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.main-contain {
+    display: flex;
+}
