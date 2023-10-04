@@ -92,6 +92,7 @@
     width: 1px;
     height: 161px;
     background-color: #000;
+    opacity: 0.5;
 }
 
 /*Top performers*/
@@ -246,4 +247,72 @@
     align-items: center;
     margin-top: 15px;
     margin-left: 30px;
+}
+
+/*Table*/
+.main-contain-04 {
+    margin-top: 90px;
+}
+
+.title01 {
+    font-size: 40px;
+    font-weight: 600;
+    font-family: 'Poppins', sans-serif;
+    margin-left: 90px;
+}
+
+.logo-05 {
+    width: 25px;
+    height: 25px;
+}
+
+.tablecoin {
+    width: 92px;
+    height: 50px;
+    border-radius: 30px;
+    background-color: #f5f5f5;
+    font-size: 20px;
+    font-weight: 600;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+}
+
+.count05 {
+    font-size: 20px;
+    font-weight: 600;
+    font-family: 'Poppins', sans-serif;
+}
+
+#cointable {
+    border: #000 1px solid;
+    margin-left: 360px;
+}
+
+td {
+    font-family: 'Poppins', sans-serif;
+}
+
+.sino {
+    font-family: 'Poppins', sans-serif;
+    width: 40px;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.tableusername {
+    font-size: 25px;
+    font-weight: 500;
+}
+
+.tableuseropt {
+    font-size: 14px;
+
+}
+
+.nameoptdata {
+    width: 330px;
+}
+
+.logodata {
+    width: 203px;
 }
