@@ -1,3 +1,4 @@
+/*Nav bar*/
 .logo-01 {
     width: 300px;
     margin-top: 35px;
@@ -21,4 +22,79 @@
 
 .main-contain {
     display: flex;
+}
+
+/*Growth of students*/
+.main-contain-02 {
+    display: flex;
+    margin-top: 172px;
+}
+
+.sub-contain-01 {
+    display: flex;
+    flex-direction: column;
+}
+
+.sub-contain-02 {
+    display: flex;
+    margin-left: 108px;
+    justify-content: center;
+    align-items: center;
+}
+
+.content01 {
+    font-size: 60px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+}
+
+.content02 {
+    margin-top: 20px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    font-weight: normal;
+}
+
+.logo-02,
+.logo-03 {
+    width: 50px;
+}
+
+.count01,
+.count02 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 40px;
+    font-weight: 600;
+}
+
+.content03,
+.content04 {
+    font-size: 20px;
+    font-weight: normal;
+    font-family: 'Poppins', sans-serif;
+}
+
+.linkedin {
+    display: flex;
+    flex-direction: column;
+    margin-right: 50px;
+}
+
+.coinsearned {
+    display: flex;
+    flex-direction: column;
+    margin-left: 50px;
+}
+
+.line01 {
+    width: 1px;
+    height: 161px;
+    background-color: #000;
+}
+
+/*Top performers*/
+.content05 {
+    font-size: 40px;
+    font-weight: 600;
+    margin-left: 90px;
 }
