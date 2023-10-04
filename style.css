@@ -377,3 +377,21 @@ td {
 .profiles {
     display: flex;
 }
+
+/*Made By*/
+.final-msg {
+    font-size: 15px;
+    font-weight: normal;
+    font-family: 'Inter', sans-serif;
+}
+
+.heart {
+    color: red;
+}
+
+.main-contain-08 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+}
