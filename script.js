@@ -1,3 +1,4 @@
+document.getElementById("table1").defaultChecked;
 let cointabl = document.getElementById("cointable");
 let giftcardtabl = document.getElementById("giftcardtable");
 let swit1 = document.getElementById("switch1");

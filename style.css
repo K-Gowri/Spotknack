@@ -264,6 +264,10 @@
     flex-direction: column;
 }
 
+#giftcardtable {
+    display: none;
+}
+
 .line02 {
     opacity: 0.5;
     background-color: #000;
