@@ -17,17 +17,36 @@
         margin-top: 20px;
     }
 }
-@media only screen and (max-width:400px){
+@media only screen and (min-width:600px){
     .title03{
         
-        font-size:20px ;
+        font-size:30px ;
     }
     .content06{
-        font-size: 20px;
+        font-size: 25px;
     }
     .profiles{
       
         flex-direction: column;
+       
+
+    }
+    .profile02{
+        margin-left: 90px;
+        margin-top: 20px;
+    }
+}
+@media only screen and (min-width:768px){
+    .title03{
+        
+        font-size:30px ;
+    }
+    .content06{
+        font-size: 25px;
+    }
+    .profiles{
+      
+        flex-direction: row;
        
 
     }
