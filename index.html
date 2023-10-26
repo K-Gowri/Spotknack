@@ -9,11 +9,19 @@
   <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css2?family=Inter&display=swap" rel="stylesheet">
+  <script src="https://kit.fontawesome.com/c24ac3e4cb.js" crossorigin="anonymous"></script>
 </head>
 
 <body>
+ 
   <!--Nav bar-->
+  <nav>
+    <div class="toggle">
+      <i class="fa-solid fa-bars menu" aria-hidden="true"></i>
+    </div>
+ 
   <div class="main-contain">
+    
     <img class="logo-01" src="Images/growth and opportunity/Spotknack logo.png" alt="logo">
     <span class="nav-ele-01">
       Top Performers
@@ -24,13 +32,9 @@
     <span class="nav-ele-03">
       Proofs
     </span>
-    <div class="menu">
-      <span class="menu-line"></span>
-      <span class="menu-line"></span>
-      <span class="menu-line"></span>
-    </div>
+ 
   </div>
-
+</nav>
   <!--Growth of students-->
   <div class="main-contain-02">
 
@@ -565,8 +569,15 @@
     <p class="final-msg">Build With <span class="heart">&#10084;</span> by Spotknack Students</p>
   </div>
 
-  <script type="text/javascript" src="script.js">
-  </script>
+  <script src="https://code.jquery.com/jquery-3.7.1.js"></script>
+<script type="text/javascript">
+  $(document).ready(function(){
+    $('.menu').click(function(){
+      $('nav-ele').toggleclass('active');
+    })
+  })
+</script>
+
 </body>
 
 </html>

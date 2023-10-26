@@ -668,3 +668,27 @@ td {
     background-color: #000;
     margin-left: 745px;
 }
+.toggle{
+    width:100%;
+    padding: 10px 20px;
+    color: #030303;
+    box-sizing: border-box;
+ text-align: right;
+ font-size: 30px;
+ display: none;
+}
+@media only screen and (max-width:768px){
+    .toggle{
+        display: block;
+    }
+    .nav-ele{
+        width:100%;
+    }
+    .nav-ele{
+        display: block;
+        text-align: center;
+    }
+    .active{
+        display: block;
+    }
+}
